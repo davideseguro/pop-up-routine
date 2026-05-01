@@ -77,12 +77,16 @@ run_weekly.py orchestriert die obige Kette und ueberschreibt
   niemals einen Link anklicken, dessen Linktext nicht der URL entspricht.
 - Linktext = vollständige URL überall in der Mail (kein Spoofing möglich)
 
-## Aktueller Status
+## Aktueller Status (Stand 2026-05-01)
 
-- Gesamte Pipeline implementiert und manuell getestet
+- Gesamte Pipeline implementiert
 - Test-Versand an david.dauwalder@fhnw.ch erfolgreich
-- Baseline mit dem 2026-04-30-Scrape (86 Events) initialisiert
-- Task Scheduler: Setup-Skript `install_task.ps1` vorhanden, einmalig vom User auszuführen
+- **Hosting: GitHub Actions (Cloud)** — vollautomatisch ohne lokalen Rechner
+- GitHub-Repo: https://github.com/davideseguro/pop-up-routine (privat)
+- Erster Cloud-Lauf erfolgreich am 2026-05-01: 93 Events, 0 neue, korrekt keine Mail
+- Trigger: jeden Mittwoch 10:00 Schweiz Zeit (08:00 UTC Sommer / 09:00 UTC Winter, mit DST-Guard)
+- Erster echter Lauf: Mittwoch 2026-05-06 10:00
+- Lokaler Task Scheduler vorhanden aber nicht installiert (war Plan B, jetzt obsolet durch Cloud)
 
 ## Wichtige Design-Entscheidungen
 
