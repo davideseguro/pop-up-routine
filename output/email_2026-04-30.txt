@@ -1,0 +1,402 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-04-30
+86 neue Events, davon 43 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (43) ===
+
+- Geomatik-Frühlings-Kolloquium | Sichere Einkommen für Flüchtlinge dank Geodaten-basiertem Landmanagement – ein Fallbeispiel aus Rwanda
+  Score 72: Das Geomatik-Frühlings-Kolloquium ist eine Fachveranstaltung mit explizitem Austauschformat zu aktuellen Projekten und Trends, die Networking zwischen Forschenden und Fachleuten ermöglicht, auch wenn der thematische Fokus auf Geomatik/Landmanagement nicht direkt den bevorzugten Themen entspricht.
+  5.5.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/geomatik-fruehlings-kolloquium
+
+- Zero Emission. konkret – Spotlight | Baustelle Ressourcenwende
+  Score 82: Ringvorlesung zu Ressourcenwende und Klimaneutralität passt thematisch sehr gut zum Zero-Emission-Schwerpunkt, jedoch ist das Format einer einstündigen Vorlesung primär informativ und bietet nur begrenzten Networking-Charakter.
+  5.5.2026 | Brugg-Windisch | Zero Emission | EVENTREIHE
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/zero-emission-konkret
+
+- Perspektivenwechsel: Es ist alles eine Frage des Blickwinkels | Wieviel Zukunft brauchen wir? Zum Umgang mit Trends, Hypothesen & Utopien.
+  Score 72: Öffentliche Ringvorlesung zu Zukunftsfragen und Perspektivenwechsel mit diskursivem Format, das Networking ermöglicht – Teil einer bekannten Vorlesungsreihe (Kalibrierungsbeispiel), jedoch thematisch keinem der bevorzugten Kernthemen direkt zuzuordnen.
+  5.5.2026 | Olten | Bildung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/ringvorlesung-olten
+
+- Forschungsseminar: Vortrag von Thomas Landolt | 6. Mai
+  Score 72: Forschungsseminar mit externem Referenten (CEO QuantumBasel AG) zu KI und Produktivität ermöglicht Informationsaustausch zwischen Forschung und Industrie und entspricht dem Format der bekannten Treffer-Kategorie 'Forschungsseminar'.
+  6.5.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/waiting-for-the-revolution-from-the-ai-producitivity-paradox-to-future-impact
+
+- Netzwerktreffen PICTS-net
+  Score 72: Das Netzwerktreffen PICTS-net erfüllt das harte Kriterium klar: expliziter Austausch- und Networking-Fokus ('Aktuell bleiben. Sich austauschen. Gemeinsam gestalten.'), jedoch ist das thematische Profil (Bildungs-/ICT-Netzwerk im pädagogischen Kontext) nur peripher relevant für die bevorzugten Themen des Nutzers.
+  6.5.2026 | Brugg-Windisch | Networking | EVENTREIHE
+  Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/netzwerktreffen-picts-net-2026
+
+- Vierter internationaler FHNW Rover Träff | FHNW Rover Träff
+  Score 72: Der FHNW Rover Träff ist ein bekanntes Beispiel-Treffer-Event mit Networking-Potenzial zwischen Forschenden, Industrie und Studierenden im Bereich Weltraum-Robotik, auch wenn der Fokus stark auf studentischen Demonstrationen liegt.
+  9.5.2026 | Windisch | Robotik/Tech | EVENTREIHE
+  Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/fhnw-rover-traeff-2026
+
+- FHNW Robot Day 2026 | FHNW Robot Day 2026
+  Score 62: Der FHNW Robot Day präsentiert Robotik-Projekte von Studierenden und entspricht dem bekannten Beispiel-Treffer 'Robot Day', erfüllt jedoch das harte Kriterium nur bedingt, da der Fokus auf Studierenden-Leistungsschau liegt und Networking zwischen verschiedenen Akteuren nicht explizit ausgewiesen ist.
+  9.5.2026 | Windisch | Robotik/Tech | EVENTREIHE
+  Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/fhnw-robot-day-2026
+
+- Psychologie kompakt – online | Nudging und Gamification: Anwendungen, Potenziale und Grenzen
+  Score 72: Ringvorlesung mit Forschungsthema (Nudging/Gamification in Wirtschaft & Arbeit) erfüllt das harte Kriterium als offenes Informations- und Austauschformat und berührt das weiche Kriterium 'New Work/Arbeitswelt'.
+  12.5.2026 | Online | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/psychologie/aktuelles/veranstaltungen/alle/psychologie-kompakt-online
+
+- Forschungsseminar: Vortrag von Dr. sc. Andri Färber | 13. Mai
+  Score 72: Forschungsseminar zu Digital Therapeutics erfüllt das harte Kriterium (Informationsaustausch zwischen Forschenden und Industrie/Praxis) und trifft das weiche Themenkriterium Future Health/Digital Health.
+  13.5.2026 | Muttenz | Future Health | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/challenges-in-establishing-digital-therapeutics-dtx-in-switzerland
+
+- Abendreihe Angewandte Psychologie | KI-unterstütztes Lernen in der Arbeitswelt
+  Score 72: Diese Ringvorlesung (bekannter Beispiel-Treffer) behandelt KI-unterstütztes Lernen in der Arbeitswelt und ermöglicht als öffentliches Abendformat Networking und Informationsaustausch zu einem thematisch relevanten New-Work-Thema.
+  19.5.2026 | Olten | New Work | EVENTREIHE
+  Link: https://www.fhnw.ch/de/psychologie/aktuelles/veranstaltungen/alle/abendreihe-angewandte-psychologie
+
+- colloquium48 | Gender Balance Series 3
+  Score 72: Das colloquium48 ist eine Ringvorlesung-Reihe, die explizit Forschenden und Forschungsinteressierten eine Austauschplattform bietet und damit das harte Networking-Kriterium erfüllt, jedoch keines der bevorzugten Themen (Zero Emission, Future Health, New Work) abdeckt.
+  19.5.2026 | Basel | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/forschung-am-dienstag
+
+- Forschungsseminar: Vortrag von Thomas Gross | 20. Mai
+  Score 72: Forschungsseminar mit thematischem Fokus auf Kreislaufwirtschaft und Biowaste-Ressourcenrückgewinnung erfüllt das harte Kriterium (Informationsaustausch im Forschungskontext) und passt gut zum weichen Kriterium Zero Emission/Nachhaltigkeit.
+  20.5.2026 | Muttenz | Zero Emission | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/recovery-of-resources-from-biowaste-to-advance-circular-economies-mapping-potential-supply-demand-and-flows-in-india
+
+- Netzwelten bauen – Abendanlass an der PH FHNW | Erster Anlass
+  Score 62: Abendanlass mit Networking-Potenzial zu innovativer Schulraumgestaltung und Bewegtem Lernen, thematisch nah an New Work/Lernen, jedoch eher auf Bildungspraxis als auf breiten Akteursaustausch ausgerichtet.
+  20.5.2026 | Brugg-Windisch | New Work | EVENTREIHE
+  Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/netzwelten-bauen-abendanlass-brugg-windisch
+
+- New Work.konkret | Starke Teams in unsicheren Zeiten – Teamresilienz gezielt fördern
+  Score 82: Ringvorlesung zu Teamresilienz und Führung im Kontext New Work ermöglicht Informationsaustausch und trifft das weiche Kriterium Arbeitswelt/Leadership direkt.
+  20.5.2026 | Olten | New Work | EVENTREIHE
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/new-work-konkret
+
+- Bauphysik-Apéro FHNW 2026
+  Score 72: Der Bauphysik-Apéro ist ein etabliertes Fachforum mit Networking-Charakter (inkl. Apéro) für Fachkräfte aus Architektur, Ingenieurwesen und Baugewerbe und entspricht dem bekannten Beispiel-Treffer 'Bauphysik Apero'.
+  21.5.2026 | Zürich | Networking | EVENTREIHE
+  Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/bauphysikapero
+
+- Forschungsseminar: Vortrag von Dr.-Ing. Benedikt Aumeier | 27. Mai
+  Score 72: Forschungsseminar mit externem Referenten zu Adsorptionstechnologie und Wasserwiederverwendung – ermöglicht fachlichen Austausch zwischen Forschenden und passt thematisch zur Nachhaltigkeits-/Umwelttechnik-Dimension, auch wenn das Networking-Potenzial bei einem 45-minütigen Mittagsvortrag begrenzt ist.
+  27.5.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/ddsorption-technology-and-water-reuse
+
+- Forschungsseminar: Vortrag von Dr. James Hunter | 3. Juni
+  Score 72: Wissenschaftliches Forschungsseminar mit externem Referenten aus der Industrie (Roche) zu Drug Discovery – ermöglicht Wissensaustausch zwischen Forschung und Industrie und passt thematisch zu Future Health/Medizintechnik.
+  3.6.2026 | Muttenz | Future Health | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/harnessing-dna-encoded-technologies-for-small-molecule-drug-discovery
+
+- Regionales Netzwerktreffen 2026 «Raus!» – draussen lernen
+  Score 72: Regionales Netzwerktreffen mit explizitem Austausch- und Vernetzungsformat für verschiedene Akteure rund um das Thema Draussen lernen – erfüllt das harte Kriterium, thematisch randständig zu den bevorzugten Themen.
+  3.6.2026 | Tagung/Konferenz
+  Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/regionales-netzwerktreffen-2026-raus-draussen-lernen
+
+- 26. Internationale Migrationskonferenz – «Mapping Participation»
+  Score 72: Internationale Fachtagung mit klarem Austauschformat zwischen Forschenden und weiteren Akteuren (Migration/Partizipation), erfüllt das harte Networking-Kriterium, thematisch jedoch keiner der bevorzugten Schwerpunkte.
+  10.6.2026 | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/26-internationale-migrationskonferenz-mapping-participation
+
+- Forschungsseminar: Vortrag von Petra Eckert und Valérie Andres | 10. Juni
+  Score 62: Forschungsseminar mit Informationsaustausch für Forschende zu LinkedIn/Social Media erfüllt das harte Kriterium (Networking-Format für Forschende), thematisch jedoch kein direkter Bezug zu den bevorzugten Themen.
+  10.6.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/from-profile-to-presence-linkedin-social-media-for-researchers
+
+- 14. Fachtagung Klinische Soziale Arbeit
+  Score 72: Zweitägige Fachtagung mit thematischem Fokus auf Klinischer Sozialer Arbeit und digitalem Wandel, die Networking und Wissensaustausch zwischen Fachpersonen ermöglicht und damit das harte Kriterium erfüllt.
+  11.6.2026 | Olten | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/14-fachtagung-klinische-soziale-arbeit
+
+- Open VDC Factory | Open VDC Factory 2026
+  Score 72: Fachtagung zur digitalen Baustelle der Zukunft (VDC/BIM) mit Diskussionsformat, die einen Austausch zwischen Forschung, Industrie und Praxis ermöglicht – thematisch nahe an Digitalisierung/Tech, jedoch nicht direkt in den bevorzugten Themenbereichen.
+  11.6.2026 | Muttenz | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/open-vdc-factory-2026
+
+- Go Circular in Life Science Jahresveranstaltung 2026
+  Score 95: Jahrestagung mit explizitem Fokus auf Kreislaufwirtschaft in den Life Sciences, die Wissensaustausch und Vernetzung zwischen verschiedenen Akteuren als Kernformate ausweist – trifft hartes Kriterium und weiches Themenkriterium.
+  22.6.2026 | Muttenz | Zero Emission | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/go-circular-in-life-science-jahresveranstaltung-2026
+
+- Swiss China Update 2026: Hochtechnologie China und Europa: Wo steht China wirklich?
+  Score 72: Tagungsformat mit Networking-Potenzial zwischen Forschenden, Wirtschaft und Industrie zu technologiepolitischen Fragen zwischen China und Europa – thematisch nicht direkt in den bevorzugten Bereichen, aber klar als Austausch-Event konzipiert.
+  24.6.2026 | Olten | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/swiss-china-update-2026
+
+- Society 5.0 | Juni 2026
+  Score 72: Internationale Konferenz zu Society 5.0 (Verschmelzung von Cyber- und physischem Raum für nachhaltige Lösungen) erfüllt das Networking-Kriterium und berührt Nachhaltigkeits- sowie New-Work-Themen, findet jedoch in Südafrika statt, was die Relevanz für FHNW-Forschende einschränkt.
+  28.6.2026 | Tagung/Konferenz
+  Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/society-5-0
+
+- brenet Status-Seminar - Gebäude: Vom Energieverbraucher zum Porsumer
+  Score 82: Fachtagung zu Gebäuden als Energieproduzenten (Prosumer) mit klarem Nachhaltigkeits-/Energiebezug und Kongressformat, das Networking zwischen Forschung und Praxis ermöglicht.
+  20.8.2026 | Zero Emission | EVENTREIHE
+  Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/brenet-status-seminar-20-august-2026
+
+- Swiss Digital Leadership Forum 2026 | 31. August 2026
+  Score 82: Tagung mit Workshops, Vorträgen und Diskussionen zu digitaler Führung und Transformation ermöglicht Networking zwischen verschiedenen Akteuren und deckt das weiche Kriterium New Work/Leadership ab.
+  31.8.2026 | Olten | New Work
+  Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/swiss-digital-leadership-forum
+
+- 14. Schweizer Kongress für Heilpädagogik
+  Score 72: Nationaler Fachkongress mit Austausch zwischen Forschenden, Praxis und Bildungsakteuren zu inklusiver Schule – erfüllt das Networking-Kriterium, thematisch im Bereich Bildung/New Work randständig relevant.
+  1.9.2026 | Brugg-Windisch | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/14-schweizer-kongress-fuer-heilpaedagogik
+
+- Schweizer Kongress zur Begabungs- und Begabtenförderung
+  Score 62: Nationaler Fachkongress mit Networking-Potenzial zwischen Forschenden, Lehrpersonen und Bildungsakteuren; Thema Bildung/Future Skills berührt das weiche Kriterium 'New Work/Lernen' randständig.
+  3.9.2026 | Muttenz | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/schweizer-kongress-zur-begabungs-und-begabtenfoerderung
+
+- Schweizerische Konferenz für Technik und Umwelt | Schweizerische Konferenz für Technik und Umwelt SKTU
+  Score 95: Nationale Konferenz, die explizit Akteure aus Industrie, Forschung und Politik zum Austausch über Energie-, Ressourcen- und Umweltfragen zusammenbringt – trifft das harte Networking-Kriterium und das weiche Thema Zero Emission/Nachhaltigkeit optimal.
+  9.9.2026 | Brugg-Windisch | Tagung/Konferenz
+  Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/schweizerische_konferenz_fuer_technik_und_umwelt
+
+- 8. Internationale Tagung Soziale Arbeit und Stadtentwicklung
+  Score 88: Internationale Tagung mit explizitem Networking- und Austauschformat zwischen Forschenden, Praxis und Zivilgesellschaft zu Klimagerechtigkeit und Stadtentwicklung – thematisch nah an Zero Emission/Nachhaltigkeit.
+  10.9.2026 | Muttenz | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/tagung-soziale-arbeit-und-stadtentwicklung
+
+- E-Commerce Best Practice Day 2026 | 10. September 2026
+  Score 62: Fachkonferenz mit Networking-Potenzial zwischen Praktikern und Forschenden, jedoch kein direkter Bezug zu den bevorzugten Themen (Zero Emission, Future Health, New Work).
+  10.9.2026 | Brugg-Windisch | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/e-commerce-best-practice-day
+
+- 6th International Scientific Practical Conference (ISPC 2026)
+  Score 72: Internationale Fachkonferenz zu Digitalisierung und KI in Wirtschaft, Management und Bildung, die Networking und Wissensaustausch zwischen verschiedenen Akteuren ermöglicht und thematisch an New Work/Lernen angrenzt.
+  10.9.2026 | Brugg-Windisch | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/ispc-2026
+
+- Coaching Perspectives 2026
+  Score 72: Fachtagung zu Coaching und KI ermöglicht Networking und Wissensaustausch zwischen Forschenden und Praktikern, thematisch angrenzend an New Work/Lernen/Leadership.
+  17.9.2026 | Zürich | Tagung/Konferenz
+  Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/coaching-perspectives-2026
+
+- Seminarreihe Forum Geotechnik FHNW | September
+  Score 62: Regelmässige Fachseminarreihe zu Geotechnik mit hybridem Format, die Networking und Informationsaustausch zwischen Fachleuten ermöglicht, jedoch kein Schwerpunkt auf den bevorzugten Themen (Nachhaltigkeit, Health, New Work).
+  30.9.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/forum-geotechnik-fhnw
+
+- SPICA 2026
+  Score 62: Internationales wissenschaftliches Symposium mit Networking-Potenzial zwischen Forschenden und Industrie, jedoch kein direkter Bezug zu den bevorzugten Themen des Nutzerprofils.
+  13.10.2026 | Muttenz | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/spica-2026
+
+- Bauleitungsapéro FHNW 2026
+  Score 72: Der Bauleitungsapéro ist ein fachspezifisches Networking-Event im Bau-/Architekturbereich mit Apéro-Format, das den Austausch zwischen Fachleuten aus Praxis und Hochschule ermöglicht – ähnlich wie der Bauphysik Apero als bekannter Treffer.
+  20.10.2026 | Olten | Networking | EVENTREIHE
+  Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/bauleitungsapero
+
+- Gesunde Lernende – starke Zukunft: Gesundheit als Schlüssel in der Berufsbildung | 26.10.2026
+  Score 72: Fachtagung mit Austauschformat zu Gesundheit in der Berufsbildung, die verschiedene Akteure (Forschung, Praxis, Bildungsinstitutionen) vernetzt und thematisch an New Work/Lernen angrenzt.
+  26.10.2026 | Olten | Tagung/Konferenz
+  Link: https://www.fhnw.ch/de/psychologie/aktuelles/veranstaltungen/alle/gesunde-lernende-starke-zukunft
+
+- Vernetzungsanlass BNE
+  Score 72: Vernetzungsanlass zu Bildung für Nachhaltige Entwicklung mit explizitem Networking-Format zwischen verschiedenen Akteuren, thematisch an der Schnittfläche von Nachhaltigkeit und Bildung.
+  4.11.2026 | Brugg-Windisch | Tagung/Konferenz
+  Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/vernetzungsanlass-bne
+
+- Fachtagung: Traumasensibilität in Beratung und Supervision
+  Score 62: Fachtagung mit Austauschformat erfüllt das harte Kriterium als Networking-Event für Fachpersonen aus Beratung und Supervision, thematisch jedoch kein direkter Bezug zu den bevorzugten Themenfeldern.
+  6.11.2026 | Brugg-Windisch | Tagung/Konferenz
+  Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/fachtagung-traumasensibilitaet-in-beratung-und-supervision
+
+- 10. Oltner Verschuldungstage
+  Score 72: Fachtagung mit Austausch zwischen verschiedenen Akteuren zu Verschuldung und Gesundheit erfüllt das harte Networking-Kriterium, thematisch nur teilweise relevant (Future Health-Bezug durch Gesundheitsaspekt).
+  12.11.2026 | Olten | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/10-oltner-verschuldungstage
+
+- Animal-Computer Interaction Conference | 2. - 5. Dezember 2026
+  Score 62: Internationale Fachtagung mit Networking-Potenzial für Forschende, jedoch kein direkter Bezug zu den bevorzugten Themen Zero Emission, Future Health oder New Work.
+  2.12.2026 | Brugg-Windisch | Tagung/Konferenz
+  Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/animal-computer-interaction-conference
+
+- Tagung Gruppendynamik & Soziale Arbeit
+  Score 72: Zweitägige Fachtagung mit Austauschformat zwischen Forschenden und Praktikern der Sozialen Arbeit – erfüllt das harte Networking-Kriterium, thematisch aber keinem der bevorzugten Themenfelder direkt zugeordnet.
+  28.1.2027 | Muttenz | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/tagung-gruppendynamik-soziale-arbeit
+
+=== ALLE 86 NEUEN EVENTS ===
+
+  1.   Ausstellung zum 50-Jahre-Jubiläum des Elektronischen Studios Basel – in Kooperation mit der HGK Basel | 26.3.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/ausstellung-zum-50-jahre-jubilaeum-des-elektronischen-studio-basel-in-kooperation-mit-der-hgk-basel
+  2.   Ausstellung "Klanglinien - 50 Jahre Elektronisches Studio Basel" | Temporäre Ausstellung | 27.3.2026 | Basel
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/ausstellung_klanglinien_50-jahre-esb
+  3.   Lithiumbäder und Glühbirnen: eine spekulative Ausstellung von Anastasia Kubrak in Baden | 29.3.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/lithiumbaeder-und-gluehbirnen-eine-spekulative-ausstellung-von-anastasia-kubrak-in-baden
+  4.   Zotero @ Noon | Einführung zur Literaturverwaltung mit Zotero | 31.3.2026 | Online
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/zotero%20at%20noo
+  5.   Rhein rüber: Ausstellung von Thea Josepha Konatsu von der HGK Basel im Kunstraum DOCK | 30.4.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/rhein-rueber-ausstellung-von-thea-josepha-konatsu-von-der-hgk-basel-im-kunstraum-dock
+  6. * Geomatik-Frühlings-Kolloquium | Sichere Einkommen für Flüchtlinge dank Geodaten-basiertem Landmanagement – ein Fallbeispiel aus Rwanda | 5.5.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/geomatik-fruehlings-kolloquium
+  7. * Zero Emission. konkret – Spotlight | Baustelle Ressourcenwende | 5.5.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/zero-emission-konkret
+  8. * Perspektivenwechsel: Es ist alles eine Frage des Blickwinkels | Wieviel Zukunft brauchen wir? Zum Umgang mit Trends, Hypothesen & Utopien. | 5.5.2026 | Olten
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/ringvorlesung-olten
+  9. * Forschungsseminar: Vortrag von Thomas Landolt | 6. Mai | 6.5.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/waiting-for-the-revolution-from-the-ai-producitivity-paradox-to-future-impact
+ 10.   Im Fokus Tagung 2026: Übergänge | 6.5.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/im-fokus-tagung-2026-uebergaenge
+ 11. * Netzwerktreffen PICTS-net | 6.5.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/netzwerktreffen-picts-net-2026
+ 12.   FHNW Kinderhochschule | ImproKids! | 6.5.2026 | Basel
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/kinderhochschule
+ 13.   Design Talks an der HGK Basel | 7.5.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/design-talks-an-der-hgk-basel
+ 14.   3. Musikpädagogische Forschungstagung | 8.5.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/3-musikpaedagogische-forschungstagung
+ 15. * Vierter internationaler FHNW Rover Träff | FHNW Rover Träff | 9.5.2026 | Windisch
+      Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/fhnw-rover-traeff-2026
+ 16. * FHNW Robot Day 2026 | FHNW Robot Day 2026 | 9.5.2026 | Windisch
+      Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/fhnw-robot-day-2026
+ 17.   A policymaker's view on the Japanese banking sector | Mai 2026 | 11.5.2026 | Online
+      Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/asset-liability-talk-11-5-2026
+ 18.   Terrain 088: Judith Raum über die textilen Visionen des Bauhauses | 11.5.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/terrain-088-judith-raum-ueber-die-textilen-visionen-des-bauhauses
+ 19. * Psychologie kompakt – online | Nudging und Gamification: Anwendungen, Potenziale und Grenzen | 12.5.2026 | Online
+      Link: https://www.fhnw.ch/de/psychologie/aktuelles/veranstaltungen/alle/psychologie-kompakt-online
+ 20.   Ableismus verlernen – Benachteiligung von Menschen mit Behinderungen an Schule und Hochschule | 12.5.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/ableismus-verlernen-benachteiligung-von-menschen-mit-behinderungen-an-schule-und-hochschule
+ 21.   Bibliothek FHNW. Im Fokus | KI-Inhalte korrekt zitieren | 13.5.2026 | Online
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/bibliothek-fhnw-im-fokus
+ 22. * Forschungsseminar: Vortrag von Dr. sc. Andri Färber | 13. Mai | 13.5.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/challenges-in-establishing-digital-therapeutics-dtx-in-switzerland
+ 23. * Abendreihe Angewandte Psychologie | KI-unterstütztes Lernen in der Arbeitswelt | 19.5.2026 | Olten
+      Link: https://www.fhnw.ch/de/psychologie/aktuelles/veranstaltungen/alle/abendreihe-angewandte-psychologie
+ 24. * colloquium48 | Gender Balance Series 3 | 19.5.2026 | Basel
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/forschung-am-dienstag
+ 25.   ‹A Room of One’s Own› | 19.5.2026 | Basel
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/vortrag-ein-haus-19-05-2026
+ 26. * Forschungsseminar: Vortrag von Thomas Gross | 20. Mai | 20.5.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/recovery-of-resources-from-biowaste-to-advance-circular-economies-mapping-potential-supply-demand-and-flows-in-india
+ 27. * Netzwelten bauen – Abendanlass an der PH FHNW | Erster Anlass | 20.5.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/netzwelten-bauen-abendanlass-brugg-windisch
+ 28. * New Work.konkret | Starke Teams in unsicheren Zeiten – Teamresilienz gezielt fördern | 20.5.2026 | Olten
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/new-work-konkret
+ 29.   Art in Conflict: Unsichtbare Geschichten sichtbar machen – Das filmische Schaffen von Nicole Vögele | 20.5.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/art-in-conflict-unsichtbare-geschichten-sichtbar-machen-das-filmische-schaffen-von-nicole-voegele
+ 30.   Grosse Bühne! | 1. Schlusskonzert | 20.5.2026 | Basel
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/schlusskonzerte
+ 31.   Art Taaalkssss: Alice Bucknell | 21.5.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/art-taaalkssss-alice-bucknell
+ 32. * Bauphysik-Apéro FHNW 2026 | 21.5.2026 | Zürich
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/bauphysikapero
+ 33.   WIngWOMEN - Resilienz: Stärke im Alltag und in schwierigen Momenten | WIngWOMEN Event 21.5.2026 | 21.5.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/wingwomen-resilienz-2026
+ 34.   Josefa Lüscher an der Fashion Award Show Un-Dress 2026 in St. Gallen | 22.5.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/josefa-luescher-an-der-fashion-award-show-un-dress-2026-in-stgallen
+ 35.   Pets, Animals & Therians (Arbeitstitel) | 26.5.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/pets-animals-therians-arbeitstitel
+ 36.   The Political Dimension of Language: Frühlingssymposium des Institute Art Gender Nature (IAGN) | 27.5.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/the-political-dimension-of-language-fruehlingssymposium-des-institute-art-gender-nature
+ 37. * Forschungsseminar: Vortrag von Dr.-Ing. Benedikt Aumeier | 27. Mai | 27.5.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/ddsorption-technology-and-water-reuse
+ 38.   Sincerely kuratiert Ausstellung mit im Atelier Mondial residierenden Künstler:innen | 27.5.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/sincerely-kuratiert-ausstellung-mit-im-atelier-mondial-residierenden-kuenstler-innen
+ 39.   2. Treffpunkt Leichte Sprache | 27.5.2026 | Olten
+      Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/2-treffpunkt-leichte-sprache
+ 40.   Open Mic | Sing your song and tell your story! | 27.5.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/open-mic
+ 41.   ‹Einfach Bauen› | 27.5.2026 | Basel
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/vortrag-ein-haus-27-05-2026
+ 42.   HPC Lab Eröffnung | 28.5.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/informatik/aktuelles/veranstaltungen/alle/hpc-lab-eroeffnung
+ 43.   FHNW Campus Muttenz: Tag der offenen Tür 2026 | 30.5.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/tag-der-offenen-tuer-muttenz-2026
+ 44.   ATTACCA - Festival für aktuelle Musik | 2026 | 30.5.2026 | Basel
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/attacca
+ 45.   Impact in der Beratung – was wirkt wirklich? | 1. Juni 2026 | 1.6.2026 | Olten
+      Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/impact-in-der-beratung-was-wirkt-wirklich
+ 46. * Forschungsseminar: Vortrag von Dr. James Hunter | 3. Juni | 3.6.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/harnessing-dna-encoded-technologies-for-small-molecule-drug-discovery
+ 47. * Regionales Netzwerktreffen 2026 «Raus!» – draussen lernen | 3.6.2026 | 
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/regionales-netzwerktreffen-2026-raus-draussen-lernen
+ 48.   SUPERSIECH | 3.6.2026 | Solothurn
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/supersiech
+ 49. * 26. Internationale Migrationskonferenz – «Mapping Participation» | 10.6.2026 | 
+      Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/26-internationale-migrationskonferenz-mapping-participation
+ 50. * Forschungsseminar: Vortrag von Petra Eckert und Valérie Andres | 10. Juni | 10.6.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/from-profile-to-presence-linkedin-social-media-for-researchers
+ 51.   Masterclass – Praxisgerechtes Anforderungsmanagement mit IDM und IDS | 11.6.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/masterclass-praxisgerechtes-anforderungsmanagement
+ 52. * 14. Fachtagung Klinische Soziale Arbeit | 11.6.2026 | Olten
+      Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/14-fachtagung-klinische-soziale-arbeit
+ 53. * Open VDC Factory | Open VDC Factory 2026 | 11.6.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/open-vdc-factory-2026
+ 54.   Erlebnissamstag Psychologie | 13.6.2026 | 13.6.2026 | Olten
+      Link: https://www.fhnw.ch/de/psychologie/aktuelles/veranstaltungen/alle/erlebnissamstag-psychologie
+ 55.   MasterForum Sommer 2026 & GeoForum 2026 | 16.6.2026 | 
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/masterforum-sommer-2026-geoforum-2026
+ 56. * Go Circular in Life Science Jahresveranstaltung 2026 | 22.6.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/go-circular-in-life-science-jahresveranstaltung-2026
+ 57.   Discover MedTech – dein Weg in die Medizintechnik | 23. Juni 2026 | 23.6.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/discover-medtech-dein-weg-in-die-medizintechnik
+ 58. * Swiss China Update 2026: Hochtechnologie China und Europa: Wo steht China wirklich? | 24.6.2026 | Olten
+      Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/swiss-china-update-2026
+ 59. * Society 5.0 | Juni 2026 | 28.6.2026 | 
+      Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/society-5-0
+ 60.   Geomatik Summer School | 5.8.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/geomatik-summer-school
+ 61. * brenet Status-Seminar - Gebäude: Vom Energieverbraucher zum Porsumer | 20.8.2026 | 
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/brenet-status-seminar-20-august-2026
+ 62.   NMG-Forum 2026 | Tagung | 28.8.2026 | Olten
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/nmg-unterricht-im-zyklus-1-perspektiven-fuer-eine-zukunftsorientierte-bildung
+ 63. * Swiss Digital Leadership Forum 2026 | 31. August 2026 | 31.8.2026 | Olten
+      Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/swiss-digital-leadership-forum
+ 64. * 14. Schweizer Kongress für Heilpädagogik | 1.9.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/14-schweizer-kongress-fuer-heilpaedagogik
+ 65. * Schweizer Kongress zur Begabungs- und Begabtenförderung | 3.9.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/schweizer-kongress-zur-begabungs-und-begabtenfoerderung
+ 66. * Schweizerische Konferenz für Technik und Umwelt | Schweizerische Konferenz für Technik und Umwelt SKTU | 9.9.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/schweizerische_konferenz_fuer_technik_und_umwelt
+ 67. * 8. Internationale Tagung Soziale Arbeit und Stadtentwicklung | 10.9.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/tagung-soziale-arbeit-und-stadtentwicklung
+ 68. * E-Commerce Best Practice Day 2026 | 10. September 2026 | 10.9.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/e-commerce-best-practice-day
+ 69. * 6th International Scientific Practical Conference (ISPC 2026) | 10.9.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/ispc-2026
+ 70.   Netzwerk Musikunterricht: Tagung 2026 | 12.9.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/netzwerk-musikunterricht-tagung-2026
+ 71. * Coaching Perspectives 2026 | 17.9.2026 | Zürich
+      Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/coaching-perspectives-2026
+ 72. * Seminarreihe Forum Geotechnik FHNW | September | 30.9.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/forum-geotechnik-fhnw
+ 73. * SPICA 2026 | 13.10.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/spica-2026
+ 74. * Bauleitungsapéro FHNW 2026 | 20.10.2026 | Olten
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/bauleitungsapero
+ 75.   Lange Nacht der Karriere 2026 | 22. Oktober 2026 | 22.10.2026 | Olten
+      Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/lange-nacht-der-karriere
+ 76.   Verhalten und Beziehungsgestaltung | 24.10.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/verhalten-und-beziehungsgestaltung
+ 77. * Gesunde Lernende – starke Zukunft: Gesundheit als Schlüssel in der Berufsbildung | 26.10.2026 | 26.10.2026 | Olten
+      Link: https://www.fhnw.ch/de/psychologie/aktuelles/veranstaltungen/alle/gesunde-lernende-starke-zukunft
+ 78.   Spiegelungen: Ein Festival der Hochschule für Musik Basel | Festival-Ausgabe VI | 3.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/spiegelungen-festival
+ 79. * Vernetzungsanlass BNE | 4.11.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/vernetzungsanlass-bne
+ 80. * Fachtagung: Traumasensibilität in Beratung und Supervision | 6.11.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/fachtagung-traumasensibilitaet-in-beratung-und-supervision
+ 81.   KommSchau26 – Save the Date | 11.11.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/kommschau26
+ 82. * 10. Oltner Verschuldungstage | 12.11.2026 | Olten
+      Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/10-oltner-verschuldungstage
+ 83. * Animal-Computer Interaction Conference | 2. - 5. Dezember 2026 | 2.12.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/animal-computer-interaction-conference
+ 84.   Open Chamber Music | Herbstsemester 2026/27 | 14.1.2027 | Basel
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/open-chamber-music
+ 85. * Tagung Gruppendynamik & Soziale Arbeit | 28.1.2027 | Muttenz
+      Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/tagung-gruppendynamik-soziale-arbeit
+ 86.   Netzwerktreffen Diversitätsorientierte Sprachförderung und DaZ | 3.4.2027 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/netzwerktreffen-diversitaetsorientierte-sprachfoerderung-und-daz

@@ -1,0 +1,29 @@
+# Sensible Daten — niemals in Git/GitHub hochladen
+.env
+.env.local
+*.env
+
+# Python-Artefakte
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Lokale Logs vom Windows Task Scheduler (Cloud erzeugt eigene Logs)
+output/run_*.log
+
+# Lokale Backtest-Artefakte (nicht in der Cloud relevant)
+data/clean/classified_2026-04-30_sonnet.json
+data/clean/classified_2026-04-30_threshold55.json
+data/clean/classified_2026-04-30.json
+output/demo_email_2026-04-30.md
