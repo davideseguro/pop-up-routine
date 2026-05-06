@@ -1,15 +1,19 @@
 name: POP-UP Routine — Wochenlauf
 
 on:
-  # Mittwochs 10:00 Uhr Schweiz (Mitteleurop. Sommerzeit = UTC+2; im Winter = UTC+1).
-  # Cron auf GitHub laeuft in UTC. Damit wir IMMER um 10:00 Schweizer Zeit laufen,
-  # legen wir ZWEI Trigger an: 08:00 UTC (= Sommerzeit) und 09:00 UTC (= Winterzeit).
-  # Das Skript prueft selbst, ob es heute ueberhaupt laufen soll (siehe weiter unten).
+  # Ziel: Mittwochs ca. 10:00 Schweizer Zeit.
+  # GitHub-Cron laeuft in UTC und ist "best effort" - kann sich um 5-30 Min verzoegern.
+  # Strategie: mehrere Trigger als Sicherheitsnetz; ein Lock-File verhindert,
+  # dass die Mail mehrmals pro Tag versendet wird.
   schedule:
-    - cron: '0 8 * * 3'   # Mittwoch 08:00 UTC = 10:00 CEST (Sommer)
-    - cron: '0 9 * * 3'   # Mittwoch 09:00 UTC = 10:00 CET  (Winter)
+    # Sommerzeit (CEST = UTC+2): 10:00 Schweiz = 08:00 UTC
+    - cron: '5 8 * * 3'    # Mittwoch 08:05 UTC (5 Min Puffer um die volle Stunde)
+    - cron: '15 8 * * 3'   # Mittwoch 08:15 UTC (Backup falls 08:05 verzoegert)
+    # Winterzeit (CET = UTC+1): 10:00 Schweiz = 09:00 UTC
+    - cron: '5 9 * * 3'    # Mittwoch 09:05 UTC
+    - cron: '15 9 * * 3'   # Mittwoch 09:15 UTC
 
-  # Manuell triggerbar (zum Testen ueber den GitHub-Web-UI Button "Run workflow")
+  # Manuell triggerbar
   workflow_dispatch:
 
 jobs:
@@ -22,22 +26,42 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: DST-Guard (skip falls falscher Trigger fuer aktuelle Zeitzone)
-        # Idee: 08:00 UTC laeuft NUR im Sommer; 09:00 UTC laeuft NUR im Winter.
-        # Wir bestimmen die aktuelle Schweizer Stunde und brechen ab, wenn != 10.
-        # Bei manuellen Lauf (workflow_dispatch) immer durchlaufen.
+      - name: Tages-Lock (verhindert Mehrfach-Versand pro Tag)
+        # Wir haben 4 Cron-Trigger fuer Robustheit. Der erste, der durchkommt,
+        # erzeugt einen Marker in data/clean/. Alle weiteren Trigger am gleichen
+        # Tag sehen den Marker und brechen ab.
+        # Bei manuellem Lauf (workflow_dispatch) wird der Lock ignoriert.
         if: github.event_name == 'schedule'
         run: |
           set -e
           export TZ='Europe/Zurich'
+          today=$(date +%Y-%m-%d)
           local_hour=$(date +%H)
-          echo "Aktuelle Schweizer Stunde: $local_hour"
-          if [ "$local_hour" != "10" ]; then
-            echo "Nicht 10 Uhr Schweizer Zeit - Lauf wird uebersprungen (DST-Guard)."
+          echo "Aktuelles Datum (Schweiz): $today, Stunde: $local_hour"
+
+          # Defensive Prueffung: laufen nur wenn lokale Stunde zwischen 8 und 12 Uhr
+          # (deckt Verzoegerungen ab, verhindert versehentliche Mitternachts-Laeufe)
+          if [ "$local_hour" -lt 8 ] || [ "$local_hour" -gt 12 ]; then
+            echo "Zeit ausserhalb Fenster (8-12 Uhr Schweiz). Skip."
             echo "skip=true" >> $GITHUB_ENV
-          else
-            echo "skip=false" >> $GITHUB_ENV
+            exit 0
           fi
+
+          # Lock-File pruefen
+          lockfile="data/clean/last_run_date.txt"
+          if [ -f "$lockfile" ]; then
+            last_run=$(cat "$lockfile")
+            if [ "$last_run" = "$today" ]; then
+              echo "Heute bereits gelaufen ($last_run). Skip."
+              echo "skip=true" >> $GITHUB_ENV
+              exit 0
+            fi
+          fi
+
+          echo "skip=false" >> $GITHUB_ENV
+          # Lock setzen (wird nur committed wenn der Run durchlaeuft)
+          mkdir -p data/clean
+          echo "$today" > "$lockfile"
 
       - name: Setup Python
         if: env.skip != 'true'
@@ -76,7 +100,7 @@ jobs:
         run: |
           git config user.name 'pop-up-routine-bot'
           git config user.email 'pop-up-routine-bot@users.noreply.github.com'
-          git add data/clean/baseline.json data/raw/ output/ data/clean/ || true
+          git add data/clean/baseline.json data/clean/last_run_date.txt data/raw/ output/ data/clean/ || true
           if git diff --staged --quiet; then
             echo "Keine Aenderungen zu committen."
           else
