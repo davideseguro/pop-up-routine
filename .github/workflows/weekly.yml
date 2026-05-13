@@ -1,22 +1,23 @@
 name: POP-UP Routine — Wochenlauf
 
 on:
-  # Ziel: Mittwochs ca. 10:00 Schweizer Zeit.
-  # GitHub-Cron laeuft in UTC und ist "best effort" - kann sich um 5-30 Min verzoegern.
-  # Strategie: mehrere Trigger als Sicherheitsnetz; ein Lock-File verhindert,
-  # dass die Mail mehrmals pro Tag versendet wird.
+  # PRIMARY: Externer Scheduler (cron-job.org) triggert via repository_dispatch.
+  # Grund: GitHub-Cron ist "best effort" und unzuverlaessig - zwei Mittwoche in
+  # Folge wurden keine Trigger gefeuert. Externer Service triggert sekundengenau.
+  repository_dispatch:
+    types: [weekly-run]
+
+  # FALLBACK: GitHub-Cron, falls cron-job.org ausfaellt.
+  # Off-peak Minuten (nicht :00 oder :15) fuer hoehere Zuverlaessigkeit.
   schedule:
-    # WICHTIG: GitHub-Cron ist "best effort" und besonders unzuverlaessig zu
-    # vollen Stunden und Viertelstunden (Hochlast-Zeiten). Wir nutzen daher
-    # OFF-PEAK Minuten und MEHRERE Trigger als Sicherheitsnetz.
-    # Sommerzeit (CEST = UTC+2): 10:00 Schweiz = 08:00 UTC
-    - cron: '23 8 * * 3'   # Mittwoch 08:23 UTC = 10:23 Schweiz (Sommer)
-    - cron: '47 8 * * 3'   # Backup falls 08:23 verzoegert/dropped
-    - cron: '13 9 * * 3'   # Spaeter Backup, falls 08:xx alle gedroppt
-    # Winterzeit (CET = UTC+1): 10:00 Schweiz = 09:00 UTC
-    - cron: '23 9 * * 3'   # Mittwoch 09:23 UTC = 10:23 Schweiz (Winter)
-    - cron: '47 9 * * 3'   # Backup
-    - cron: '13 10 * * 3'  # Spaeter Backup
+    # Sommerzeit (CEST = UTC+2): 10:xx Schweiz = 08:xx UTC
+    - cron: '23 8 * * 3'   # Mittwoch 10:23 Schweiz
+    - cron: '47 8 * * 3'
+    - cron: '13 9 * * 3'
+    # Winterzeit (CET = UTC+1): 10:xx Schweiz = 09:xx UTC
+    - cron: '23 9 * * 3'
+    - cron: '47 9 * * 3'
+    - cron: '13 10 * * 3'
 
   # Manuell triggerbar
   workflow_dispatch:
@@ -32,10 +33,12 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Tages-Lock (verhindert Mehrfach-Versand pro Tag)
-        # Wir haben 4 Cron-Trigger fuer Robustheit. Der erste, der durchkommt,
-        # erzeugt einen Marker in data/clean/. Alle weiteren Trigger am gleichen
-        # Tag sehen den Marker und brechen ab.
-        # Bei manuellem Lauf (workflow_dispatch) wird der Lock ignoriert.
+        # Wir haben 6 Backup-Cron-Trigger + externen Scheduler. Der erste,
+        # der durchkommt, erzeugt einen Marker in data/clean/. Alle weiteren
+        # Trigger am gleichen Tag sehen den Marker und brechen ab.
+        # Bei manuellem Lauf (workflow_dispatch) UND bei repository_dispatch
+        # (cron-job.org) wird der Lock IGNORIERT - externer Scheduler ist
+        # bereits sekundengenau, kein Schutz noetig.
         if: github.event_name == 'schedule'
         run: |
           set -e
