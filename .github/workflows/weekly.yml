@@ -6,12 +6,17 @@ on:
   # Strategie: mehrere Trigger als Sicherheitsnetz; ein Lock-File verhindert,
   # dass die Mail mehrmals pro Tag versendet wird.
   schedule:
+    # WICHTIG: GitHub-Cron ist "best effort" und besonders unzuverlaessig zu
+    # vollen Stunden und Viertelstunden (Hochlast-Zeiten). Wir nutzen daher
+    # OFF-PEAK Minuten und MEHRERE Trigger als Sicherheitsnetz.
     # Sommerzeit (CEST = UTC+2): 10:00 Schweiz = 08:00 UTC
-    - cron: '5 8 * * 3'    # Mittwoch 08:05 UTC (5 Min Puffer um die volle Stunde)
-    - cron: '15 8 * * 3'   # Mittwoch 08:15 UTC (Backup falls 08:05 verzoegert)
+    - cron: '23 8 * * 3'   # Mittwoch 08:23 UTC = 10:23 Schweiz (Sommer)
+    - cron: '47 8 * * 3'   # Backup falls 08:23 verzoegert/dropped
+    - cron: '13 9 * * 3'   # Spaeter Backup, falls 08:xx alle gedroppt
     # Winterzeit (CET = UTC+1): 10:00 Schweiz = 09:00 UTC
-    - cron: '5 9 * * 3'    # Mittwoch 09:05 UTC
-    - cron: '15 9 * * 3'   # Mittwoch 09:15 UTC
+    - cron: '23 9 * * 3'   # Mittwoch 09:23 UTC = 10:23 Schweiz (Winter)
+    - cron: '47 9 * * 3'   # Backup
+    - cron: '13 10 * * 3'  # Spaeter Backup
 
   # Manuell triggerbar
   workflow_dispatch:
