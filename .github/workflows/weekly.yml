@@ -1,25 +1,13 @@
 name: POP-UP Routine — Wochenlauf
 
 on:
-  # PRIMARY: Externer Scheduler (cron-job.org) triggert via repository_dispatch.
-  # Grund: GitHub-Cron ist "best effort" und unzuverlaessig - zwei Mittwoche in
-  # Folge wurden keine Trigger gefeuert. Externer Service triggert sekundengenau.
+  # Trigger: Externer Scheduler (cron-job.org) via repository_dispatch.
+  # Mittwoch 10:00 Schweiz Zeit, konfiguriert auf https://console.cron-job.org/jobs
+  # GitHub-Cron wird NICHT verwendet (unzuverlaessig + wuerde zu Doppel-Mails fuehren).
   repository_dispatch:
     types: [weekly-run]
 
-  # FALLBACK: GitHub-Cron, falls cron-job.org ausfaellt.
-  # Off-peak Minuten (nicht :00 oder :15) fuer hoehere Zuverlaessigkeit.
-  schedule:
-    # Sommerzeit (CEST = UTC+2): 10:xx Schweiz = 08:xx UTC
-    - cron: '23 8 * * 3'   # Mittwoch 10:23 Schweiz
-    - cron: '47 8 * * 3'
-    - cron: '13 9 * * 3'
-    # Winterzeit (CET = UTC+1): 10:xx Schweiz = 09:xx UTC
-    - cron: '23 9 * * 3'
-    - cron: '47 9 * * 3'
-    - cron: '13 10 * * 3'
-
-  # Manuell triggerbar
+  # Manuell triggerbar (Web-UI Button "Run workflow")
   workflow_dispatch:
 
 jobs:
@@ -32,65 +20,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Tages-Lock (verhindert Mehrfach-Versand pro Tag)
-        # Wir haben 6 Backup-Cron-Trigger + externen Scheduler. Der erste,
-        # der durchkommt, erzeugt einen Marker in data/clean/. Alle weiteren
-        # Trigger am gleichen Tag sehen den Marker und brechen ab.
-        # Bei manuellem Lauf (workflow_dispatch) UND bei repository_dispatch
-        # (cron-job.org) wird der Lock IGNORIERT - externer Scheduler ist
-        # bereits sekundengenau, kein Schutz noetig.
-        if: github.event_name == 'schedule'
-        run: |
-          set -e
-          export TZ='Europe/Zurich'
-          today=$(date +%Y-%m-%d)
-          local_hour=$(date +%H)
-          echo "Aktuelles Datum (Schweiz): $today, Stunde: $local_hour"
-
-          # Defensive Prueffung: laufen nur wenn lokale Stunde zwischen 8 und 12 Uhr
-          # (deckt Verzoegerungen ab, verhindert versehentliche Mitternachts-Laeufe)
-          if [ "$local_hour" -lt 8 ] || [ "$local_hour" -gt 12 ]; then
-            echo "Zeit ausserhalb Fenster (8-12 Uhr Schweiz). Skip."
-            echo "skip=true" >> $GITHUB_ENV
-            exit 0
-          fi
-
-          # Lock-File pruefen
-          lockfile="data/clean/last_run_date.txt"
-          if [ -f "$lockfile" ]; then
-            last_run=$(cat "$lockfile")
-            if [ "$last_run" = "$today" ]; then
-              echo "Heute bereits gelaufen ($last_run). Skip."
-              echo "skip=true" >> $GITHUB_ENV
-              exit 0
-            fi
-          fi
-
-          echo "skip=false" >> $GITHUB_ENV
-          # Lock setzen (wird nur committed wenn der Run durchlaeuft)
-          mkdir -p data/clean
-          echo "$today" > "$lockfile"
-
       - name: Setup Python
-        if: env.skip != 'true'
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
           cache: 'pip'
 
       - name: Install Python dependencies
-        if: env.skip != 'true'
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Install Playwright Chromium
-        if: env.skip != 'true'
         run: |
           python -m playwright install --with-deps chromium
 
       - name: Run weekly routine
-        if: env.skip != 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
@@ -104,11 +49,10 @@ jobs:
           python code/run_weekly.py
 
       - name: Commit updated baseline
-        if: env.skip != 'true'
         run: |
           git config user.name 'pop-up-routine-bot'
           git config user.email 'pop-up-routine-bot@users.noreply.github.com'
-          git add data/clean/baseline.json data/clean/last_run_date.txt data/raw/ output/ data/clean/ || true
+          git add data/clean/baseline.json data/raw/ output/ data/clean/ || true
           if git diff --staged --quiet; then
             echo "Keine Aenderungen zu committen."
           else
