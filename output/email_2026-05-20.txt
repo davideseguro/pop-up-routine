@@ -1,0 +1,67 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-05-20
+11 neue Events, davon 6 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (6) ===
+
+- Forschungsseminar: Vortrag von Prof. Dr.-Ing. Wolfgang Riedl | 27. Mai
+  Score 62: Forschungsseminar mit externem Vortrag zu Abwasserbehandlung/Ozonieriung ermöglicht fachlichen Austausch und Networking im Forschungsumfeld, entspricht dem Format-Kriterium als bekannter Treffer-Typ 'Forschungsseminar'.
+  27.5.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/bubble-free-ozonization-by-membrane-contactor
+
+- Radon-Apéro FHNW 2026
+  Score 72: Fachforum mit Apéro-Format für Radonfachpersonen und Interessierte aus Bau/Architektur, das explizit Informationsaustausch zwischen Fachleuten ermöglicht und dem Bauphysik-Apéro-Typus entspricht.
+  3.6.2026 | Networking | EVENTREIHE
+  Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/radonapero
+
+- Personalmanagement an Schulen – Transfertagung
+  Score 72: Transfertagung mit Austausch zwischen Forschung, Schulleitungen und Verwaltung zu Personalmanagement/Leadership im Bildungsbereich – erfüllt das harte Networking-Kriterium und berührt das weiche Thema New Work/Lernen.
+  12.6.2026 | Bern | Tagung/Konferenz
+  Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/personalmanagement-an-schulen-transfertagung
+
+- Nacht der Zukünfte: Wow im Now | Nacht der Zukünfte: Wow im Now
+  Score 72: Die 'Nacht der Zukünfte' ist explizit als Netzwerkanlass der FHNW ausgeschrieben und erfüllt damit das harte Kriterium, ohne einem der bevorzugten Themenfelder klar zugeordnet zu sein.
+  2.9.2026 | Muttenz | Networking
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/nacht-der-zukuenfte-wow-im-now
+
+- Symposium ‹Staying Cool – Entwürfe für die erhitzte Stadt›
+  Score 72: Öffentliches Symposium mit Expertenvorträgen und Diskussionsformat zum Thema klimaadaptive Stadtplanung, das Networking zwischen Forschenden und Fachleuten ermöglicht und thematisch an Zero Emission/Nachhaltigkeit angrenzt.
+  15.9.2026 | Muttenz | Tagung/Konferenz
+  Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/iarch-hs26-staying-cool-symp
+
+- Plattform Betriebliches Gesundheitsmanagement | 28.10.2026
+  Score 78: Fachtagung zum betrieblichen Gesundheitsmanagement mit explizitem Networking- und Austauschfokus zwischen BGM-Fachpersonen, thematisch angrenzend an New Work/Arbeitswelt.
+  28.10.2026 | Olten | New Work | EVENTREIHE
+  Link: https://www.fhnw.ch/de/psychologie/aktuelles/veranstaltungen/alle/plattform-betriebliches-gesundheitsmanagement
+
+=== ALLE 11 NEUEN EVENTS ===
+
+  1. * Forschungsseminar: Vortrag von Prof. Dr.-Ing. Wolfgang Riedl | 27. Mai | 27.5.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/bubble-free-ozonization-by-membrane-contactor
+  2.   Antrittsvorlesung von Prof. Dr. Thomas Vetter | 27.5.2026 | 
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/antrittsvorlesung-von-prof-dr-thomas-vetter
+  3.   VDC Integration Experience 2026 | Integration Experience 2026 | 29.5.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/vdc-integration-experience
+  4.   Öffentliche Schlusskritiken Frühjahr 2026 | 2.6.2026 | 
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/iarch-sk-fs26
+  5. * Radon-Apéro FHNW 2026 | 3.6.2026 | 
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/radonapero
+  6. * Personalmanagement an Schulen – Transfertagung | 12.6.2026 | Bern
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/personalmanagement-an-schulen-transfertagung
+  7.   Abschluss MA SP Music and Research 2026 | Rubén Bañuelos | 13.6.2026 | Basel
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/abschluss_mar_2026
+  8. * Nacht der Zukünfte: Wow im Now | Nacht der Zukünfte: Wow im Now | 2.9.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/nacht-der-zukuenfte-wow-im-now
+  9.   HABG Welcome Day 2026 | Erster Studientag Herbstsemester 2026 | 14.9.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/habg-welcome-day
+ 10. * Symposium ‹Staying Cool – Entwürfe für die erhitzte Stadt› | 15.9.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/iarch-hs26-staying-cool-symp
+ 11. * Plattform Betriebliches Gesundheitsmanagement | 28.10.2026 | 28.10.2026 | Olten
+      Link: https://www.fhnw.ch/de/psychologie/aktuelles/veranstaltungen/alle/plattform-betriebliches-gesundheitsmanagement
