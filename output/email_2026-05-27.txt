@@ -1,0 +1,85 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-05-27
+20 neue Events, davon 6 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (6) ===
+
+- Fach- und Arbeitskräfte gewinnen und binden. Employer Branding als Chance
+  Score 72: Praxisorientiertes Event zu Employer Branding und Arbeitskräftegewinnung passt thematisch gut zum New-Work-Profil und ermöglicht vermutlich Networking, jedoch ist das Kurzformat (1h) und fehlende explizite Hinweise auf Multi-Akteurs-Austausch leicht einschränkend.
+  27.5.2026 | Olten | New Work | EVENTREIHE
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/employer-branding-als-chance
+
+- Wie KI sieht - und was das für uns bedeutet
+  Score 62: Das Event gehört zur 'New Work Konkret'-Reihe und thematisiert KI-Überwachung mit gesellschaftlicher Relevanz, hat aber mit nur 60 Minuten und unklarem Format möglicherweise wenig Networking-Anteil.
+  3.6.2026 | Olten | New Work | EVENTREIHE
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/wie-ki-uns-sieht
+
+- Praxis-Einblick: Corporate IT FHNW im Wandel – Zwischen Rahmenbedingungen, Selbstorganisation und Sinn
+  Score 72: Praxis-Einblick zu Selbstorganisation und Führung in der Corporate IT – passt thematisch gut zum New-Work-Profil und ermöglicht als Veranstaltungsreihe ('New Work Konkret') Informationsaustausch zwischen Praxis und Forschung, wenngleich das Networking-Format nicht explizit beschrieben ist.
+  10.6.2026 | Olten | New Work | EVENTREIHE
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/praxis-einblick-corporate-it-fhnw-im-wandel
+
+- New Work - Arbeit, die ich«wirklich, wirklich» tun will!
+  Score 72: Das Event thematisiert New Work und Arbeitswelt, ein bevorzugtes Thema des Nutzers, jedoch ist aufgrund der kurzen Dauer (1 Stunde) und fehlender Beschreibung eines expliziten Networking- oder Austauschformats unklar, ob das harte Kriterium vollständig erfüllt ist.
+  16.9.2026 | Brugg-Windisch | New Work | EVENTREIHE
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/new-work-arbeit-die-ich-wirklich-wirklich-tun-will
+
+- Arbeiten mit KI: Chancen und Gefahren
+  Score 82: Das Event behandelt KI und Automatisierung der Arbeit, was klar dem Themenfeld New Work/Arbeitswelt entspricht, und das Format 'New Work Konkret' (analog zu 'Zero Emission Konkret') deutet auf einen Austausch zwischen verschiedenen Akteuren hin.
+  23.9.2026 | Brugg-Windisch | New Work | EVENTREIHE
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/arbeiten-mit-ki-chancen-und-gefahren
+
+- Geteilte Führung – Gemeinsam mehr erreichen? Co-Leadership als Antwort auf dieArbeitswelt von morgen
+  Score 82: Thematisch klar im Bereich New Work / Leadership angesiedelt und als 'New Work Konkret'-Reihe vermutlich auf Austausch zwischen verschiedenen Akteuren ausgerichtet, analog zu 'Zero Emission Konkret' als bekanntem Treffer.
+  30.9.2026 | Brugg-Windisch | New Work | EVENTREIHE
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/geteilte-fuehrung
+
+=== ALLE 20 NEUEN EVENTS ===
+
+  1.   Aus die Maus! | 27.5.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/kinderhochschule/aus-die-maus
+  2. * Fach- und Arbeitskräfte gewinnen und binden. Employer Branding als Chance | 27.5.2026 | Olten
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/employer-branding-als-chance
+  3.   Postenlauf in der Minecraft-Schweiz | 3.6.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/kinderhochschule/postenlauf-in-der-minecraft-schweiz
+  4.   Wir programmieren ein Game zusammen! | 3.6.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/kinderhochschule/wir-programmieren-ein-game
+  5.   Minecraft Workshop: Von Grau zu Grün | 3.6.2026 | Basel
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/kinderhochschule/minecraft-workshop-von-grau-zu-gruen
+  6. * Wie KI sieht - und was das für uns bedeutet | 3.6.2026 | Olten
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/wie-ki-uns-sieht
+  7.   Konsumblüten und Scheinpflanzen | Mit Anwesenheit der Projektleiterinnen | 6.6.2026 | 
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/konsumblueten-und-scheinpflanzen
+  8.   Wie werde ich Professor*in, Astronaut*in, Tramführer*in oder Tierarzt*ärztin? | 10.6.2026 | Basel
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/kinderhochschule/wie-werde-ich-professorin
+  9.   Mission DNA | 10.6.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/kinderhochschule/mission-dna
+ 10.   Internet: Die Welt dahinter | 10.6.2026 | Olten
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/kinderhochschule/internet-die-welt-dahinter
+ 11.   Wie funktioniert ein Kaugummi-Automat? | 10.6.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/kinderhochschule/wie-funktioniert-ein-kaugummi-automat
+ 12. * Praxis-Einblick: Corporate IT FHNW im Wandel – Zwischen Rahmenbedingungen, Selbstorganisation und Sinn | 10.6.2026 | Olten
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/praxis-einblick-corporate-it-fhnw-im-wandel
+ 13.   Art in Conflict: Zugehörigkeit, Verlust und die Sprache der Kunst – mit Vida Rucli und Fazil On Yu | 10.6.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/art-in-conflict-zugehoerigkeit-verlust-und-die-sprache-der-kunst-mit-vida-rucli-und-fazil-on-yu
+ 14.   Countryside 1: Roadtrip durch Waldenburg mit Studierenden des Masterstudio Scenography der HGK Basel | 12.6.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/countryside-1-roadtrip-durch-waldenburg-mit-studierenden-des-masterstudio-scenography-der-hgk-basel
+ 15.   Art@Dreispitz 2026 – Kunstprogramm während der Art Basel rund um den Freilager-Platz | 17.6.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/art-at-dreispitz-2026-kunstprogramm-waehrend-der-art-basel-rund-um-den-freilager-platz
+ 16.   Art@Dreispitz: Geup-Sik (Given to eat) – Performance von Rondi Park | 17.6.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/art-at-dreispitz-geup-sik-given-to-eat-performance-von-rondi-park
+ 17.   Mode Suisse 2026 – mit zahlreichen Absolvent:innen und Alumnae:i der HGK Basel | 22.6.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/mode-suisse-2026-mit-zahlreichen-absolvent-innen-und-alumnae-i-der-hgk-basel
+ 18. * New Work - Arbeit, die ich«wirklich, wirklich» tun will! | 16.9.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/new-work-arbeit-die-ich-wirklich-wirklich-tun-will
+ 19. * Arbeiten mit KI: Chancen und Gefahren | 23.9.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/arbeiten-mit-ki-chancen-und-gefahren
+ 20. * Geteilte Führung – Gemeinsam mehr erreichen? Co-Leadership als Antwort auf dieArbeitswelt von morgen | 30.9.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/geteilte-fuehrung

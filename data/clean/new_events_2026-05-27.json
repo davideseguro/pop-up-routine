@@ -1,0 +1,148 @@
+{
+  "diffed_at": "2026-05-27",
+  "baseline_count": 87,
+  "current_count": 95,
+  "new_count": 20,
+  "events": [
+    {
+      "name": "Aus die Maus!",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/kinderhochschule/aus-die-maus",
+      "raw_text": "Anderes\nAus die Maus!\nWie können wir Medikamente ohne Tierversuche testen?\nDatum\n27.5.2026, 15:00–16:30 Uhr\nDurchführungsort\nMuttenz",
+      "date": "27.5.2026",
+      "location": "Muttenz"
+    },
+    {
+      "name": "Fach- und Arbeitskräfte gewinnen und binden. Employer Branding als Chance",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/employer-branding-als-chance",
+      "raw_text": "Anderes\nFach- und Arbeitskräfte gewinnen und binden. Employer Branding als Chance\nWie können Arbeits- und Fachkräfte nicht nur gewonnen, sondern auch gehalten werden?\nDatum\n27.5.2026, 17:15–18:15 Uhr\nDurchführungsort\nOlten",
+      "date": "27.5.2026",
+      "location": "Olten"
+    },
+    {
+      "name": "Postenlauf in der Minecraft-Schweiz",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/kinderhochschule/postenlauf-in-der-minecraft-schweiz",
+      "raw_text": "Anderes\nPostenlauf in der Minecraft-Schweiz\nEntdecke die Schweiz auf Minecraft\nDatum\n3.6.2026, 15:00–17:00 Uhr\nDurchführungsort\nMuttenz",
+      "date": "3.6.2026",
+      "location": "Muttenz"
+    },
+    {
+      "name": "Wir programmieren ein Game zusammen!",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/kinderhochschule/wir-programmieren-ein-game",
+      "raw_text": "Anderes\nWir programmieren ein Game zusammen!\nErstelle dein eigenes Game!\nDatum\n3.6.2026, 15:00–17:00 Uhr\nDurchführungsort\nBrugg-Windisch",
+      "date": "3.6.2026",
+      "location": "Brugg-Windisch"
+    },
+    {
+      "name": "Minecraft Workshop: Von Grau zu Grün",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/kinderhochschule/minecraft-workshop-von-grau-zu-gruen",
+      "raw_text": "Anderes\nMinecraft Workshop: Von Grau zu Grün\nGemeinsam verwandeln wir dunkle Ecken in grüne Oasen\nDatum\n3.6.2026, 15:00–17:00 Uhr\nDurchführungsort\nBasel",
+      "date": "3.6.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Wie KI sieht - und was das für uns bedeutet",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/wie-ki-uns-sieht",
+      "raw_text": "Anderes\nWie KI sieht - und was das für uns bedeutet\nAlles, was wir online tun wird sofort analysiert. Was tun?\nDatum\n3.6.2026, 17:15–18:15 Uhr\nDurchführungsort\nOlten",
+      "date": "3.6.2026",
+      "location": "Olten"
+    },
+    {
+      "name": "Konsumblüten und Scheinpflanzen\nMit Anwesenheit der Projektleiterinnen",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/konsumblueten-und-scheinpflanzen",
+      "raw_text": "Ausstellung/Präsentation\nKonsumblüten und Scheinpflanzen\nMit Anwesenheit der Projektleiterinnen\nDie neuartigen Nutzpflanzen tragen nicht nur zur aussergewöhnlichen Artenvielfalt bei, die Scheingewächse aus Kunststoff sollen darüber hinaus helfen, Umweltprobleme zu lösen. Eine Zukunftsvision oder ein Albtraum?\nDatum\n6.6.2026, 11:00–17:00 Uhr\nDurchführungsort\nRiehen",
+      "date": "6.6.2026",
+      "location": ""
+    },
+    {
+      "name": "Wie werde ich Professor*in, Astronaut*in, Tramführer*in oder Tierarzt*ärztin?",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/kinderhochschule/wie-werde-ich-professorin",
+      "raw_text": "Anderes\nWie werde ich Professor*in, Astronaut*in, Tramführer*in oder Tierarzt*ärztin?\nWas ist dein Traumberuf? Und wie erreichst du ihn?\nDatum\n10.6.2026, 15:00–16:00 Uhr\nDurchführungsort\nBasel",
+      "date": "10.6.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Mission DNA",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/kinderhochschule/mission-dna",
+      "raw_text": "Anderes\nMission DNA\nWas uns verbindet, unterscheidet und manchmal krank macht\nDatum\n10.6.2026, 15:00–17:00 Uhr\nDurchführungsort\nMuttenz",
+      "date": "10.6.2026",
+      "location": "Muttenz"
+    },
+    {
+      "name": "Internet: Die Welt dahinter",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/kinderhochschule/internet-die-welt-dahinter",
+      "raw_text": "Anderes\nInternet: Die Welt dahinter\nEntdecke, wie das Internet funktioniert\nDatum\n10.6.2026, 16:00–17:00 Uhr\nDurchführungsort\nOlten",
+      "date": "10.6.2026",
+      "location": "Olten"
+    },
+    {
+      "name": "Wie funktioniert ein Kaugummi-Automat?",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/kinderhochschule/wie-funktioniert-ein-kaugummi-automat",
+      "raw_text": "Anderes\nWie funktioniert ein Kaugummi-Automat?\nWas ein Kaugummi-Automat uns über unsere Welt erzählt\nDatum\n10.6.2026, 16:00–17:00 Uhr\nDurchführungsort\nBrugg-Windisch",
+      "date": "10.6.2026",
+      "location": "Brugg-Windisch"
+    },
+    {
+      "name": "Praxis-Einblick: Corporate IT FHNW im Wandel – Zwischen Rahmenbedingungen, Selbstorganisation und Sinn",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/praxis-einblick-corporate-it-fhnw-im-wandel",
+      "raw_text": "Anderes\nPraxis-Einblick: Corporate IT FHNW im Wandel – Zwischen Rahmenbedingungen, Selbstorganisation und Sinn\nWas entsteht, wenn Führung Räume schafft, in denen sich Selbstorganisation entfalten kann?\nDatum\n10.6.2026, 17:15–18:15 Uhr\nDurchführungsort\nOlten",
+      "date": "10.6.2026",
+      "location": "Olten"
+    },
+    {
+      "name": "Art in Conflict: Zugehörigkeit, Verlust und die Sprache der Kunst – mit Vida Rucli und Fazil On Yu",
+      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/art-in-conflict-zugehoerigkeit-verlust-und-die-sprache-der-kunst-mit-vida-rucli-und-fazil-on-yu",
+      "raw_text": "Anderes\nArt in Conflict: Zugehörigkeit, Verlust und die Sprache der Kunst – mit Vida Rucli und Fazil On Yu\nIn der von der Mediathek der HGK Basel mitveranstalteten Gesprächsreihe «Art in Conflict» diskutieren am 10. Juni 2026 die Architektin Vida Rucli und der Performance-Künstler Fazil On Yu über Zugehörigkeit, Verlust und die Sprache der Kunst.\nDatum\n10.6.2026, 17:30–19:00 Uhr\nDurchführungsort\nTheaterhaus Gessnerallee, Zürich",
+      "date": "10.6.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Countryside 1: Roadtrip durch Waldenburg mit Studierenden des Masterstudio Scenography der HGK Basel",
+      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/countryside-1-roadtrip-durch-waldenburg-mit-studierenden-des-masterstudio-scenography-der-hgk-basel",
+      "raw_text": "Anderes\nCountryside 1: Roadtrip durch Waldenburg mit Studierenden des Masterstudio Scenography der HGK Basel\nDie Kaserne Basel präsentiert vom 12. bis 14. Juni 2026 die Produktion «Countryside 1 - Waldenburg» von Regisseur Maximilian Hanisch mit sechs Studierenden des Masterstudio Scenography der HGK Basel, die zu einem Roadtrip durch Waldenburg einladen.\nDatum\n12.6.2026–14.6.2026\nDurchführungsort\nKaserne Basel",
+      "date": "12.6.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Art@Dreispitz 2026 – Kunstprogramm während der Art Basel rund um den Freilager-Platz",
+      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/art-at-dreispitz-2026-kunstprogramm-waehrend-der-art-basel-rund-um-den-freilager-platz",
+      "raw_text": "Anderes\nArt@Dreispitz 2026 – Kunstprogramm während der Art Basel rund um den Freilager-Platz\nKunst, Kultur und Kreativität am Dreispitz: Das Programm «Art@Dreispitz» präsentiert am 17. Juni 2026 Ausstellungen, Performances, Musik und Open Studios rund um den Freilager-Platz in Münchenstein/Basel – parallel zur Art Basel 2026.\nDatum\n17.6.2026, 16:00–Open End\nDurchführungsort\nCampus Dreispitz",
+      "date": "17.6.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Art@Dreispitz: Geup-Sik (Given to eat) – Performance von Rondi Park",
+      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/art-at-dreispitz-geup-sik-given-to-eat-performance-von-rondi-park",
+      "raw_text": "Anderes\nArt@Dreispitz: Geup-Sik (Given to eat) – Performance von Rondi Park\nIm Rahmen von «Art@Dreispitz» vom 17. Juni 2026 findet im CIVIC der HGK Basel eine Performance von Rondi Park statt. Unter dem Titel «Geup-Sik» (Given to eat) geht es um das Kochen, das Essen und das Teilen als Gesten der Fürsorge und Verbundenheit.\nDatum\n17.6.2026, 16:00–Open End\nDurchführungsort\nCIVIC, HGK Basel",
+      "date": "17.6.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Mode Suisse 2026 – mit zahlreichen Absolvent:innen und Alumnae:i der HGK Basel",
+      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/mode-suisse-2026-mit-zahlreichen-absolvent-innen-und-alumnae-i-der-hgk-basel",
+      "raw_text": "Anderes\nMode Suisse 2026 – mit zahlreichen Absolvent:innen und Alumnae:i der HGK Basel\nAm 22. Juni 2026 findet auf dem F+F Campus in Zürich der Hauptevent der diesjährigen Mode Suisse statt – mit Beteiligung von zahlreichen aktuellen Absolvent:innen des Bachelor-Studiengangs Mode-Design und weiteren Alumnae:i der HGK Basel.\nDatum\n22.6.2026, 11:30–23:00 Uhr\nDurchführungsort\nF+F Campus, Zürich",
+      "date": "22.6.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "New Work - Arbeit, die ich«wirklich, wirklich» tun will!",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/new-work-arbeit-die-ich-wirklich-wirklich-tun-will",
+      "raw_text": "Anderes\nNew Work - Arbeit, die ich«wirklich, wirklich» tun will!\nBeschäftigte als Dreh- und Angelpunkt einer produktiven Organisation\nDatum\n16.9.2026, 17:15–18:15 Uhr\nDurchführungsort\nBrugg-Windisch",
+      "date": "16.9.2026",
+      "location": "Brugg-Windisch"
+    },
+    {
+      "name": "Arbeiten mit KI: Chancen und Gefahren",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/arbeiten-mit-ki-chancen-und-gefahren",
+      "raw_text": "Anderes\nArbeiten mit KI: Chancen und Gefahren\nNeue Herausforderungen in der Automatisierung der Arbeit\nDatum\n23.9.2026, 17:15–18:15 Uhr\nDurchführungsort\nBrugg-Windisch",
+      "date": "23.9.2026",
+      "location": "Brugg-Windisch"
+    },
+    {
+      "name": "Geteilte Führung – Gemeinsam mehr erreichen? Co-Leadership als Antwort auf dieArbeitswelt von morgen",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/geteilte-fuehrung",
+      "raw_text": "Anderes\nGeteilte Führung – Gemeinsam mehr erreichen? Co-Leadership als Antwort auf dieArbeitswelt von morgen\nErmöglicht geteilte Führung bessere Entscheidungen?\nDatum\n30.9.2026, 17:15–18:15 Uhr\nDurchführungsort\nBrugg-Windisch",
+      "date": "30.9.2026",
+      "location": "Brugg-Windisch"
+    }
+  ]
+}
