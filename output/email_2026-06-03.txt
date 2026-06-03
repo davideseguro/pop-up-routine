@@ -1,0 +1,48 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-06-03
+14 neue Events, davon 1 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (1) ===
+
+- aiHealth
+  Score 88: Internationale Fachkonferenz zu KI im Gesundheitswesen mit klarem Networking- und Austauschpotenzial zwischen Forschung, Industrie und weiteren Akteuren, direkt im Themenbereich Future Health / Digital Health.
+  10.11.2026 | Muttenz | Future Health | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/aihealth
+
+=== ALLE 14 NEUEN EVENTS ===
+
+  1.   Subtropical Ghosts and Memory Potions: ein affektives Archiv zum Mate-Strauch | 31.5.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/subtropical-ghosts-and-memory-potions-ein-affektives-archiv-zum-mate-strauch
+  2.   Art Taaalkssss: Shuang Li | 12.6.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/art-taaalkssss-shuang-li
+  3.   The Wound is Our Place – Dilek Winchester im Ausstellungsraum «der Tank» der HGK Basel | 13.6.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/the-wound-is-our-place-dilek-winchester-im-ausstellungsraum-der-tank-der-hgk-basel
+  4.   Die HGK Basel an der Basler Kunstbuchmesse I Never Read 2026 | 14.6.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/die-hgk-basel-an-der-basler-kunstbuchmesse-i-never-read-2026
+  5.   Experimentalfilm zum Mate-Strauch: Camila Chebez präsentiert ihre Masterarbeit bei OMG, Franck! | 15.6.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/experimentalfilm-zum-mate-strauch-camila-chebez-praesentiert-ihre-masterarbeit-bei-omg-franck
+  6.   Flowing Upstream: Martin Wöllenstein an der Volta Art Fair 2026 | 18.6.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/flowing-upstream-martin-woellenstein-an-der-volta-art-fair-2026
+  7.   Basel Dialogues: Präsentation des zweiten Bandes der Buchreihe der HGK Basel an der Liste 2026 | 18.6.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/basel-dialogues-praesentation-des-zweiten-bandes-der-buchreihe-der-hgk-basel-an-der-liste-2026
+  8.   Abschlusskonvent CAS Agile Coaching mit Apéro Riche | 19.06.2026 | 19.06.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/informatik/aktuelles/veranstaltungen/alle/abschlusskonvent-cas-agile-coaching-mit-apero-riche
+  9.   Diplom- und Semesterausstellung des Bachelor-Studiengangs Industrial Design und Masterstudio Design | 19.6.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/diplom-und-semesterausstellung-des-bachelor-studiengangs-industrial-design-und-masterstudio-design
+ 10.   taking responsibility – Diplomausstellung des Institute Arts and Design Education (IADE) der HGK Basel | 19.6.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/taking-responsibility-diplomausstellung-des-institute-arts-and-design-education-der-hgk-basel
+ 11.   BASIS 2026: Bachelor-Ausstellung des Institute Art Gender Nature (IAGN) | 26.6.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/basis-2026-bachelor-ausstellung-des-institute-art-gender-nature
+ 12.   Mach Platz! – 20 Plakate von Studierenden der HGK Basel | 26.6.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/mach-platz-20-plakate-von-studierenden-der-hgk-basel
+ 13. * aiHealth | 10.11.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/aihealth
+ 14.   Assistenzpersonen im Fokus – Save the Date | 13.3.2027 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/assistenzpersonen-im-fokus
