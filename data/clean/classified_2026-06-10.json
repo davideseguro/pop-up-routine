@@ -1,0 +1,23 @@
+{
+  "scraped_at": null,
+  "classified_at": "2026-06-10",
+  "source_url": null,
+  "model": "claude-sonnet-4-6",
+  "threshold": 55,
+  "count": 1,
+  "recommendations_count": 0,
+  "events": [
+    {
+      "name": "Dozent*in werden an der Fachhochschule",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/dozent-in-werden-an-der-fachhochschule",
+      "raw_text": "Anderes\nDozent*in werden an der Fachhochschule\nInfo-Anlass zu den Karrieremöglichkeiten als Dozent*in an der FHNW\nDatum\n16.6.2026, 17:00–18:00 Uhr\nDurchführungsort\nBrugg-Windisch",
+      "date": "16.6.2026",
+      "location": "Brugg-Windisch",
+      "match_score": 10,
+      "category": "Bildung",
+      "reason": "Rein interner Info-Anlass zu Karrieremöglichkeiten als Dozent*in an der FHNW – kein Networking-Format zwischen verschiedenen Akteuren aus Forschung, Industrie oder Gesellschaft.",
+      "is_series": false,
+      "is_recommendation": false
+    }
+  ]
+}

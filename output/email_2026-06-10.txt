@@ -1,0 +1,17 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-06-10
+1 neue Events, davon 0 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (0) ===
+
+=== ALLE 1 NEUEN EVENTS ===
+
+  1.   Dozent*in werden an der Fachhochschule | 16.6.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/dozent-in-werden-an-der-fachhochschule

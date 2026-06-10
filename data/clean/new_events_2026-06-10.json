@@ -1,0 +1,15 @@
+{
+  "diffed_at": "2026-06-10",
+  "baseline_count": 94,
+  "current_count": 83,
+  "new_count": 1,
+  "events": [
+    {
+      "name": "Dozent*in werden an der Fachhochschule",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/dozent-in-werden-an-der-fachhochschule",
+      "raw_text": "Anderes\nDozent*in werden an der Fachhochschule\nInfo-Anlass zu den Karrieremöglichkeiten als Dozent*in an der FHNW\nDatum\n16.6.2026, 17:00–18:00 Uhr\nDurchführungsort\nBrugg-Windisch",
+      "date": "16.6.2026",
+      "location": "Brugg-Windisch"
+    }
+  ]
+}
