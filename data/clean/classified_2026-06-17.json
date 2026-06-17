@@ -1,0 +1,35 @@
+{
+  "scraped_at": null,
+  "classified_at": "2026-06-17",
+  "source_url": null,
+  "model": "claude-sonnet-4-6",
+  "threshold": 55,
+  "count": 2,
+  "recommendations_count": 0,
+  "events": [
+    {
+      "name": "You Never Listen: Radioprogramm des Institute Experimental Design and Media Cultures (IXDM)",
+      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/you-never-listen-radioprogramm-des-institute-experimental-design-and-media-cultures",
+      "raw_text": "Ausstellung/Präsentation\nYou Never Listen: Radioprogramm des Institute Experimental Design and Media Cultures (IXDM)\nIm Rahmen der Kunstbuchmesse I Never Read vom 14. bis 20. Juni 2026 präsentiert das Institute Experimental Design and Media Cultures (IXDM) der HGK Basel das Live-Radioprogramm «You Never Listen».\nDatum\n14.6.2026–20.6.2026\nDurchführungsort\nI Never Read, Art Book Fair Basel",
+      "date": "14.6.2026",
+      "location": "Basel",
+      "match_score": 2,
+      "category": "Kunst/Kultur",
+      "reason": "Radioprogramm im Rahmen einer Kunstbuchmesse ohne Networking- oder Diskussionsformat – erfüllt das harte Kriterium nicht.",
+      "is_series": false,
+      "is_recommendation": false
+    },
+    {
+      "name": "Objektnetze: Wie Religionen (be)greifbar werden\nTagung",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/objektnetze",
+      "raw_text": "Tagung/Kongress\nObjektnetze: Wie Religionen (be)greifbar werden\nTagung\nDer dritte Praxistag «ERG on the Spot» wirft das Spotlight auf «R» wie Religionen und erschliesst gelingende Praktiken eines lebensweltbezogenen und aktuellen religionskundlichen Unterrichts.\nDatum\n21.8.2026, 13:15–18:30 Uhr\nDurchführungsort\nMuttenz",
+      "date": "21.8.2026",
+      "location": "Muttenz",
+      "match_score": 18,
+      "category": "Tagung/Konferenz",
+      "reason": "Obwohl es sich um eine Fachtagung handelt, richtet sie sich primär an Lehrpersonen für religionskundlichen Unterricht und deckt weder die bevorzugten Themen noch ein breit angelegtes Networking zwischen Forschung, Industrie und Zivilgesellschaft ab.",
+      "is_series": true,
+      "is_recommendation": false
+    }
+  ]
+}

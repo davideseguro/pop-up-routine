@@ -1,0 +1,19 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-06-17
+2 neue Events, davon 0 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (0) ===
+
+=== ALLE 2 NEUEN EVENTS ===
+
+  1.   You Never Listen: Radioprogramm des Institute Experimental Design and Media Cultures (IXDM) | 14.6.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/you-never-listen-radioprogramm-des-institute-experimental-design-and-media-cultures
+  2.   Objektnetze: Wie Religionen (be)greifbar werden | Tagung | 21.8.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/objektnetze
