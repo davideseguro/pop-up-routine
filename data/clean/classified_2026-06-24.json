@@ -1,0 +1,23 @@
+{
+  "scraped_at": null,
+  "classified_at": "2026-06-24",
+  "source_url": null,
+  "model": "claude-sonnet-4-6",
+  "threshold": 55,
+  "count": 1,
+  "recommendations_count": 1,
+  "events": [
+    {
+      "name": "Fachtagung «Mobbing im schulischen Kontext – Erkennen. Verstehen. Handeln»",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/fachtagung-mobbing-im-schulischen-kontext-erkennen-verstehen-handeln",
+      "raw_text": "Tagung/Kongress\nFachtagung «Mobbing im schulischen Kontext – Erkennen. Verstehen. Handeln»\nStudien zeigen: Jedes Kind erlebt in der Schulzeit Mobbing – als betroffenes, zuschauendes oder mobbendes Kind. Dies hinterlässt Spuren - bei den betroffenen Kindern, in der Klasse und der Schule.\nDatum\n4.11.2026, 13:00–17:30 Uhr\nDurchführungsort\nMuttenz",
+      "date": "4.11.2026",
+      "location": "Muttenz",
+      "match_score": 62,
+      "category": "Tagung/Konferenz",
+      "reason": "Fachtagung mit Austauschformat für Fachpersonen aus Bildung/Schule, erfüllt das harte Kriterium als Networking-Event, thematisch jedoch außerhalb der bevorzugten Schwerpunkte.",
+      "is_series": false,
+      "is_recommendation": true
+    }
+  ]
+}

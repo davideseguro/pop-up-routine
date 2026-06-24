@@ -1,0 +1,22 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-06-24
+1 neue Events, davon 1 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (1) ===
+
+- Fachtagung «Mobbing im schulischen Kontext – Erkennen. Verstehen. Handeln»
+  Score 62: Fachtagung mit Austauschformat für Fachpersonen aus Bildung/Schule, erfüllt das harte Kriterium als Networking-Event, thematisch jedoch außerhalb der bevorzugten Schwerpunkte.
+  4.11.2026 | Muttenz | Tagung/Konferenz
+  Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/fachtagung-mobbing-im-schulischen-kontext-erkennen-verstehen-handeln
+
+=== ALLE 1 NEUEN EVENTS ===
+
+  1. * Fachtagung «Mobbing im schulischen Kontext – Erkennen. Verstehen. Handeln» | 4.11.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/fachtagung-mobbing-im-schulischen-kontext-erkennen-verstehen-handeln
