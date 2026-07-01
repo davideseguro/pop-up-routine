@@ -1,0 +1,71 @@
+{
+  "diffed_at": "2026-07-01",
+  "baseline_count": 52,
+  "current_count": 55,
+  "new_count": 9,
+  "events": [
+    {
+      "name": "Robots and Drones\n11.08.2026",
+      "url": "https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/robots-drones-aihk-fhnw",
+      "raw_text": "Anderes\nRobots and Drones\n11.08.2026\nDigitaler Aufstieg der Maschinen: Mythos oder Realität?\nDatum\n11.8.2026, 17:00–18:30 Uhr\nDurchführungsort\nFHNW Campus Brugg-Windisch",
+      "date": "11.08.2026",
+      "location": "Brugg-Windisch"
+    },
+    {
+      "name": "Seminar: Recycling von Kunststoffen verstehen\n27.08.2026",
+      "url": "https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/recycling-kunststoffe-molekulare-charakterisierung-materialqualitaet",
+      "raw_text": "Anderes\nSeminar: Recycling von Kunststoffen verstehen\n27.08.2026\nDieses Seminar bietet einen kompakten Überblick über moderne analytische Strategien – von der molekularen Struktur bis zu makroskopischen Materialeigenschaften.\nDatum\n27.8.2026, 09:00–17:00 Uhr\nDurchführungsort\nFHNW Campus Brugg-Windisch, Gebäude 1, Audimax 1.045",
+      "date": "27.08.2026",
+      "location": "Brugg-Windisch"
+    },
+    {
+      "name": "Multispecies Spaces Lab: Kreative Räume an der Schnittstelle von Kunst und Architektur",
+      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/multispecies-spaces-lab-kreative-raeume-an-der-schnittstelle-von-kunst-und-architektur",
+      "raw_text": "Ausstellung/Präsentation\nMultispecies Spaces Lab: Kreative Räume an der Schnittstelle von Kunst und Architektur\nDas Weiterbildungsprogramm Multispecies Spaces Lab des Institute Art Gender Nature (IAGN) erforscht, wie Architektur und Kunst Räume für viele Arten schaffen können. Die Ergebnisse werden vom 28. bis 30. August 2026 an den Kunsttagen Basel gezeigt.\nDatum\n28.8.2026–30.8.2026\nDurchführungsort\n«der TANK», HGK Basel",
+      "date": "28.8.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Abschlusspräsentationen des CAS-Programms Art & Peace",
+      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/abschlusspraesentationen-des-cas-programms-art-and-peace",
+      "raw_text": "Ausstellung/Präsentation\nAbschlusspräsentationen des CAS-Programms Art & Peace\nIm CAS-Programm Art & Peace verbinden sich künstlerisches Denken und Friedensarbeit. Die aktuellen Teilnehmer:innen stellen am 28. August 2026 im Rahmen der Kunsttage Basel ihre Projekte im Salon Mondial öffentlich vor.\nDatum\n28.8.2026, 15:00–17:00 Uhr\nDurchführungsort\nSalon Mondial, Atelier Mondial",
+      "date": "28.8.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Ausstellung Bachelor-Diplomarbeiten Hochschule für Informatik und Hochschule für Technik und Umwelt\n28.8.2026",
+      "url": "https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/ausstellung-bachelor-diplomarbeiten-informatik-technik-umwelt",
+      "raw_text": "Anderes\nAusstellung Bachelor-Diplomarbeiten Hochschule für Informatik und Hochschule für Technik und Umwelt\n28.8.2026\nStudierende der Hochschule für Technik und Umwelt FHNW und der Hochschule für Informatik FHNW präsentieren Ihre Bachelor-Arbeiten.\nDatum\n28.8.2026, 16:00–18:30 Uhr\nDurchführungsort\nFHNW Campus Brugg-Windisch",
+      "date": "28.8.2026",
+      "location": "Brugg-Windisch"
+    },
+    {
+      "name": "Another Birth: Diplomausstellung 2026 des Institute Art Gender Nature (IAGN) der HGK Basel",
+      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/another-birth-diplomausstellung-2026-des-institute-art-gender-nature-der-hgk-basel",
+      "raw_text": "Ausstellung/Präsentation\nAnother Birth: Diplomausstellung 2026 des Institute Art Gender Nature (IAGN) der HGK Basel\nIm Rahmen der Diplom-Veranstaltungsreihe Next Generation 2026 der HGK Basel präsentiert das Institute Art Gender Nature (IAGN) vom 29. August bis 13. September im Kunsthaus Baselland die Diplomausstellung seiner Bachelor- und Master-Absolvent:innen.\nDatum\n29.8.2026–13.9.2026\nDurchführungsort\nKunsthaus Baselland",
+      "date": "29.8.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "CIVIC x Kunsttage Basel: The Kitchen as a Political Arena – Performances, Installationen, Workshop",
+      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/civic-x-kunsttage-basel-the-kitchen-as-a-political-arena-performances-installationen-workshop",
+      "raw_text": "Ausstellung/Präsentation\nCIVIC x Kunsttage Basel: The Kitchen as a Political Arena – Performances, Installationen, Workshop\nMit «The Kitchen as a Political Arena» von Bibiana Nocker und Micha Schweizer, Bachelor-Studierende am Institute Art Gender Nature (IAGN), präsentiert sich der Bildungs- und Experimentierort CIVIC der HGK Basel an den Kunsttagen Basel 2026.\nDatum\n29.8.2026–30.8.2026\nDurchführungsort\nCIVIC",
+      "date": "29.8.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Energy Data Hackdays Autumn 2026\n10.09.2026 - 11.09.2026",
+      "url": "https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/energy-data-hackdays-2026",
+      "raw_text": "Anderes\nEnergy Data Hackdays Autumn 2026\n10.09.2026 - 11.09.2026\nIn 2026, the Energy Data Hackdays is also bringing its mission to foster innovative solutions for today’s energy challenges.\nDatum\n10.9.2026–11.9.2026, 09:00–16:30 Uhr\nDurchführungsort\nFHNW Campus Brugg-Windisch",
+      "date": "10.09.2026 - 11.09.2026",
+      "location": "Brugg-Windisch"
+    },
+    {
+      "name": "Einweihung CIVIC Billboard 2026",
+      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/einweihung-civic-billboard-2026",
+      "raw_text": "Anderes\nEinweihung CIVIC Billboard 2026\nDie öffentliche Einweihung des von Lina Yakobchuk gestalteten CIVIC Billboard 2026 findet am 15. September 2026, um 12 Uhr vor dem Pavillon der HGK Basel an der Florenz-Strasse statt.\nDatum\n15.9.2026, 12:00–Open End\nDurchführungsort\nPavillon, HGK Basel",
+      "date": "15.9.2026",
+      "location": "Basel"
+    }
+  ]
+}

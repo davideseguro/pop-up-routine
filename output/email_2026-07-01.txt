@@ -1,0 +1,48 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-07-01
+9 neue Events, davon 3 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (3) ===
+
+- Robots and Drones | 11.08.2026
+  Score 72: Veranstaltung zu Robotik und Drohnen an der FHNW ermöglicht Networking zwischen Forschenden und Industrie, thematisch passend zu Tech-Events wie Roboter Treff.
+  11.08.2026 | Brugg-Windisch | Robotik/Tech
+  Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/robots-drones-aihk-fhnw
+
+- Seminar: Recycling von Kunststoffen verstehen | 27.08.2026
+  Score 62: Das Seminar behandelt Kunststoffrecycling und damit ein klar nachhaltigkeitsrelevantes Thema (Kreislaufwirtschaft), jedoch fehlen explizite Hinweise auf ein Networking-Format mit Austausch zwischen verschiedenen Akteuren.
+  27.08.2026 | Brugg-Windisch | Zero Emission
+  Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/recycling-kunststoffe-molekulare-charakterisierung-materialqualitaet
+
+- Energy Data Hackdays Autumn 2026 | 10.09.2026 - 11.09.2026
+  Score 72: Hackathon-Format mit Fokus auf Energiedaten und innovative Lösungen für aktuelle Energieherausforderungen ermöglicht Vernetzung und Zusammenarbeit zwischen verschiedenen Akteuren im Nachhaltigkeitsbereich, erfüllt aber das Networking-Kriterium nur teilweise da Hackathons primär auf gemeinsames Arbeiten statt Informationsaustausch ausgerichtet sind.
+  10.09.2026 - 11.09.2026 | Brugg-Windisch | Zero Emission | EVENTREIHE
+  Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/energy-data-hackdays-2026
+
+=== ALLE 9 NEUEN EVENTS ===
+
+  1. * Robots and Drones | 11.08.2026 | 11.08.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/robots-drones-aihk-fhnw
+  2. * Seminar: Recycling von Kunststoffen verstehen | 27.08.2026 | 27.08.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/recycling-kunststoffe-molekulare-charakterisierung-materialqualitaet
+  3.   Multispecies Spaces Lab: Kreative Räume an der Schnittstelle von Kunst und Architektur | 28.8.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/multispecies-spaces-lab-kreative-raeume-an-der-schnittstelle-von-kunst-und-architektur
+  4.   Abschlusspräsentationen des CAS-Programms Art & Peace | 28.8.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/abschlusspraesentationen-des-cas-programms-art-and-peace
+  5.   Ausstellung Bachelor-Diplomarbeiten Hochschule für Informatik und Hochschule für Technik und Umwelt | 28.8.2026 | 28.8.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/ausstellung-bachelor-diplomarbeiten-informatik-technik-umwelt
+  6.   Another Birth: Diplomausstellung 2026 des Institute Art Gender Nature (IAGN) der HGK Basel | 29.8.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/another-birth-diplomausstellung-2026-des-institute-art-gender-nature-der-hgk-basel
+  7.   CIVIC x Kunsttage Basel: The Kitchen as a Political Arena – Performances, Installationen, Workshop | 29.8.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/civic-x-kunsttage-basel-the-kitchen-as-a-political-arena-performances-installationen-workshop
+  8. * Energy Data Hackdays Autumn 2026 | 10.09.2026 - 11.09.2026 | 10.09.2026 - 11.09.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/energy-data-hackdays-2026
+  9.   Einweihung CIVIC Billboard 2026 | 15.9.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/einweihung-civic-billboard-2026
