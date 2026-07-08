@@ -1,0 +1,100 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-07-08
+15 neue Events, davon 11 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (11) ===
+
+- Netzwelten bauen – Abendanlass an der PH FHNW | Zweiter Anlass (Verschiebungstermin)
+  Score 72: Abendanlass zum Thema innovative Schulraumgestaltung und Lernformen (Bewegtes Lernen) mit Networking-Potenzial, trifft das weiche Kriterium Lernen/New Work und entspricht dem Format eines Austauschanlass für verschiedene Akteure.
+  26.8.2026 | Brugg-Windisch | New Work | EVENTREIHE
+  Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/netzwelten-bauen-abendanlass-brugg-windisch
+
+- A policymaker's view on the Japanese banking sector | 15. September 2026
+  Score 62: Als Teil der Ringvorlesung (bekannter Beispiel-Treffer) erfüllt das Event das Networking-Formatkriterium, thematisch jedoch kein direkter Bezug zu den bevorzugten Themen Nachhaltigkeit, Health oder New Work.
+  15.9.2026 | Online | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/asset-liability-talk-15-9-2026
+
+- Forschungsseminar: Vortrag von Prof. Dr. Matthias Lütolf | 23. September 2026
+  Score 72: Forschungsseminar mit externem Referenten zu Organoiden/Stem Cell Bioengineering ermöglicht fachlichen Austausch zwischen Forschenden und entspricht dem bekannten Beispiel-Treffer 'Forschungsseminar'.
+  23.9.2026 | Muttenz | Future Health | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/entwicklung-von-organoiden
+
+- Forschungsseminar: Vortrag von Philip Krüger | 30. September 2026
+  Score 72: Forschungsseminar mit externem Referenten zu KI-gestützten Avataren erfüllt das harte Kriterium als Networking- und Wissensaustausch-Format zwischen Forschenden, mit thematischer Nähe zu Future Health/Tech.
+  30.9.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/lifelike-ki-gestuetzte-avatare
+
+- Forschungsseminar: Vortrag von Heike Kerwin | 7. Oktober 2026
+  Score 72: Forschungsseminar mit externem Industriegast (Projekt Manager, Spiegeltec GmbH) ermöglicht Austausch zwischen Forschung und Industrie und entspricht dem bekannten Beispiel-Treffer 'Forschungsseminar'.
+  7.10.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/fehler-und-deren-wirkung
+
+- Forschungsseminar: Vortrag von Dr. Ian Jennings | 14. Oktober 2026
+  Score 72: Forschungsseminar mit Vortrag zu KI-Ethik ermöglicht Informationsaustausch zwischen Forschenden und entspricht dem Format bekannter Treffer wie 'Forschungsseminar', auch wenn das Networking-Element bei einem 45-minütigen Mittagsvortrag eher begrenzt ist.
+  14.10.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/ethik-und-ki-das-alignment-problem
+
+- Forschungsseminar: Vortrag von Dr. Paul Engeroff | 21. Oktober 2026
+  Score 62: Forschungsseminar mit externem Referenten (Inselspital Bern) ermöglicht fachlichen Austausch im Bereich Immunologie/Life Sciences und entspricht dem Format eines Networking-relevanten Vortrags, thematisch aber nur indirekt den bevorzugten Schwerpunkten.
+  21.10.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/ige-bei-der-regulierung-adaptiver-immunantworten
+
+- 2nd International Solidarity Research Conference (2ISRC)
+  Score 72: Internationale Forschungstagung mit Austausch zwischen Forschenden aus verschiedenen Ländern erfüllt das harte Kriterium als Networking- und Wissensaustausch-Event, thematisch aber nur am Rand der bevorzugten Themenfelder.
+  5.11.2026 | Online | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/2nd-international-solidarity-research-conference-2isrc
+
+- Fünfter internationaler FHNW Rover Träff | FHNW Rover Träff
+  Score 72: Der FHNW Rover Träff ist ein bekannter Beispieltreffer und ermöglicht als öffentliches Technologie-Event Networking zwischen Forschenden, Studierenden und Industrie im Bereich Weltraum-Robotik, auch wenn der Fokus auf Studierendenleistungen liegt.
+  15.5.2027 | Windisch | Robotik/Tech | EVENTREIHE
+  Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/fhnw-rover-traeff-2027
+
+- FHNW Robot Day 2027 | FHNW Robot Day 2027
+  Score 62: Der FHNW Robot Day ist ein öffentliches Showcase-Event für Robotik-Leistungen, das Networking-Potenzial bietet und zu den bekannten Beispiel-Treffern (Robot Day) gehört, jedoch primär auf Studierendenleistungen ausgerichtet ist.
+  15.5.2027 | Windisch | Robotik/Tech | EVENTREIHE
+  Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/fhnw-robot-day-2027
+
+- 8. Fachtagung Sozialplanung und Soziale Arbeit
+  Score 72: Fachtagung mit Austausch zwischen Forschenden, Sozialer Arbeit und Verwaltung erfüllt das Networking-Kriterium, thematisch jedoch nicht in den bevorzugten Bereichen angesiedelt.
+  2.7.2027 | Muttenz | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/tagung-sozialplaung-und-soziale_arbeit
+
+=== ALLE 15 NEUEN EVENTS ===
+
+  1. * Netzwelten bauen – Abendanlass an der PH FHNW | Zweiter Anlass (Verschiebungstermin) | 26.8.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/netzwelten-bauen-abendanlass-brugg-windisch
+  2.   Vidimus Stellam | Der Weg des gregorianischen Chores von der Monodie zur Polyphonie | 11.9.2026 | Basel
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/vidimus-stellam
+  3.   La Critica | Oper von Niccolò Jommelli | 13.9.2026 | Basel
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/la-critica
+  4. * A policymaker's view on the Japanese banking sector | 15. September 2026 | 15.9.2026 | Online
+      Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/asset-liability-talk-15-9-2026
+  5. * Forschungsseminar: Vortrag von Prof. Dr. Matthias Lütolf | 23. September 2026 | 23.9.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/entwicklung-von-organoiden
+  6. * Forschungsseminar: Vortrag von Philip Krüger | 30. September 2026 | 30.9.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/lifelike-ki-gestuetzte-avatare
+  7. * Forschungsseminar: Vortrag von Heike Kerwin | 7. Oktober 2026 | 7.10.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/fehler-und-deren-wirkung
+  8. * Forschungsseminar: Vortrag von Dr. Ian Jennings | 14. Oktober 2026 | 14.10.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/ethik-und-ki-das-alignment-problem
+  9. * Forschungsseminar: Vortrag von Dr. Paul Engeroff | 21. Oktober 2026 | 21.10.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/ige-bei-der-regulierung-adaptiver-immunantworten
+ 10.   Kontakttag 2026 - Life Sciences Career Event | 21. Oktober 2026 | 21.10.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/kontakttag-2026
+ 11. * 2nd International Solidarity Research Conference (2ISRC) | 5.11.2026 | Online
+      Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/2nd-international-solidarity-research-conference-2isrc
+ 12.   Kunst Kann – Eine interaktive Tagung | Kunst Kann – Eine interaktive Tagung | 20.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/kunst-kann
+ 13. * Fünfter internationaler FHNW Rover Träff | FHNW Rover Träff | 15.5.2027 | Windisch
+      Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/fhnw-rover-traeff-2027
+ 14. * FHNW Robot Day 2027 | FHNW Robot Day 2027 | 15.5.2027 | Windisch
+      Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/fhnw-robot-day-2027
+ 15. * 8. Fachtagung Sozialplanung und Soziale Arbeit | 2.7.2027 | Muttenz
+      Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/tagung-sozialplaung-und-soziale_arbeit
