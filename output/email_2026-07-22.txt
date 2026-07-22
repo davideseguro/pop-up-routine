@@ -1,0 +1,45 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-07-22
+5 neue Events, davon 4 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (4) ===
+
+- UK-Symposium 2026 – «Mit Unterstützter Kommunikation Lebenswelten gestalten»
+  Score 72: Fachsymposium im Format Tagung/Kongress zu Unterstützter Kommunikation, das Vernetzung zwischen Forschenden, Praxis und weiteren Akteuren ermöglicht, jedoch keines der bevorzugten Themenfelder abdeckt.
+  4.9.2026 | Olten | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/uk-symposium-2026
+
+- brenet ForschungsLunch #5
+  Score 72: Der brenet ForschungsLunch ermöglicht Informationsaustausch zwischen Forschenden und Praxis/Industrie zu konkreten Forschungsergebnissen der Fachhochschulen, erfüllt damit das harte Kriterium und ist thematisch im Bereich Bau/Energie angesiedelt.
+  7.9.2026 | Online | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/brenet-forschungslunch-5
+
+- brenet ForschungsLunch #6
+  Score 72: Der brenet ForschungsLunch ist ein regelmässiges Online-Format zum Austausch über Forschungsergebnisse aus Schweizer Fachhochschulen mit Praxis- und Industriebezug, was Networking zwischen Forschenden und Industrie ermöglicht – thematisch im Bereich Bauen/Energie und damit nahe an Zero Emission.
+  2.11.2026 | Online | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/brenet-forschungslunch-6
+
+- Praxis- und Netzwerktagung 2026 – Sport in der Schule
+  Score 72: Explizite Netzwerktagung mit Praxisbezug, die Forschende, Lehrpersonen und Bildungsakteure zusammenbringt – erfüllt das harte Kriterium, thematisch jedoch nur peripher relevant (Bildung/Sport, kein direkter Bezug zu den bevorzugten Themen).
+  21.11.2026 | Windisch | Tagung/Konferenz
+  Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/praxis-und-netzwerktagung-2026-sport-in-der-schule
+
+=== ALLE 5 NEUEN EVENTS ===
+
+  1.   Abschlusskolloquium CAS Digitales Bauen - Integriertes Projektmanagement | Abschlusskolloquium CAS Digitales Bauen - Integriertes Projektmanagement DF2 | 14.8.2026 | Online
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/akq-cas-ipm
+  2. * UK-Symposium 2026 – «Mit Unterstützter Kommunikation Lebenswelten gestalten» | 4.9.2026 | Olten
+      Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/uk-symposium-2026
+  3. * brenet ForschungsLunch #5 | 7.9.2026 | Online
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/brenet-forschungslunch-5
+  4. * brenet ForschungsLunch #6 | 2.11.2026 | Online
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/brenet-forschungslunch-6
+  5. * Praxis- und Netzwerktagung 2026 – Sport in der Schule | 21.11.2026 | Windisch
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/praxis-und-netzwerktagung-2026-sport-in-der-schule

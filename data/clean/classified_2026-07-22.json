@@ -1,0 +1,71 @@
+{
+  "scraped_at": null,
+  "classified_at": "2026-07-22",
+  "source_url": null,
+  "model": "claude-sonnet-4-6",
+  "threshold": 55,
+  "count": 5,
+  "recommendations_count": 4,
+  "events": [
+    {
+      "name": "Abschlusskolloquium CAS Digitales Bauen - Integriertes Projektmanagement\nAbschlusskolloquium CAS Digitales Bauen - Integriertes Projektmanagement DF2",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/akq-cas-ipm",
+      "raw_text": "Anderes\nAbschlusskolloquium CAS Digitales Bauen - Integriertes Projektmanagement\nAbschlusskolloquium CAS Digitales Bauen - Integriertes Projektmanagement DF2\nDer CAS Digitales Bauen - Integriertes Projektmanagement seinem Ende entgegen und die Teilnehmenden präsentieren die Resultate ihrer Zertifikatsarbeiten.\nDatum\n14.8.2026, 08:55–18:45 Uhr\nDurchführungsort\nOnline oder vor Ort",
+      "date": "14.8.2026",
+      "location": "Online",
+      "match_score": 10,
+      "category": "Bildung",
+      "reason": "Rein internes Abschlusskolloquium für CAS-Teilnehmende zur Präsentation von Zertifikatsarbeiten – kein offenes Networking-Format zwischen verschiedenen Akteuren aus Forschung, Industrie und Gesellschaft.",
+      "is_series": false,
+      "is_recommendation": false
+    },
+    {
+      "name": "UK-Symposium 2026 – «Mit Unterstützter Kommunikation Lebenswelten gestalten»",
+      "url": "https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/uk-symposium-2026",
+      "raw_text": "Tagung/Kongress\nUK-Symposium 2026 – «Mit Unterstützter Kommunikation Lebenswelten gestalten»\n«Mit Unterstützter Kommunikation Lebenswelten gestalten», so lautet das Thema des nächsten UK-Symposiums, welches am 4. September 2026 stattfindet.\nDatum\n4.9.2026, 09:00–18:00 Uhr\nDurchführungsort\nOlten",
+      "date": "4.9.2026",
+      "location": "Olten",
+      "match_score": 72,
+      "category": "Tagung/Konferenz",
+      "reason": "Fachsymposium im Format Tagung/Kongress zu Unterstützter Kommunikation, das Vernetzung zwischen Forschenden, Praxis und weiteren Akteuren ermöglicht, jedoch keines der bevorzugten Themenfelder abdeckt.",
+      "is_series": true,
+      "is_recommendation": true
+    },
+    {
+      "name": "brenet ForschungsLunch #5",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/brenet-forschungslunch-5",
+      "raw_text": "Anderes\nbrenet ForschungsLunch #5\nErfahren Sie, wie Labore der Schweizer Fachhochschulen reale Fragestellungen untersuchen und konkrete Lösungen für Praxis und Industrie entwickeln.\nDatum\n7.9.2026, 12:15–13:15 Uhr\nDurchführungsort\nonline via Teams",
+      "date": "7.9.2026",
+      "location": "Online",
+      "match_score": 72,
+      "category": "Forschung",
+      "reason": "Der brenet ForschungsLunch ermöglicht Informationsaustausch zwischen Forschenden und Praxis/Industrie zu konkreten Forschungsergebnissen der Fachhochschulen, erfüllt damit das harte Kriterium und ist thematisch im Bereich Bau/Energie angesiedelt.",
+      "is_series": true,
+      "is_recommendation": true
+    },
+    {
+      "name": "brenet ForschungsLunch #6",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/brenet-forschungslunch-6",
+      "raw_text": "Anderes\nbrenet ForschungsLunch #6\nErfahren Sie, wie Labore der Schweizer Fachhochschulen reale Fragestellungen untersuchen und konkrete Lösungen für Praxis und Industrie entwickeln.\nDatum\n2.11.2026, 12:15–13:15 Uhr\nDurchführungsort\nonline via Teams",
+      "date": "2.11.2026",
+      "location": "Online",
+      "match_score": 72,
+      "category": "Forschung",
+      "reason": "Der brenet ForschungsLunch ist ein regelmässiges Online-Format zum Austausch über Forschungsergebnisse aus Schweizer Fachhochschulen mit Praxis- und Industriebezug, was Networking zwischen Forschenden und Industrie ermöglicht – thematisch im Bereich Bauen/Energie und damit nahe an Zero Emission.",
+      "is_series": true,
+      "is_recommendation": true
+    },
+    {
+      "name": "Praxis- und Netzwerktagung 2026 – Sport in der Schule",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/praxis-und-netzwerktagung-2026-sport-in-der-schule",
+      "raw_text": "Tagung/Kongress\nPraxis- und Netzwerktagung 2026 – Sport in der Schule\nBewegung macht Schule – und wir bringen sie gemeinsam voran!\nDatum\n21.11.2026, 08:00–17:00 Uhr\nDurchführungsort\nWindisch",
+      "date": "21.11.2026",
+      "location": "Windisch",
+      "match_score": 72,
+      "category": "Tagung/Konferenz",
+      "reason": "Explizite Netzwerktagung mit Praxisbezug, die Forschende, Lehrpersonen und Bildungsakteure zusammenbringt – erfüllt das harte Kriterium, thematisch jedoch nur peripher relevant (Bildung/Sport, kein direkter Bezug zu den bevorzugten Themen).",
+      "is_series": false,
+      "is_recommendation": true
+    }
+  ]
+}

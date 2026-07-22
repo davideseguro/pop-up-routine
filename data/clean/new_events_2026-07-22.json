@@ -1,0 +1,43 @@
+{
+  "diffed_at": "2026-07-22",
+  "baseline_count": 69,
+  "current_count": 74,
+  "new_count": 5,
+  "events": [
+    {
+      "name": "Abschlusskolloquium CAS Digitales Bauen - Integriertes Projektmanagement\nAbschlusskolloquium CAS Digitales Bauen - Integriertes Projektmanagement DF2",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/akq-cas-ipm",
+      "raw_text": "Anderes\nAbschlusskolloquium CAS Digitales Bauen - Integriertes Projektmanagement\nAbschlusskolloquium CAS Digitales Bauen - Integriertes Projektmanagement DF2\nDer CAS Digitales Bauen - Integriertes Projektmanagement seinem Ende entgegen und die Teilnehmenden präsentieren die Resultate ihrer Zertifikatsarbeiten.\nDatum\n14.8.2026, 08:55–18:45 Uhr\nDurchführungsort\nOnline oder vor Ort",
+      "date": "14.8.2026",
+      "location": "Online"
+    },
+    {
+      "name": "UK-Symposium 2026 – «Mit Unterstützter Kommunikation Lebenswelten gestalten»",
+      "url": "https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/uk-symposium-2026",
+      "raw_text": "Tagung/Kongress\nUK-Symposium 2026 – «Mit Unterstützter Kommunikation Lebenswelten gestalten»\n«Mit Unterstützter Kommunikation Lebenswelten gestalten», so lautet das Thema des nächsten UK-Symposiums, welches am 4. September 2026 stattfindet.\nDatum\n4.9.2026, 09:00–18:00 Uhr\nDurchführungsort\nOlten",
+      "date": "4.9.2026",
+      "location": "Olten"
+    },
+    {
+      "name": "brenet ForschungsLunch #5",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/brenet-forschungslunch-5",
+      "raw_text": "Anderes\nbrenet ForschungsLunch #5\nErfahren Sie, wie Labore der Schweizer Fachhochschulen reale Fragestellungen untersuchen und konkrete Lösungen für Praxis und Industrie entwickeln.\nDatum\n7.9.2026, 12:15–13:15 Uhr\nDurchführungsort\nonline via Teams",
+      "date": "7.9.2026",
+      "location": "Online"
+    },
+    {
+      "name": "brenet ForschungsLunch #6",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/brenet-forschungslunch-6",
+      "raw_text": "Anderes\nbrenet ForschungsLunch #6\nErfahren Sie, wie Labore der Schweizer Fachhochschulen reale Fragestellungen untersuchen und konkrete Lösungen für Praxis und Industrie entwickeln.\nDatum\n2.11.2026, 12:15–13:15 Uhr\nDurchführungsort\nonline via Teams",
+      "date": "2.11.2026",
+      "location": "Online"
+    },
+    {
+      "name": "Praxis- und Netzwerktagung 2026 – Sport in der Schule",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/praxis-und-netzwerktagung-2026-sport-in-der-schule",
+      "raw_text": "Tagung/Kongress\nPraxis- und Netzwerktagung 2026 – Sport in der Schule\nBewegung macht Schule – und wir bringen sie gemeinsam voran!\nDatum\n21.11.2026, 08:00–17:00 Uhr\nDurchführungsort\nWindisch",
+      "date": "21.11.2026",
+      "location": "Windisch"
+    }
+  ]
+}
