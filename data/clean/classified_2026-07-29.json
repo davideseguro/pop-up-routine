@@ -1,0 +1,59 @@
+{
+  "scraped_at": null,
+  "classified_at": "2026-07-29",
+  "source_url": null,
+  "model": "claude-sonnet-4-6",
+  "threshold": 55,
+  "count": 4,
+  "recommendations_count": 3,
+  "events": [
+    {
+      "name": "HABG Welcome Day 2026\nErster Studientag Herbstsemester 2026",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/habg-welcome-day",
+      "raw_text": "HABG Welcome Day 2026\nErster Studientag Herbstsemester 2026\nAm Montag, den 14. September ist es soweit: Das Herbstsemester 2026 beginnt und der FHNW Campus Muttenz füllt sich wieder mit Leben. Wir freuen uns darauf, unsere neuen Studierenden an der Hochschule für Architektur, Bau und Geomatik FHNW willkommen zu heissen und begrüssen sie vorab gerne mit einigen Informationen und Impressionen.\nDatum\n14.9.2026, 08:00–16:00 Uhr\nDurchführungsort\nMuttenz",
+      "date": "14.9.2026",
+      "location": "Muttenz",
+      "match_score": 2,
+      "category": "Bildung",
+      "reason": "Rein internes Studierendeneinführungsevent ohne Networking-Format zwischen verschiedenen Akteuren – entspricht explizit dem Ausschlusskriterium.",
+      "is_series": false,
+      "is_recommendation": false
+    },
+    {
+      "name": "Tagung Soziale Innovation 2027",
+      "url": "https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/soziale-innovation-2027",
+      "raw_text": "Tagung/Kongress\nTagung Soziale Innovation 2027\n«Gut(es)» Entwickeln in der Sozialen Arbeit. Fachlich fundierte Innovationen im Kontext sich wandelnder Arbeitswelten // Colloque « Innovation sociale 2027 » : comment développer de « bonnes » innovations ?\nDatum\n24.2.2027\nDurchführungsort\nOlten",
+      "date": "24.2.2027",
+      "location": "Olten",
+      "match_score": 82,
+      "category": "Tagung/Konferenz",
+      "reason": "Fachtagung mit explizitem Fokus auf Innovation in der Sozialen Arbeit und Arbeitswelten, die Networking und Wissensaustausch zwischen verschiedenen Akteuren ermöglicht und thematisch an New Work/Arbeitswelt anknüpft.",
+      "is_series": false,
+      "is_recommendation": true
+    },
+    {
+      "name": "3. Fachtagung Wirkungen und Soziale Arbeit",
+      "url": "https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/tagung-wirkungen-2027",
+      "raw_text": "Tagung/Kongress\n3. Fachtagung Wirkungen und Soziale Arbeit\nWirkungen im Blick – neue Trends und Zugänge\nDatum\n3.3.2027",
+      "date": "3.3.2027",
+      "location": "",
+      "match_score": 72,
+      "category": "Tagung/Konferenz",
+      "reason": "Fachtagung mit Austausch zwischen Forschenden und Praxis der Sozialen Arbeit erfüllt das Networking-Kriterium, thematisch jedoch nicht im Kernbereich der bevorzugten Themen.",
+      "is_series": true,
+      "is_recommendation": true
+    },
+    {
+      "name": "8. Fachtagung Kindesschutz 2027",
+      "url": "https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/kindesschutztagung-2027",
+      "raw_text": "Tagung/Kongress\n8. Fachtagung Kindesschutz 2027\nHilfe, die ankommt: Nachhaltiger Kindesschutz zwischen familiärer Lebenswelt, Kooperation und Eingriff\nDatum\n4.6.2027, 08:45–16:30 Uhr\nDurchführungsort\nMuttenz",
+      "date": "4.6.2027",
+      "location": "Muttenz",
+      "match_score": 62,
+      "category": "Tagung/Konferenz",
+      "reason": "Fachtagung mit interdisziplinärem Austausch zwischen Fachpersonen aus Sozialarbeit, Verwaltung und Praxis erfüllt das harte Format-Kriterium, thematisch jedoch kein Schwerpunkt in den bevorzugten Bereichen.",
+      "is_series": true,
+      "is_recommendation": true
+    }
+  ]
+}

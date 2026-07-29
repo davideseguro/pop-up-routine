@@ -1,0 +1,38 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-07-29
+4 neue Events, davon 3 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (3) ===
+
+- Tagung Soziale Innovation 2027
+  Score 82: Fachtagung mit explizitem Fokus auf Innovation in der Sozialen Arbeit und Arbeitswelten, die Networking und Wissensaustausch zwischen verschiedenen Akteuren ermöglicht und thematisch an New Work/Arbeitswelt anknüpft.
+  24.2.2027 | Olten | Tagung/Konferenz
+  Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/soziale-innovation-2027
+
+- 3. Fachtagung Wirkungen und Soziale Arbeit
+  Score 72: Fachtagung mit Austausch zwischen Forschenden und Praxis der Sozialen Arbeit erfüllt das Networking-Kriterium, thematisch jedoch nicht im Kernbereich der bevorzugten Themen.
+  3.3.2027 | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/tagung-wirkungen-2027
+
+- 8. Fachtagung Kindesschutz 2027
+  Score 62: Fachtagung mit interdisziplinärem Austausch zwischen Fachpersonen aus Sozialarbeit, Verwaltung und Praxis erfüllt das harte Format-Kriterium, thematisch jedoch kein Schwerpunkt in den bevorzugten Bereichen.
+  4.6.2027 | Muttenz | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/kindesschutztagung-2027
+
+=== ALLE 4 NEUEN EVENTS ===
+
+  1.   HABG Welcome Day 2026 | Erster Studientag Herbstsemester 2026 | 14.9.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/habg-welcome-day
+  2. * Tagung Soziale Innovation 2027 | 24.2.2027 | Olten
+      Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/soziale-innovation-2027
+  3. * 3. Fachtagung Wirkungen und Soziale Arbeit | 3.3.2027 | 
+      Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/tagung-wirkungen-2027
+  4. * 8. Fachtagung Kindesschutz 2027 | 4.6.2027 | Muttenz
+      Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/kindesschutztagung-2027
