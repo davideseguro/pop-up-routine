@@ -1,0 +1,22 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-08-05
+1 neue Events, davon 1 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (1) ===
+
+- Netzwerkveranstaltung BSLB: Zielgruppenspezifische Beratung | 8. September 2026
+  Score 62: Explizites Netzwerk-Event mit Fachaustausch zur zielgruppenspezifischen Berufs- und Laufbahnberatung, das verschiedene Akteure zusammenbringt, jedoch nur schwach mit den bevorzugten Themen (Zero Emission, Future Health, New Work) überschneidet.
+  8.9.2026 | Online | Networking | EVENTREIHE
+  Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/zielgruppenspezifische-beratung
+
+=== ALLE 1 NEUEN EVENTS ===
+
+  1. * Netzwerkveranstaltung BSLB: Zielgruppenspezifische Beratung | 8. September 2026 | 8.9.2026 | Online
+      Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/zielgruppenspezifische-beratung

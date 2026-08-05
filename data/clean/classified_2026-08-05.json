@@ -1,0 +1,23 @@
+{
+  "scraped_at": null,
+  "classified_at": "2026-08-05",
+  "source_url": null,
+  "model": "claude-sonnet-4-6",
+  "threshold": 55,
+  "count": 1,
+  "recommendations_count": 1,
+  "events": [
+    {
+      "name": "Netzwerkveranstaltung BSLB: Zielgruppenspezifische Beratung\n8. September 2026",
+      "url": "https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/zielgruppenspezifische-beratung",
+      "raw_text": "Anderes\nNetzwerkveranstaltung BSLB: Zielgruppenspezifische Beratung\n8. September 2026\nDie Nationale Strategie fordert, dass die Angebote der Berufs-, Studien- und Laufbahnberatung stärker zielgruppenspezifisch ausgerichtet werden. Doch wie zeigt sich das konkret?\nDatum\n8.9.2026, 19:00–21:00 Uhr\nDurchführungsort\nOnline",
+      "date": "8.9.2026",
+      "location": "Online",
+      "match_score": 62,
+      "category": "Networking",
+      "reason": "Explizites Netzwerk-Event mit Fachaustausch zur zielgruppenspezifischen Berufs- und Laufbahnberatung, das verschiedene Akteure zusammenbringt, jedoch nur schwach mit den bevorzugten Themen (Zero Emission, Future Health, New Work) überschneidet.",
+      "is_series": true,
+      "is_recommendation": true
+    }
+  ]
+}
