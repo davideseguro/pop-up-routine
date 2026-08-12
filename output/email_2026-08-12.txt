@@ -1,0 +1,22 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-08-12
+1 neue Events, davon 1 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (1) ===
+
+- Digitalisierung im Gesundheitswesen: E-GD und e-ID im Fokus | 21.09.2026
+  Score 72: Thematisch klar im Bereich Digital Health (E-GD, e-ID, digitale Gesundheitsdaten), das Format mit 'mitgestalten' deutet auf Austausch hin, jedoch ist das kurze Zeitfenster (70 min) und fehlende explizite Networking-Komponente leicht einschränkend.
+  21.09.2026 | Aarau | Future Health
+  Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/digitalisierung-im-gesundheitswesen
+
+=== ALLE 1 NEUEN EVENTS ===
+
+  1. * Digitalisierung im Gesundheitswesen: E-GD und e-ID im Fokus | 21.09.2026 | 21.09.2026 | Aarau
+      Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/digitalisierung-im-gesundheitswesen

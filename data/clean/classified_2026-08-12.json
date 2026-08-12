@@ -1,0 +1,23 @@
+{
+  "scraped_at": null,
+  "classified_at": "2026-08-12",
+  "source_url": null,
+  "model": "claude-sonnet-4-6",
+  "threshold": 55,
+  "count": 1,
+  "recommendations_count": 1,
+  "events": [
+    {
+      "name": "Digitalisierung im Gesundheitswesen: E-GD und e-ID im Fokus\n21.09.2026",
+      "url": "https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/digitalisierung-im-gesundheitswesen",
+      "raw_text": "Anderes\nDigitalisierung im Gesundheitswesen: E-GD und e-ID im Fokus\n21.09.2026\nDigitale Gesundheitsdaten – verstehen, erleben, mitgestalten.\nDatum\n21.9.2026, 16:00–17:10 Uhr\nDurchführungsort\nHaus der Wirtschaft, 5001 Aarau",
+      "date": "21.09.2026",
+      "location": "Aarau",
+      "match_score": 72,
+      "category": "Future Health",
+      "reason": "Thematisch klar im Bereich Digital Health (E-GD, e-ID, digitale Gesundheitsdaten), das Format mit 'mitgestalten' deutet auf Austausch hin, jedoch ist das kurze Zeitfenster (70 min) und fehlende explizite Networking-Komponente leicht einschränkend.",
+      "is_series": false,
+      "is_recommendation": true
+    }
+  ]
+}
