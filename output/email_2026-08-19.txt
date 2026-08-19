@@ -1,0 +1,44 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-08-19
+7 neue Events, davon 3 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (3) ===
+
+- Braucht es mich noch? Überlegungen in Zeiten von KI | BIS'n'Beer - 17. September 2026
+  Score 72: BIS'n'Beer ist ein Networking-Format (informeller Austausch zwischen Forschenden und Interessierten) mit thematischem Bezug zu KI und Arbeitswelt, was dem Profil 'New Work' entspricht.
+  17.9.2026 | Olten | New Work | EVENTREIHE
+  Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/braucht-es-mich-noch-ueberlegungen-in-zeiten-von-ki
+
+- PodiuMINT / MINTklusion: Chancengerechtigkeit in der MINT-Bildung | Online-Podium
+  Score 62: Online-Podium mit Diskussionsformat zu Chancengerechtigkeit in der MINT-Bildung erfüllt das harte Kriterium (Informationsaustausch zwischen verschiedenen Akteuren), thematisch jedoch nur teilweise relevant (Bildungsbezug zu New Work/Lernen).
+  25.9.2026 | Online | Bildung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/mintklusion-chancengerechtigkeit-in-der-mint-bildung
+
+- PodiuMINT / KI im Griff oder im Griff der KI? | Online-Podium
+  Score 62: Online-Podium mit Diskussionsformat zum Thema KI in der MINT-Lehrerbildung ermöglicht Informationsaustausch, richtet sich jedoch primär an ein bildungsspezifisches Fachpublikum und berührt die bevorzugten Themen nur am Rande (New Work/Lernen).
+  11.12.2026 | Online | Bildung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/ki-im-griff-oder-im-griff-der-ki-die-rolle-von-ki-in-der-aus-und-weiterbildung-von-mint-lehrpersonen
+
+=== ALLE 7 NEUEN EVENTS ===
+
+  1.   Masterkonzerte Institut Jazz 2026 | 16.8.2026 | Basel
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/masterkonzerte-institut-jazz-2026
+  2. * Braucht es mich noch? Überlegungen in Zeiten von KI | BIS'n'Beer - 17. September 2026 | 17.9.2026 | Olten
+      Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/braucht-es-mich-noch-ueberlegungen-in-zeiten-von-ki
+  3. * PodiuMINT / MINTklusion: Chancengerechtigkeit in der MINT-Bildung | Online-Podium | 25.9.2026 | Online
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/mintklusion-chancengerechtigkeit-in-der-mint-bildung
+  4.   PodiuMINT / Next Gen-MINT! | Online-Podium | 16.10.2026 | Online
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/next-gen-mint-was-bedeuten-die-ergebnisse-des-mint-nachwuchsbarometers-fuer-die-lehrpersonenbildung
+  5.   Informieren und schnuppern: Einblick in das Master-Studium Virtual Design and Construction | Schnuppertag | 12.11.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/schnuppertag-im-masterstudium-msc-vdc
+  6.   PodiuMINT /Ausserschulische Lernorte – Nur Spass oder echter Mehrwert? | Online-Podium | 27.11.2026 | Online
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/ausserschulische-lernorte-nur-spass-oder-echter-mehrwert
+  7. * PodiuMINT / KI im Griff oder im Griff der KI? | Online-Podium | 11.12.2026 | Online
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/ki-im-griff-oder-im-griff-der-ki-die-rolle-von-ki-in-der-aus-und-weiterbildung-von-mint-lehrpersonen

@@ -1,0 +1,95 @@
+{
+  "scraped_at": null,
+  "classified_at": "2026-08-19",
+  "source_url": null,
+  "model": "claude-sonnet-4-6",
+  "threshold": 55,
+  "count": 7,
+  "recommendations_count": 3,
+  "events": [
+    {
+      "name": "Masterkonzerte Institut Jazz 2026",
+      "url": "https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/masterkonzerte-institut-jazz-2026",
+      "raw_text": "Konzert\nMasterkonzerte Institut Jazz 2026\nVom 16. bis 31. August 2026 präsentieren die Masterstudierenden des Instituts Jazz der Hochschule für Musik Basel FHNW ihre Abschlussprojekte am Jazzcampus.\nDatum\n16.8.2026–31.8.2026, 18:00–22:00 Uhr\nDurchführungsort\nJazzcampus Basel",
+      "date": "16.8.2026",
+      "location": "Basel",
+      "match_score": 0,
+      "category": "Kunst/Kultur",
+      "reason": "Reine Konzertveranstaltung von Masterstudierenden ohne Networking- oder Diskussionsformat.",
+      "is_series": true,
+      "is_recommendation": false
+    },
+    {
+      "name": "Braucht es mich noch? Überlegungen in Zeiten von KI\nBIS'n'Beer - 17. September 2026",
+      "url": "https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/braucht-es-mich-noch-ueberlegungen-in-zeiten-von-ki",
+      "raw_text": "Anderes\nBraucht es mich noch? Überlegungen in Zeiten von KI\nBIS'n'Beer - 17. September 2026\nBIS'n'Beer - Business Information Systems and Beer\nDatum\n17.9.2026, 17:15–19:15 Uhr\nDurchführungsort\nOlten",
+      "date": "17.9.2026",
+      "location": "Olten",
+      "match_score": 72,
+      "category": "New Work",
+      "reason": "BIS'n'Beer ist ein Networking-Format (informeller Austausch zwischen Forschenden und Interessierten) mit thematischem Bezug zu KI und Arbeitswelt, was dem Profil 'New Work' entspricht.",
+      "is_series": true,
+      "is_recommendation": true
+    },
+    {
+      "name": "PodiuMINT / MINTklusion: Chancengerechtigkeit in der MINT-Bildung\nOnline-Podium",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/mintklusion-chancengerechtigkeit-in-der-mint-bildung",
+      "raw_text": "Anderes\nPodiuMINT / MINTklusion: Chancengerechtigkeit in der MINT-Bildung\nOnline-Podium\nMit Prof. Dr. Daniela Nussbauer und Dr. Armin Duff\nDatum\n25.9.2026, 11:00–12:00 Uhr\nDurchführungsort\nOnline",
+      "date": "25.9.2026",
+      "location": "Online",
+      "match_score": 62,
+      "category": "Bildung",
+      "reason": "Online-Podium mit Diskussionsformat zu Chancengerechtigkeit in der MINT-Bildung erfüllt das harte Kriterium (Informationsaustausch zwischen verschiedenen Akteuren), thematisch jedoch nur teilweise relevant (Bildungsbezug zu New Work/Lernen).",
+      "is_series": true,
+      "is_recommendation": true
+    },
+    {
+      "name": "PodiuMINT / Next Gen-MINT!\nOnline-Podium",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/next-gen-mint-was-bedeuten-die-ergebnisse-des-mint-nachwuchsbarometers-fuer-die-lehrpersonenbildung",
+      "raw_text": "Anderes\nPodiuMINT / Next Gen-MINT!\nOnline-Podium\nMit Dr. Sonja Studer und Prof. Dr. Susanne Metzger\nDatum\n16.10.2026, 11:00–12:00 Uhr\nDurchführungsort\nOnline",
+      "date": "16.10.2026",
+      "location": "Online",
+      "match_score": 52,
+      "category": "Bildung",
+      "reason": "Online-Podium mit Diskussionsformat zwischen Fachpersonen zu MINT-Nachwuchs und Lehrpersonenbildung erfüllt das Format-Kriterium (Austausch zwischen Akteuren), ist thematisch aber eher im Bildungsbereich angesiedelt und nur bedingt auf Forschungs-Networking ausgerichtet.",
+      "is_series": true,
+      "is_recommendation": false
+    },
+    {
+      "name": "Informieren und schnuppern: Einblick in das Master-Studium Virtual Design and Construction\nSchnuppertag",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/schnuppertag-im-masterstudium-msc-vdc",
+      "raw_text": "Anderes\nInformieren und schnuppern: Einblick in das Master-Studium Virtual Design and Construction\nSchnuppertag\nDu interessierst dich für Digitales Bauen und neue Formen der Zusammenarbeit? Du bist auf der Suche nach einem passenden Master-Studiengang? Wie findest du es, ein Master-Studium mal ganz unverbindlich auszuprobieren?\nDatum\n12.11.2026, 08:30–17:15 Uhr\nDurchführungsort\nMuttenz",
+      "date": "12.11.2026",
+      "location": "Muttenz",
+      "match_score": 2,
+      "category": "Bildung",
+      "reason": "Reiner Schnuppertag für potenzielle Masterstudierende ohne Networking- oder Austauschformat zwischen Forschenden, Industrie oder anderen Akteuren.",
+      "is_series": false,
+      "is_recommendation": false
+    },
+    {
+      "name": "PodiuMINT /Ausserschulische Lernorte – Nur Spass oder echter Mehrwert?\nOnline-Podium",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/ausserschulische-lernorte-nur-spass-oder-echter-mehrwert",
+      "raw_text": "Anderes\nPodiuMINT /Ausserschulische Lernorte – Nur Spass oder echter Mehrwert?\nOnline-Podium\nMit Marie Pachtovà und Prof. Dr. Markus Emden\nDatum\n27.11.2026, 13:00–14:00 Uhr\nDurchführungsort\nOnline",
+      "date": "27.11.2026",
+      "location": "Online",
+      "match_score": 52,
+      "category": "Bildung",
+      "reason": "Das Online-Podium ermöglicht Diskussion und Informationsaustausch zwischen Fachpersonen zu ausserschulischen Lernorten im MINT-Bereich, hat jedoch keinen direkten Bezug zu den bevorzugten Themen und richtet sich primär an ein pädagogisches Fachpublikum.",
+      "is_series": true,
+      "is_recommendation": false
+    },
+    {
+      "name": "PodiuMINT / KI im Griff oder im Griff der KI?\nOnline-Podium",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/ki-im-griff-oder-im-griff-der-ki-die-rolle-von-ki-in-der-aus-und-weiterbildung-von-mint-lehrpersonen",
+      "raw_text": "Anderes\nPodiuMINT / KI im Griff oder im Griff der KI?\nOnline-Podium\nMit Prof. Dr. Lucio Negrini und Prof. Dr. Dennis Komm\nDatum\n11.12.2026, 11:00–12:00 Uhr\nDurchführungsort\nOnline",
+      "date": "11.12.2026",
+      "location": "Online",
+      "match_score": 62,
+      "category": "Bildung",
+      "reason": "Online-Podium mit Diskussionsformat zum Thema KI in der MINT-Lehrerbildung ermöglicht Informationsaustausch, richtet sich jedoch primär an ein bildungsspezifisches Fachpublikum und berührt die bevorzugten Themen nur am Rande (New Work/Lernen).",
+      "is_series": true,
+      "is_recommendation": true
+    }
+  ]
+}
