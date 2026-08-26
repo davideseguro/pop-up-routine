@@ -1,0 +1,23 @@
+{
+  "scraped_at": null,
+  "classified_at": "2026-08-26",
+  "source_url": null,
+  "model": "claude-sonnet-4-6",
+  "threshold": 55,
+  "count": 1,
+  "recommendations_count": 0,
+  "events": [
+    {
+      "name": "WINGWOMEN Stammtisch\n1.10.2026",
+      "url": "https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/wingwomen-stammtisch",
+      "raw_text": "Anderes\nWINGWOMEN Stammtisch\n1.10.2026\nFür alle Frauen im WIng-Studium, im Beruf oder mit Interesse am Studium. Treffen, austauschen, vernetzen.\nDatum\n1.10.2026, 18:15–Open End\nDurchführungsort\nCafeteria im Hallergebäude (1. Stock)",
+      "date": "1.10.2026",
+      "location": "",
+      "match_score": 22,
+      "category": "Networking",
+      "reason": "Obwohl Vernetzung im Vordergrund steht, richtet sich der Stammtisch ausschliesslich an Frauen im Wing-Studium bzw. mit Studieninteresse und ist damit eher ein studierendenorientiertes internes Event ohne fachlichen Austausch zwischen verschiedenen Akteuren aus Forschung, Industrie oder Gesellschaft.",
+      "is_series": true,
+      "is_recommendation": false
+    }
+  ]
+}

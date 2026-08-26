@@ -1,0 +1,15 @@
+{
+  "diffed_at": "2026-08-26",
+  "baseline_count": 84,
+  "current_count": 83,
+  "new_count": 1,
+  "events": [
+    {
+      "name": "WINGWOMEN Stammtisch\n1.10.2026",
+      "url": "https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/wingwomen-stammtisch",
+      "raw_text": "Anderes\nWINGWOMEN Stammtisch\n1.10.2026\nFür alle Frauen im WIng-Studium, im Beruf oder mit Interesse am Studium. Treffen, austauschen, vernetzen.\nDatum\n1.10.2026, 18:15–Open End\nDurchführungsort\nCafeteria im Hallergebäude (1. Stock)",
+      "date": "1.10.2026",
+      "location": ""
+    }
+  ]
+}
