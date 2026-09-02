@@ -1,0 +1,135 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-09-02
+25 neue Events, davon 14 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (14) ===
+
+- Geomatik-Herbst-Kolloquium | Vermessung und Dokumentation des grössten Höhlensystems der Schweiz
+  Score 62: Das Geomatik-Herbstkolloquium ist eine Fachveranstaltung mit Austauschformat zwischen Forschenden und Fachleuten zu aktuellen Projekten und Trends, erfüllt damit das harte Kriterium, liegt thematisch aber ausserhalb der bevorzugten Themenbereiche.
+  22.9.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/geomatik-herbst-kolloquium-1
+
+- Treiber und Hindernisse der digitalen Transformation im Schweizer Gesundheitswesen und was die CIOs damit zu tun haben
+  Score 82: Ringvorlesung zu digitaler Transformation im Schweizer Gesundheitswesen mit Fokus auf CIOs – erfüllt das Networking-Kriterium als Ringvorlesung (bekannter Treffer) und thematisch klar im Bereich Future Health / Digital Health.
+  28.9.2026 | Muttenz | Future Health | EVENTREIHE
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/future-health-konkret/treiber-und-hindernisse-der-digitalen-transformation-im-schweizer-gesundheitswesen-und-was-die-cios-damit-zu-tun-haben
+
+- Digitale Hände in der Pflege(-robotik)
+  Score 72: Ringvorlesung zu Pflegerobotik im Future-Health-Bereich erfüllt das Format-Kriterium als etabliertes Vorlesungsformat mit Austauschpotenzial und trifft das weiche Themenkriterium Future Health / Medizintechnik.
+  5.10.2026 | Muttenz | Future Health | EVENTREIHE
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/future-health-konkret/digitale-hande-in-der-pflegerobotik
+
+- Terrain Vague – Brachen als Möglichkeitsräume für soziale und räumliche Gestaltung von Gesundheit
+  Score 72: Ringvorlesung zu sozialräumlicher Gesundheitsgestaltung und Co-Design ermöglicht Informationsaustausch zwischen Forschenden und weiteren Akteuren und berührt das bevorzugte Thema Future Health.
+  12.10.2026 | Brugg-Windisch | Future Health | EVENTREIHE
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/future-health-konkret/terrain-vague
+
+- colloquium48 | Forum Musikpädagogik: Anne Günster
+  Score 62: Das Colloquium48 ist eine Ringvorlesung mit expliziter Austauschplattform für Forschende, erfüllt damit das harte Kriterium, hat jedoch einen sehr spezifischen musikpädagogischen Fokus ohne direkten Bezug zu den bevorzugten Themen.
+  13.10.2026 | Basel | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/forschung-am-dienstag
+
+- Kein Bock mehr: Sinnsuche und Wellbeing bei jungen Erwerbstätigen
+  Score 72: Ringvorlesung zu Sinnsuche und Wellbeing junger Erwerbstätiger passt thematisch zu New Work/Arbeitswelt und ermöglicht als Vorlesungsformat mit Diskussion grundsätzlich Austausch, auch wenn das Networking-Element bei einer einstündigen Ringvorlesung eher begrenzt ist.
+  19.10.2026 | Brugg-Windisch | New Work | EVENTREIHE
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/future-health-konkret/kein-bock-mehr
+
+- Forschungsseminar: Vortrag von Dr. Tsvetan Kardashliev | 28. Oktober 2026
+  Score 62: Forschungsseminar mit externem Vortragenden ermöglicht Wissensaustausch zwischen Forschenden, entspricht dem bekannten Beispiel-Treffer 'Forschungsseminar', thematisch jedoch kein direkter Bezug zu den bevorzugten Themenfeldern.
+  28.10.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/biocatalytic-oxidations-from-catalyst-development-to-bioprocess-scale-up
+
+- Clinic Meets Data Science Symposium 2026
+  Score 82: Dieses Symposium verbindet klinische KI und Gesundheitsdatenwissenschaft in einem Tagungsformat, das Networking und Wissensaustausch zwischen Forschenden und klinischen Akteuren ermöglicht, und trifft damit klar das Thema Future Health/Digital Health.
+  30.10.2026 | Online | Future Health | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/clinic-meets-data-science-symposium-2026
+
+- New Work in der Schweizer Planungs- und Bauindustrie
+  Score 82: Ringvorlesung zu agilen Zusammenarbeitsmodellen in der Baubranche adressiert direkt das Thema New Work/Arbeitswelt und ermöglicht als Ringvorlesungsformat typischerweise Austausch zwischen verschiedenen Akteuren.
+  4.11.2026 | Basel | New Work | EVENTREIHE
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/new-work-in-der-baubranche
+
+- Forschungsseminar: Vortrag von Prof. Dr. Juliane Moritz | 11. November 2026
+  Score 72: Forschungsseminar mit Vortrag zu keramischen Werkstoffen für biomedizinische Anwendungen – passt als bekanntes Beispiel-Format ('Forschungsseminar') zum harten Kriterium, mit thematischer Nähe zu Future Health/Medizintechnik.
+  11.11.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/keramische-werkstoffe-fuer-funktionale-und-biomedizinische-anwendungen
+
+- Learning cultures – wie wir lernen, sinnvoll zu lernen!
+  Score 82: Ringvorlesung zu Lernkulturen im Kontext Digitalisierung und lebenslanges Lernen passt klar zum Thema New Work/Lernen und ermöglicht als Format typischerweise Informationsaustausch und Networking.
+  11.11.2026 | Basel | New Work | EVENTREIHE
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/learning-cultures
+
+- On Connection: Prozessgestaltung und Zusammenarbeit
+  Score 82: Ringvorlesung im Format 'New Work Konkret' zu kollaborativer Prozessgestaltung und relationaler Praxis ermöglicht Austausch zwischen verschiedenen Akteuren und trifft das weiche Kriterium New Work/Zusammenarbeit.
+  18.11.2026 | Basel | New Work | EVENTREIHE
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/on-connection
+
+- Vom Klassenzimmer bis zum Restaurant und noch weiter: Wo humanoide Roboter unterstützen können
+  Score 82: Ringvorlesung zu humanoiden Robotern im Arbeits- und Bildungskontext – entspricht dem bekannten Beispiel-Treffer 'Ringvorlesung' und berührt thematisch New Work/Arbeitswelt sowie Robotik, mit typischem Networking-/Diskussionsformat.
+  25.11.2026 | Basel | Robotik/Tech | EVENTREIHE
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/vom-klassenzimmer-bis-zum-restaurant
+
+- Forschungsseminar: Vortrag von Prof. Dr. Francesca Paradisi | 2. Dezember 2026
+  Score 62: Forschungsseminar mit externem Gastvortrag (Universität Bern) erfüllt das harte Kriterium als wissenschaftliches Networking-Format für Forschende, thematisch jedoch kein direkter Bezug zu den bevorzugten Themenfeldern.
+  2.12.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/biokatalyse-schritt-fuer-schritt-vorantreiben-ein-enzym-nach-dem-anderen
+
+=== ALLE 25 NEUEN EVENTS ===
+
+  1.   PDF – Public Display of Findings: Diplomausstellung des Master-Studiengangs Transversal Design | 10.9.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/pdf-public-display-of-findings-diplomausstellung-des-master-studiengangs-transversal-design
+  2.   Communication Matters: Diplomausstellung 2026 des Institute Digital Communication Environments | 12.9.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/communication-matters-diplomausstellung-2026-des-institute-digital-communication-environments
+  3.   Art in Conflict: Von Design zu Solidarität – mit Futuress und Xaraxura | 16.9.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/art-in-conflict-von-design-zu-solidaritaet-mit-futuress-und-xaraxura
+  4.   Being There: Eine Installation von Mahdi Hosseingholi und Arshan Najafi im CIVIC der HGK Basel | 21.9.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/being-there-eine-installation-von-mahdi-hosseingholi-und-arshan-najafi-im-civic-der-hgk-basel
+  5. * Geomatik-Herbst-Kolloquium | Vermessung und Dokumentation des grössten Höhlensystems der Schweiz | 22.9.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/geomatik-herbst-kolloquium-1
+  6.   Diplomfeiern | Diplomfeier Muttenz | 24.9.2026 | Olten
+      Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/diplomfeiern_olten_muttenz
+  7. * Treiber und Hindernisse der digitalen Transformation im Schweizer Gesundheitswesen und was die CIOs damit zu tun haben | 28.9.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/future-health-konkret/treiber-und-hindernisse-der-digitalen-transformation-im-schweizer-gesundheitswesen-und-was-die-cios-damit-zu-tun-haben
+  8.   Zwischen Algorithmus und Ökosystem : Podiumsgespräch mit Dr. Yvonne Volkart zu KI und Natur | 1.10.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/zwischen-algorithmus-und-oekosystem-podiumsgespraech-mit-dr-yvonne-volkart-zu-ki-und-natur
+  9. * Digitale Hände in der Pflege(-robotik) | 5.10.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/future-health-konkret/digitale-hande-in-der-pflegerobotik
+ 10.   Vortrag «Ein Haus ...» | 6.10.2026 | Basel
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/vortrag-ein-haus-06-10-2026
+ 11. * Terrain Vague – Brachen als Möglichkeitsräume für soziale und räumliche Gestaltung von Gesundheit | 12.10.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/future-health-konkret/terrain-vague
+ 12. * colloquium48 | Forum Musikpädagogik: Anne Günster | 13.10.2026 | Basel
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/forschung-am-dienstag
+ 13.   Zwiegespräche | 16.10.2026 | Basel
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/zwiegespraeche
+ 14. * Kein Bock mehr: Sinnsuche und Wellbeing bei jungen Erwerbstätigen | 19.10.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/future-health-konkret/kein-bock-mehr
+ 15. * Forschungsseminar: Vortrag von Dr. Tsvetan Kardashliev | 28. Oktober 2026 | 28.10.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/biocatalytic-oxidations-from-catalyst-development-to-bioprocess-scale-up
+ 16. * Clinic Meets Data Science Symposium 2026 | 30.10.2026 | Online
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/clinic-meets-data-science-symposium-2026
+ 17.   Vortrag «Ein Haus ...» | 3.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/vortrag-ein-haus-03-11-2026
+ 18. * New Work in der Schweizer Planungs- und Bauindustrie | 4.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/new-work-in-der-baubranche
+ 19. * Forschungsseminar: Vortrag von Prof. Dr. Juliane Moritz | 11. November 2026 | 11.11.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/keramische-werkstoffe-fuer-funktionale-und-biomedizinische-anwendungen
+ 20. * Learning cultures – wie wir lernen, sinnvoll zu lernen! | 11.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/learning-cultures
+ 21.   Vortrag «Ein Haus ...» | 11.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/vortrag-ein-haus-11-11-2026
+ 22. * On Connection: Prozessgestaltung und Zusammenarbeit | 18.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/on-connection
+ 23. * Vom Klassenzimmer bis zum Restaurant und noch weiter: Wo humanoide Roboter unterstützen können | 25.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/vom-klassenzimmer-bis-zum-restaurant
+ 24. * Forschungsseminar: Vortrag von Prof. Dr. Francesca Paradisi | 2. Dezember 2026 | 2.12.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/biokatalyse-schritt-fuer-schritt-vorantreiben-ein-enzym-nach-dem-anderen
+ 25.   Vortrag «Ein Haus ...» | 2.12.2026 | Basel
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/vortrag-ein-haus-02-12-2026

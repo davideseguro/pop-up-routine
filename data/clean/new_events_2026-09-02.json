@@ -1,0 +1,183 @@
+{
+  "diffed_at": "2026-09-02",
+  "baseline_count": 83,
+  "current_count": 100,
+  "new_count": 25,
+  "events": [
+    {
+      "name": "PDF – Public Display of Findings: Diplomausstellung des Master-Studiengangs Transversal Design",
+      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/pdf-public-display-of-findings-diplomausstellung-des-master-studiengangs-transversal-design",
+      "raw_text": "Ausstellung/Präsentation\nPDF – Public Display of Findings: Diplomausstellung des Master-Studiengangs Transversal Design\nDie Diplomausstellung des Master-Studiengangs Transversal Design der HGK Basel präsentiert vom 10. bis 13. September 2026 am Steinengraben 40 in Basel Arbeiten, die unterschiedliche Zugänge zum Prozess des Suchens und Findens sichtbar machen.\nDatum\n10.9.2026–13.9.2026\nDurchführungsort\nSteinengraben 40, Basel",
+      "date": "10.9.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Communication Matters: Diplomausstellung 2026 des Institute Digital Communication Environments",
+      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/communication-matters-diplomausstellung-2026-des-institute-digital-communication-environments",
+      "raw_text": "Ausstellung/Präsentation\nCommunication Matters: Diplomausstellung 2026 des Institute Digital Communication Environments\nDie Diplomausstellung des Institute Digital Communication Environments (IDCE) der HGK Basel präsentiert vom 12. bis 17. September 2026 unter dem Titel «Communication Matters» 50 Thesis-Arbeiten. Begleitend erscheinen vier digitale Diplomkataloge.\nDatum\n12.9.2026–17.9.2026, 12:00–19:00 Uhr\nDurchführungsort\nHGK Basel, D 2.05/06",
+      "date": "12.9.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Art in Conflict: Von Design zu Solidarität – mit Futuress und Xaraxura",
+      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/art-in-conflict-von-design-zu-solidaritaet-mit-futuress-und-xaraxura",
+      "raw_text": "Anderes\nArt in Conflict: Von Design zu Solidarität – mit Futuress und Xaraxura\nIn der von der Mediathek der HGK Basel mitveranstalteten Gesprächsreihe «Art in Conflict» diskutieren am 16. September 2026 Vertreter:innen der Publikationsplattform Futuress und des Verlagskollektivs Xaraxura, wie Design Gemeinschaft stärken kann.\nDatum\n16.9.2026, 17:30–19:00 Uhr\nDurchführungsort\nGessnerallee, Zürich",
+      "date": "16.9.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Being There: Eine Installation von Mahdi Hosseingholi und Arshan Najafi im CIVIC der HGK Basel",
+      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/being-there-eine-installation-von-mahdi-hosseingholi-und-arshan-najafi-im-civic-der-hgk-basel",
+      "raw_text": "Ausstellung/Präsentation\nBeing There: Eine Installation von Mahdi Hosseingholi und Arshan Najafi im CIVIC der HGK Basel\nMit «Being There» präsentieren Mahdi Hosseingholi und Arshan Najafi vom 21. September bis 2. Oktober 2026 im CIVIC der HGK Basel eine interaktive audiovisuelle Interaktion uber Nähe, Distanz und Kommunikation über fragile Verbindungen.\nDatum\n21.9.2026–2.10.2026\nDurchführungsort\nCIVIC",
+      "date": "21.9.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Geomatik-Herbst-Kolloquium\nVermessung und Dokumentation des grössten Höhlensystems der Schweiz",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/geomatik-herbst-kolloquium-1",
+      "raw_text": "Anderes\nGeomatik-Herbst-Kolloquium\nVermessung und Dokumentation des grössten Höhlensystems der Schweiz\nDas Geomatik Herbstkolloquium ist eine Fachveranstaltung des Instituts Geomatik zum Austausch über aktuelle Projekte, Trends und Innovationen.\nDatum\n22.9.2026, 16:30–17:30 Uhr\nDurchführungsort\nMuttenz und online",
+      "date": "22.9.2026",
+      "location": "Muttenz"
+    },
+    {
+      "name": "Diplomfeiern\nDiplomfeier Muttenz",
+      "url": "https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/diplomfeiern_olten_muttenz",
+      "raw_text": "Anderes\nDiplomfeiern\nDiplomfeier Muttenz\nAn der Hochschule für Soziale Arbeit FHNW schliessen rund 224 Studierende ihr Studium erfolgreich ab. Die Diplomfeiern finden an den beiden Standorten statt: am 24. und 25. September 2026 in Muttenz und Olten, jeweils von 17.00-18.30 Uhr.\nDatum\n24.9.2026\nDurchführungsort\nCampus Muttenz",
+      "date": "24.9.2026",
+      "location": "Olten"
+    },
+    {
+      "name": "Treiber und Hindernisse der digitalen Transformation im Schweizer Gesundheitswesen und was die CIOs damit zu tun haben",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/future-health-konkret/treiber-und-hindernisse-der-digitalen-transformation-im-schweizer-gesundheitswesen-und-was-die-cios-damit-zu-tun-haben",
+      "raw_text": "Ringvorlesung\nTreiber und Hindernisse der digitalen Transformation im Schweizer Gesundheitswesen und was die CIOs damit zu tun haben\nWissenschaftsbasierte Ansätze für eine Digitalisierung mit Mehrwert\nDatum\n28.9.2026, 17:15–18:15 Uhr\nDurchführungsort\nMuttenz",
+      "date": "28.9.2026",
+      "location": "Muttenz"
+    },
+    {
+      "name": "Zwischen Algorithmus und Ökosystem : Podiumsgespräch mit Dr. Yvonne Volkart zu KI und Natur",
+      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/zwischen-algorithmus-und-oekosystem-podiumsgespraech-mit-dr-yvonne-volkart-zu-ki-und-natur",
+      "raw_text": "Anderes\nZwischen Algorithmus und Ökosystem : Podiumsgespräch mit Dr. Yvonne Volkart zu KI und Natur\nIm Rahmen der aktuellen Ausstellung «Künstliche Kreativität» im Aargauer Kunsthaus findet am 1. Oktober 2026 eine Podiumsdiskussion mit Dr. Yvonne Volkart von der HGK Basel zum Thema «KI und Natur: Zwischen Algorithmus und Ökosystem» statt.\nDatum\n1.10.2026, 18:30–20:00 Uhr\nDurchführungsort\nAargauer Kunsthaus",
+      "date": "1.10.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Digitale Hände in der Pflege(-robotik)",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/future-health-konkret/digitale-hande-in-der-pflegerobotik",
+      "raw_text": "Ringvorlesung\nDigitale Hände in der Pflege(-robotik)\nEin Überblick über Pflegerobotik und die Einführung von Robotern in Pflegeberufen\nDatum\n5.10.2026, 17:15–18:15 Uhr\nDurchführungsort\nMuttenz",
+      "date": "5.10.2026",
+      "location": "Muttenz"
+    },
+    {
+      "name": "Vortrag «Ein Haus ...»",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/vortrag-ein-haus-06-10-2026",
+      "raw_text": "Vortrag «Ein Haus ...»\n‹Residenz der Schweizer Botschaft in Algier› | Lütjens Padmanabhan Architekt*innen, Zürich\nDatum\n6.10.2026, 19:00–Open End\nDurchführungsort\nBasel",
+      "date": "6.10.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Terrain Vague – Brachen als Möglichkeitsräume für soziale und räumliche Gestaltung von Gesundheit",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/future-health-konkret/terrain-vague",
+      "raw_text": "Ringvorlesung\nTerrain Vague – Brachen als Möglichkeitsräume für soziale und räumliche Gestaltung von Gesundheit\nWie versiegelte und ungenutzte Stadträume durch inklusives Co-Design und Sozialraumarbeit zu Orten werden, die menschlich-ökologische Gesundheit über Generationen hinweg fördern\nDatum\n12.10.2026, 17:15–18:15 Uhr\nDurchführungsort\nBrugg-Windisch",
+      "date": "12.10.2026",
+      "location": "Brugg-Windisch"
+    },
+    {
+      "name": "colloquium48\nForum Musikpädagogik: Anne Günster",
+      "url": "https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/forschung-am-dienstag",
+      "raw_text": "Ringvorlesung\ncolloquium48\nForum Musikpädagogik: Anne Günster\ncolloquium48 bietet Forschenden und Forschungsinteressierten eine Plattform zum Austausch.\nDatum\n13.10.2026, 20:00–21:30 Uhr\nDurchführungsort\nZi 6-301, Campus Musik-Akademie Basel",
+      "date": "13.10.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Zwiegespräche",
+      "url": "https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/zwiegespraeche",
+      "raw_text": "Konzert\nZwiegespräche\nEin Geburtstagskonzert für György Kurtág. Seine Musik im Dialog mit Werken von Mozart, Wyttenbach, Holliger und Moser.\nDatum\n16.10.2026, 19:30–21:30 Uhr\nDurchführungsort\nDon Bosco Basel",
+      "date": "16.10.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Kein Bock mehr: Sinnsuche und Wellbeing bei jungen Erwerbstätigen",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/future-health-konkret/kein-bock-mehr",
+      "raw_text": "Ringvorlesung\nKein Bock mehr: Sinnsuche und Wellbeing bei jungen Erwerbstätigen\nWas gibt jungen Menschen Sinn bei der Arbeit?\nDatum\n19.10.2026, 17:15–18:15 Uhr\nDurchführungsort\nBrugg-Windisch",
+      "date": "19.10.2026",
+      "location": "Brugg-Windisch"
+    },
+    {
+      "name": "Forschungsseminar: Vortrag von Dr. Tsvetan Kardashliev\n28. Oktober 2026",
+      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/biocatalytic-oxidations-from-catalyst-development-to-bioprocess-scale-up",
+      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. Tsvetan Kardashliev\n28. Oktober 2026\nBiocatalytic Oxidations: From Catalyst Development to Bioprocess Scale-Up - Dr. Tsvetan Kardashliev, UniBasel\nDatum\n28.10.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
+      "date": "28.10.2026",
+      "location": "Muttenz"
+    },
+    {
+      "name": "Clinic Meets Data Science Symposium 2026",
+      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/clinic-meets-data-science-symposium-2026",
+      "raw_text": "Tagung/Kongress\nClinic Meets Data Science Symposium 2026\nKlinische KI, KI-gestützte Krebs-Omik und Gesundheitsdatenwissenschaft stehen im Mittelpunkt dieser sechsten Ausgabe\nDatum\n30.10.2026, 09:00–13:45 Uhr\nDurchführungsort\nOnline",
+      "date": "30.10.2026",
+      "location": "Online"
+    },
+    {
+      "name": "Vortrag «Ein Haus ...»",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/vortrag-ein-haus-03-11-2026",
+      "raw_text": "Vortrag «Ein Haus ...»\n‹House for Five Women, Bosnien und Herzegovina, 2025› | TEN, Zürich und Belgrad\nDatum\n3.11.2026, 19:00–Open End\nDurchführungsort\nBasel",
+      "date": "3.11.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "New Work in der Schweizer Planungs- und Bauindustrie",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/new-work-in-der-baubranche",
+      "raw_text": "Ringvorlesung\nNew Work in der Schweizer Planungs- und Bauindustrie\nWie man mit agilen Zusammenarbeitsmodellen starre Strukturen aufbricht\nDatum\n4.11.2026, 16:00–19:00 Uhr\nDurchführungsort\nBasel",
+      "date": "4.11.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Forschungsseminar: Vortrag von Prof. Dr. Juliane Moritz\n11. November 2026",
+      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/keramische-werkstoffe-fuer-funktionale-und-biomedizinische-anwendungen",
+      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Prof. Dr. Juliane Moritz\n11. November 2026\nKeramische Werkstoffe für funktionale und biomedizinische Anwendungen - Prof. Dr. Juliane Moritz, Dozentin für metallische und keramische Werkstoffe, Institut für Produkt- und Produktionsengineering, Hochschule für Technik und Umwelt FHNW\nDatum\n11.11.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
+      "date": "11.11.2026",
+      "location": "Muttenz"
+    },
+    {
+      "name": "Learning cultures – wie wir lernen, sinnvoll zu lernen!",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/learning-cultures",
+      "raw_text": "Ringvorlesung\nLearning cultures – wie wir lernen, sinnvoll zu lernen!\nDigitalisierung, Flexibilisierung und lebenslanges Lernen prägen neue Lernkulturen – und eröffnen Wege, Lernen sinnvoll und wirksam zu gestalten.\nDatum\n11.11.2026, 16:00–19:00 Uhr\nDurchführungsort\nBasel",
+      "date": "11.11.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Vortrag «Ein Haus ...»",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/vortrag-ein-haus-11-11-2026",
+      "raw_text": "Vortrag «Ein Haus ...»\n‹Villa Ruba, Arnhem, The Netherlands, 2024› | Dyvik Kahlen, Porto und Palma de Mallorca\nDatum\n11.11.2026, 19:00–Open End\nDurchführungsort\nBasel",
+      "date": "11.11.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "On Connection: Prozessgestaltung und Zusammenarbeit",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/on-connection",
+      "raw_text": "Ringvorlesung\nOn Connection: Prozessgestaltung und Zusammenarbeit\nPerspektiven auf Gestaltung als relationale Praxis\nDatum\n18.11.2026, 16:00–19:00 Uhr\nDurchführungsort\nBasel",
+      "date": "18.11.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Vom Klassenzimmer bis zum Restaurant und noch weiter: Wo humanoide Roboter unterstützen können",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/vom-klassenzimmer-bis-zum-restaurant",
+      "raw_text": "Ringvorlesung\nVom Klassenzimmer bis zum Restaurant und noch weiter: Wo humanoide Roboter unterstützen können\nRoboter, die gehen, reagieren und Aufgaben ausführen\nDatum\n25.11.2026, 16:00–19:00 Uhr\nDurchführungsort\nBasel",
+      "date": "25.11.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Forschungsseminar: Vortrag von Prof. Dr. Francesca Paradisi\n2. Dezember 2026",
+      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/biokatalyse-schritt-fuer-schritt-vorantreiben-ein-enzym-nach-dem-anderen",
+      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Prof. Dr. Francesca Paradisi\n2. Dezember 2026\nDie Biokatalyse Schritt für Schritt vorantreiben, ein Enzym nach dem anderen - Prof. Dr. Francesca Paradisi, DCBP, Universität Bern\nDatum\n2.12.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
+      "date": "2.12.2026",
+      "location": "Muttenz"
+    },
+    {
+      "name": "Vortrag «Ein Haus ...»",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/vortrag-ein-haus-02-12-2026",
+      "raw_text": "Vortrag «Ein Haus ...»\n‹Mehrgenerationenhaus Görzer Strasse, München, 2024› | ETAL, München\nDatum\n2.12.2026, 19:00–Open End\nDurchführungsort\nBasel",
+      "date": "2.12.2026",
+      "location": "Basel"
+    }
+  ]
+}
