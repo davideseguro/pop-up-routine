@@ -1,0 +1,66 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-09-09
+8 neue Events, davon 7 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (7) ===
+
+- 10 Jahre Selbstorganisation in der Schweiz | Learning Journey Selbstorganisation 1: mit Marcel Reinhard
+  Score 72: Das Event behandelt Selbstorganisation und Zukunft der Arbeit (New Work-Thema) in einem hybrid-interaktiven Format mit Networking-Potenzial, erfüllt damit sowohl das harte Kriterium als auch das weiche Kriterium.
+  16.9.2026 | Olten | New Work | EVENTREIHE
+  Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/10-jahre-selbstorganisation-in-der-schweiz
+
+- Geomatik-Herbst-Kolloquium | Vermessung und Dokumentation des grössten Höhlensystems der Schweiz
+  Score 62: Das Geomatik-Herbst-Kolloquium ist eine Fachveranstaltung mit Austauschformat zwischen Forschenden und Fachpublikum, erfüllt damit das harte Kriterium, thematisch jedoch kein direkter Bezug zu den bevorzugten Themen des Nutzerprofils.
+  22.9.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/geomatik-herbst-kolloquium
+
+- Schönes neues Lernen – Wie KI den Zugang zu Wissen verbessert, und wie man den Erwerb von Wissen rettet
+  Score 62: Der Vortrag zum Thema KI und Lernen passt thematisch gut zum weichen Kriterium 'Lernen/New Work', erfüllt aber das harte Networking-Kriterium nur eingeschränkt, da es sich primär um eine Präsentation/Vortrag handelt, bei dem der Austausch zwischen verschiedenen Akteuren nicht explizit vorgesehen ist.
+  26.10.2026 | Brugg-Windisch | New Work
+  Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/wie-ki-den-zugang-zu-wissen-verbessert-und-wie-man-den-erwerb-von-wissen-rettet
+
+- Wissenschaftscafé Aargau: Demokratie digital
+  Score 72: Das Wissenschaftscafé ermöglicht direkten Dialog und Austausch zwischen Fachpersonen und interessiertem Publikum, erfüllt damit das harte Kriterium des Networking/Informationsaustauschs, thematisch jedoch kein direkter Treffer der bevorzugten Themenbereiche.
+  4.11.2026 | Networking | EVENTREIHE
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/wissenschaftscafe-aargau-demokratie-digital
+
+- Radontag FHNW 2026
+  Score 62: Der jährliche Radontag ist ein thematisches Fachseminar mit Networking-Potenzial zwischen Forschenden und Fachpersonen (z.B. Bauphysik, Gesundheitsschutz), jedoch fehlen im Text explizite Hinweise auf Austauschformate oder Akteursvielfalt.
+  6.11.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/radontag-fhnw
+
+- Diversität und Antidiskriminierung in der Bildung im Spannungsfeld aktueller Diskurse | Podiumsdiskussion
+  Score 62: Podiumsdiskussion mit Austauschformat erfüllt das harte Kriterium, thematisch jedoch eher Bildung/Diversität als die bevorzugten Themenfelder des Nutzers.
+  17.11.2026 | Olten | Bildung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/diversitaet-und-antidiskriminierung-in-der-bildung-im-spannungsfeld-aktueller-diskurse
+
+- Fördermöglichkeiten in den Life Sciences | November 18, 2026
+  Score 62: Lunch-Veranstaltung zu Fördermöglichkeiten in den Life Sciences ermöglicht Informationsaustausch zwischen Forschenden und relevanten Akteuren (z.B. Förderinstitutionen), erfüllt damit das Networking-Kriterium bedingt und ist thematisch dem Bereich Future Health zuzuordnen.
+  18.11.2026 | Future Health
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/foerdermoeglichkeiten-in-den-life-sciences
+
+=== ALLE 8 NEUEN EVENTS ===
+
+  1. * 10 Jahre Selbstorganisation in der Schweiz | Learning Journey Selbstorganisation 1: mit Marcel Reinhard | 16.9.2026 | Olten
+      Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/10-jahre-selbstorganisation-in-der-schweiz
+  2. * Geomatik-Herbst-Kolloquium | Vermessung und Dokumentation des grössten Höhlensystems der Schweiz | 22.9.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/geomatik-herbst-kolloquium
+  3. * Schönes neues Lernen – Wie KI den Zugang zu Wissen verbessert, und wie man den Erwerb von Wissen rettet | 26.10.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/wie-ki-den-zugang-zu-wissen-verbessert-und-wie-man-den-erwerb-von-wissen-rettet
+  4.   Schöne neue Arbeitswelt – Welchen Einfluss hat KI auf Arbeitsalltag, Teamprozesse und Mitarbeiter, und wie kann man das effektiv nutzen | 26.10.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/welchen-einfluss-hat-ki-auf-arbeitsalltag-teamprozesse-und-mitarbeiter-und-wie-kann-man-das-effektiv-nutzen
+  5. * Wissenschaftscafé Aargau: Demokratie digital | 4.11.2026 | 
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/wissenschaftscafe-aargau-demokratie-digital
+  6. * Radontag FHNW 2026 | 6.11.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/radontag-fhnw
+  7. * Diversität und Antidiskriminierung in der Bildung im Spannungsfeld aktueller Diskurse | Podiumsdiskussion | 17.11.2026 | Olten
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/diversitaet-und-antidiskriminierung-in-der-bildung-im-spannungsfeld-aktueller-diskurse
+  8. * Fördermöglichkeiten in den Life Sciences | November 18, 2026 | 18.11.2026 | 
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/foerdermoeglichkeiten-in-den-life-sciences

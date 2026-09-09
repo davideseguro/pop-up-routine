@@ -1,0 +1,107 @@
+{
+  "scraped_at": null,
+  "classified_at": "2026-09-09",
+  "source_url": null,
+  "model": "claude-sonnet-4-6",
+  "threshold": 55,
+  "count": 8,
+  "recommendations_count": 7,
+  "events": [
+    {
+      "name": "10 Jahre Selbstorganisation in der Schweiz\nLearning Journey Selbstorganisation 1: mit Marcel Reinhard",
+      "url": "https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/10-jahre-selbstorganisation-in-der-schweiz",
+      "raw_text": "Anderes\n10 Jahre Selbstorganisation in der Schweiz\nLearning Journey Selbstorganisation 1: mit Marcel Reinhard\nWie wollen wir in Zukunft arbeiten – und wie können wir Organisationen schaffen, die gleichzeitig leistungsfähig, innovativ und attraktiv für Menschen sind?\nDatum\n16.9.2026, 18:00–Open End\nDurchführungsort\nHybrid: Olten und online",
+      "date": "16.9.2026",
+      "location": "Olten",
+      "match_score": 72,
+      "category": "New Work",
+      "reason": "Das Event behandelt Selbstorganisation und Zukunft der Arbeit (New Work-Thema) in einem hybrid-interaktiven Format mit Networking-Potenzial, erfüllt damit sowohl das harte Kriterium als auch das weiche Kriterium.",
+      "is_series": true,
+      "is_recommendation": true
+    },
+    {
+      "name": "Geomatik-Herbst-Kolloquium\nVermessung und Dokumentation des grössten Höhlensystems der Schweiz",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/geomatik-herbst-kolloquium",
+      "raw_text": "Anderes\nGeomatik-Herbst-Kolloquium\nVermessung und Dokumentation des grössten Höhlensystems der Schweiz\nDas Geomatik Herbstkolloquium ist eine Fachveranstaltung des Instituts Geomatik zum Austausch über aktuelle Projekte, Trends und Innovationen.\nDatum\n22.9.2026, 16:30–17:30 Uhr\nDurchführungsort\nMuttenz und online",
+      "date": "22.9.2026",
+      "location": "Muttenz",
+      "match_score": 62,
+      "category": "Forschung",
+      "reason": "Das Geomatik-Herbst-Kolloquium ist eine Fachveranstaltung mit Austauschformat zwischen Forschenden und Fachpublikum, erfüllt damit das harte Kriterium, thematisch jedoch kein direkter Bezug zu den bevorzugten Themen des Nutzerprofils.",
+      "is_series": true,
+      "is_recommendation": true
+    },
+    {
+      "name": "Schönes neues Lernen – Wie KI den Zugang zu Wissen verbessert, und wie man den Erwerb von Wissen rettet",
+      "url": "https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/wie-ki-den-zugang-zu-wissen-verbessert-und-wie-man-den-erwerb-von-wissen-rettet",
+      "raw_text": "Ausstellung/Präsentation\nSchönes neues Lernen – Wie KI den Zugang zu Wissen verbessert, und wie man den Erwerb von Wissen rettet\nKI-Chatbots eröffnen neue Möglichkeiten für individuelles und selbstständiges Lernen. Gleichzeitig besteht die Gefahr, dass wichtige Kompetenzen verloren gehen, wenn Denken, Schreiben oder Problemlösen zunehmend an die KI delegiert werden. Der Vortrag zeigt, wie KI lernförderlich eingesetzt werden kann und wie wir dabei sicherstellen, dass Lernen tatsächlich Lernen bleibt.\nDatum\n26.10.2026, 17:00–18:30 Uhr\nDurchführungsort\nBrugg-Windisch",
+      "date": "26.10.2026",
+      "location": "Brugg-Windisch",
+      "match_score": 62,
+      "category": "New Work",
+      "reason": "Der Vortrag zum Thema KI und Lernen passt thematisch gut zum weichen Kriterium 'Lernen/New Work', erfüllt aber das harte Networking-Kriterium nur eingeschränkt, da es sich primär um eine Präsentation/Vortrag handelt, bei dem der Austausch zwischen verschiedenen Akteuren nicht explizit vorgesehen ist.",
+      "is_series": false,
+      "is_recommendation": true
+    },
+    {
+      "name": "Schöne neue Arbeitswelt – Welchen Einfluss hat KI auf Arbeitsalltag, Teamprozesse und Mitarbeiter, und wie kann man das effektiv nutzen",
+      "url": "https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/welchen-einfluss-hat-ki-auf-arbeitsalltag-teamprozesse-und-mitarbeiter-und-wie-kann-man-das-effektiv-nutzen",
+      "raw_text": "Ausstellung/Präsentation\nSchöne neue Arbeitswelt – Welchen Einfluss hat KI auf Arbeitsalltag, Teamprozesse und Mitarbeiter, und wie kann man das effektiv nutzen\nKünstliche Intelligenz kann Mitarbeitende entlasten, Prozesse beschleunigen und neue Formen der Zusammenarbeit ermöglichen. Doch zwischen beeindruckenden KI-Anwendungen und messbarer Wertsteigerung liegt oft eine grosse Lücke. Der Vortrag zeigt, welche Faktoren für den erfolgreichen Einsatz von KI entscheidend sind und wie Unternehmen, Teams und Mitarbeitende die Technologie wirkungsvoll nutzen können.\nDatum\n26.10.2026, 19:00–20:30 Uhr\nDurchführungsort\nBrugg-Windisch",
+      "date": "26.10.2026",
+      "location": "Brugg-Windisch",
+      "match_score": 52,
+      "category": "New Work",
+      "reason": "Das Event thematisiert KI und Arbeitswelt (passendes Thema), ist jedoch als Vortrag/Ausstellung ohne explizites Networking- oder Austauschformat klassifiziert, was das harte Kriterium nur bedingt erfüllt.",
+      "is_series": false,
+      "is_recommendation": false
+    },
+    {
+      "name": "Wissenschaftscafé Aargau: Demokratie digital",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/wissenschaftscafe-aargau-demokratie-digital",
+      "raw_text": "Anderes\nWissenschaftscafé Aargau: Demokratie digital\nIm Wissenschaftscafé Aargau können Sie in einen direkten Dialog mit Fachpersonen eintreten und mit ihnen über aktuelle Themen diskutieren.\nDatum\n4.11.2026, 18:30–20:30 Uhr\nDurchführungsort\nAargauer Kantonsbibliothek",
+      "date": "4.11.2026",
+      "location": "",
+      "match_score": 72,
+      "category": "Networking",
+      "reason": "Das Wissenschaftscafé ermöglicht direkten Dialog und Austausch zwischen Fachpersonen und interessiertem Publikum, erfüllt damit das harte Kriterium des Networking/Informationsaustauschs, thematisch jedoch kein direkter Treffer der bevorzugten Themenbereiche.",
+      "is_series": true,
+      "is_recommendation": true
+    },
+    {
+      "name": "Radontag FHNW 2026",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/radontag-fhnw",
+      "raw_text": "Workshop/Seminar\nRadontag FHNW 2026\nAm Freitag, 6. November 2026, findet der jährliche Radontag der FHNW statt.\nDatum\n6.11.2026, 09:00–16:15 Uhr\nDurchführungsort\nFHNW Campus Muttenz, Raum: tbd (siehe Info-Bildschirm im Eingangsbereich)",
+      "date": "6.11.2026",
+      "location": "Muttenz",
+      "match_score": 62,
+      "category": "Forschung",
+      "reason": "Der jährliche Radontag ist ein thematisches Fachseminar mit Networking-Potenzial zwischen Forschenden und Fachpersonen (z.B. Bauphysik, Gesundheitsschutz), jedoch fehlen im Text explizite Hinweise auf Austauschformate oder Akteursvielfalt.",
+      "is_series": true,
+      "is_recommendation": true
+    },
+    {
+      "name": "Diversität und Antidiskriminierung in der Bildung im Spannungsfeld aktueller Diskurse\nPodiumsdiskussion",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/diversitaet-und-antidiskriminierung-in-der-bildung-im-spannungsfeld-aktueller-diskurse",
+      "raw_text": "Anderes\nDiversität und Antidiskriminierung in der Bildung im Spannungsfeld aktueller Diskurse\nPodiumsdiskussion\nEin Anlass der Gesprächsreihe Diversität.Bildung.Profession\nDatum\n17.11.2026, 18:00–20:00 Uhr\nDurchführungsort\nOlten",
+      "date": "17.11.2026",
+      "location": "Olten",
+      "match_score": 62,
+      "category": "Bildung",
+      "reason": "Podiumsdiskussion mit Austauschformat erfüllt das harte Kriterium, thematisch jedoch eher Bildung/Diversität als die bevorzugten Themenfelder des Nutzers.",
+      "is_series": true,
+      "is_recommendation": true
+    },
+    {
+      "name": "Fördermöglichkeiten in den Life Sciences\nNovember 18, 2026",
+      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/foerdermoeglichkeiten-in-den-life-sciences",
+      "raw_text": "Ausstellung/Präsentation\nFördermöglichkeiten in den Life Sciences\nNovember 18, 2026\nLunch-Veranstaltung zu Fördermöglichkeiten in der Schweiz und Europäischen Union\nDatum\n18.11.2026, 12:00–14:00 Uhr\nDurchführungsort\nWalter Klybeck",
+      "date": "18.11.2026",
+      "location": "",
+      "match_score": 62,
+      "category": "Future Health",
+      "reason": "Lunch-Veranstaltung zu Fördermöglichkeiten in den Life Sciences ermöglicht Informationsaustausch zwischen Forschenden und relevanten Akteuren (z.B. Förderinstitutionen), erfüllt damit das Networking-Kriterium bedingt und ist thematisch dem Bereich Future Health zuzuordnen.",
+      "is_series": false,
+      "is_recommendation": true
+    }
+  ]
+}
