@@ -1,0 +1,91 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-09-16
+23 neue Events, davon 6 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (6) ===
+
+- MobiLab Market Square | Roberta – Lernen mit Robotern
+  Score 62: Meet-up-Format mit Networking-Charakter im Rahmen einer europäischen Hochschulallianz, thematisch an der Schnittstelle von Robotik und Bildungsinnovation, was sowohl das harte Kriterium (Informationsaustausch zwischen Akteuren) als auch das weiche Kriterium (Lernen/New Work) teilweise erfüllt.
+  15.10.2026 | Muttenz | Robotik/Tech | EVENTREIHE
+  Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/mobilab-market-square-bildungsinnovation-gemeinsam-weiterdenken
+
+- Netzwerkveranstaltung BSLB: Zielgruppenspezifische Beratung | 21. Oktober 2026
+  Score 62: Explizite Netzwerkveranstaltung mit Informationsaustausch zum Thema Berufs- und Laufbahnberatung, die verschiedene Akteure (Beratende, Institutionen, Verwaltung) zusammenbringt und damit das harte Kriterium erfüllt, jedoch keines der bevorzugten Themenfelder abdeckt.
+  21.10.2026 | Online | Networking | EVENTREIHE
+  Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/zielgruppenspezifische-beratung
+
+- BNE in der Lehrpersonenbildung weiterentwickeln | Bildung für Nachhaltige Entwicklung in der Lehrpersonenbildung weiterentwickeln – BNE-Curricula, -Netzwerke und -Lehransätze
+  Score 62: Das Event behandelt BNE-Curricula und hochschulübergreifende Netzwerke in der Lehrpersonenbildung, was Austausch zwischen Forschenden und Bildungsakteuren ermöglicht und thematisch Nachhaltigkeit mit New Work/Lernen verbindet, jedoch primär auf Bildungsfachleute ausgerichtet ist.
+  29.10.2026 | Muttenz | Bildung
+  Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/bne-lehrpersonenbildung
+
+- Forschungsseminar: Vortrag von Dr. Melanie Steck | 4. November 2026
+  Score 72: Forschungsseminar mit externem Praxisgast (Patentanwältin) zu IP/Patenten – relevantes Networking-Format für Forschende, thematisch jedoch keiner der bevorzugten Themenbereiche.
+  4.11.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/ip-matters
+
+- Diversität in Umbruchzeiten: Wie verändern sich Schule und Bildung aktuell? | Podiumsgespräch
+  Score 62: Podiumsgespräch mit Diskussionsformat ermöglicht Networking und Informationsaustausch zum Thema Diversität und Bildungswandel, trifft aber kein bevorzugtes Themenfeld direkt.
+  17.11.2026 | Olten | Bildung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/diversitaet-in-umbruchzeiten
+
+- Forschungsseminar: Vortrag von Dr. Aurélien Bigot | 16. Dezember 2026
+  Score 62: Forschungsseminar mit externem Referenten aus der Industrie (Syngenta) ermöglicht Austausch zwischen Forschung und Industrie, gehört zur bekannten Kategorie 'Forschungsseminar' als Treffer-Beispiel.
+  16.12.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/von-nikotin-bis-zu-spinnenpeptiden
+
+=== ALLE 23 NEUEN EVENTS ===
+
+  1.   Kick-Off: Chorfantasie | 19.9.2026 | Basel
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/chorfantasie
+  2.   Between Worlds | Neues Kino Basel | 23.9.2026 | Basel
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/between-worlds
+  3.   Beethoveen-Akademie I: Kammermusik und Aufführungspraxis | Eröffnungspräsentation von Clive Brown | 1.10.2026 | 
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/beethoven-akademie-i
+  4.   Beethoven-Akademie II: Quellen, Edition und Arrangement | Präsentationen, Workshops, Diskussionen mit Angelika Moths und Beate Angelika Kraus | 8.10.2026 | 
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/beethoven-akademie-ii
+  5.   Beethoven-Akademie III: Kompositionstechnik und Wirkung | Kompositionstechnische Einordnung des 4. Satzes der 9. Symphonie (Johannes Menke, Florian Vogt) | 15.10.2026 | Bern
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/beethoven-akademie-iii
+  6.   Bibliothek FHNW. Im Fokus. | KI HOT TOPIC @ FHNW: Consensus | 15.10.2026 | Online
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/bibliothek-fhnw-im-fokus
+  7. * MobiLab Market Square | Roberta – Lernen mit Robotern | 15.10.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/mobilab-market-square-bildungsinnovation-gemeinsam-weiterdenken
+  8.   Karaoke im Musikkeller | 16.10.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/karaoke-im-musikkeller-2026
+  9. * Netzwerkveranstaltung BSLB: Zielgruppenspezifische Beratung | 21. Oktober 2026 | 21.10.2026 | Online
+      Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/zielgruppenspezifische-beratung
+ 10.   Beethoven-Akademie IV: Beethovens Klaviere | Einblick in das Forschungsprojekt Beethoven Vis-à-vis von Tom Beghin und Katharina Preller zu Beethovens Klavieren am Ende seines Lebens: ein Flügel von John Broadwood & Sons (1817) und einer von Conrad Graf (1825) | 22.10.2026 | 
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/beethoven-akademie-iv
+ 11.   Beethoven-Akademie V: Embodying Beethoven | Workshop mit Fokus auf der Anwendung von Alexander-Technik auf die Herausforderungen von instrumentaler und vokaler Technik im Zusammenhang mit den Chor- und Orchesterprojekten in Focus Beethoven | 29.10.2026 | 
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/beethoven-akademie-v
+ 12. * BNE in der Lehrpersonenbildung weiterentwickeln | Bildung für Nachhaltige Entwicklung in der Lehrpersonenbildung weiterentwickeln – BNE-Curricula, -Netzwerke und -Lehransätze | 29.10.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/bne-lehrpersonenbildung
+ 13. * Forschungsseminar: Vortrag von Dr. Melanie Steck | 4. November 2026 | 4.11.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/ip-matters
+ 14.   Beethoven-Akademie VI: Holzbläser | Präsentationen und Diskussionen mit den Hauptfachklassen Oboe, Fagott und Traversflöte | 5.11.2026 | 
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/beethoven-akademie-vi
+ 15.   Beethoven-Akademie VII: Schiller und Beethoven | Vortrag und musikalische Präsentationen | 12.11.2026 | 
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/beethoven-akademie-vii
+ 16. * Diversität in Umbruchzeiten: Wie verändern sich Schule und Bildung aktuell? | Podiumsgespräch | 17.11.2026 | Olten
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/diversitaet-in-umbruchzeiten
+ 17.   Beethoven-Akademie VIII: Beethovens Lieder | Probe des Focus Beethoven Projektchors mit Input von Thomas Seedorf | 19.11.2026 | 
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/beethoven-akademie-viii
+ 18.   Beethoven-Akademie IX: Hand & Fuss, Beethoven Klaviertänze | Tanzworkshops, wissenschaftliche Kontextualisierung und praktische musikalische Arbeit rund um Beethovens Klaviertänze und Gesellschaftstänze im frühen 19. Jahrhundert | 26.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/beethoven-akademie-ix
+ 19.   Beethoven-Akademie X: Beethovens 9. Symphonie | Kurzvorträge und Diskussionen | 3.12.2026 | 
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/beethoven-akademie-x
+ 20.   Beethoven-Akademie XI: Kammermusik | Workshops mit Ossian's Dream | 10.12.2026 | 
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/beethoven-akademie-xi
+ 21. * Forschungsseminar: Vortrag von Dr. Aurélien Bigot | 16. Dezember 2026 | 16.12.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/von-nikotin-bis-zu-spinnenpeptiden
+ 22.   Beethoven-Akademie XII: Tempo, Metronom und Rezitativ | Vortrag und Workshop mit Amandine Beyer und Marten Noorduin | 17.12.2026 | 
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/beethoven-akademie-xii
+ 23.   Eine große musikalische Akademie | Konzert | 15.1.2027 | 
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/abschlusskonzert
