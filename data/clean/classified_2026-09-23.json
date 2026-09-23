@@ -1,0 +1,131 @@
+{
+  "scraped_at": null,
+  "classified_at": "2026-09-23",
+  "source_url": null,
+  "model": "claude-sonnet-4-6",
+  "threshold": 55,
+  "count": 10,
+  "recommendations_count": 6,
+  "events": [
+    {
+      "name": "H.E.I. Campus - Soundwalk\nVernissage",
+      "url": "https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/h-e-i-campus-soundwalk",
+      "raw_text": "Anderes\nH.E.I. Campus - Soundwalk\nVernissage\nEin interaktiver Klangspaziergang auf dem Campus Musik-Akademie Basel.\nDatum\n10.10.2026–11.10.2026, 11:00–17:30 Uhr\nDurchführungsort\nStudio 1, Musik-Akademie Basel",
+      "date": "10.10.2026",
+      "location": "Basel",
+      "match_score": 5,
+      "category": "Kunst/Kultur",
+      "reason": "Ein interaktiver Klangspaziergang/Vernissage ist ein Kunstformat ohne Networking- oder Diskussionskomponente zwischen verschiedenen Akteuren und erfüllt damit das harte Kriterium nicht.",
+      "is_series": false,
+      "is_recommendation": false
+    },
+    {
+      "name": "Wissenschaftscafé Aargau: Technologie gegen Fake News",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/wissenschaftscafe-aargau-technologie-gegen-fake-news",
+      "raw_text": "Anderes\nWissenschaftscafé Aargau: Technologie gegen Fake News\nIm Wissenschaftscafé Aargau können Sie in einen direkten Dialog mit Fachpersonen eintreten und mit ihnen über aktuelle Themen diskutieren.\nDatum\n14.10.2026, 19:00–20:30 Uhr\nDurchführungsort\nAargauer Kantonsbibliothek, Obere Vorstadt 6, 5000 Aarau",
+      "date": "14.10.2026",
+      "location": "Aarau",
+      "match_score": 72,
+      "category": "Networking",
+      "reason": "Das Wissenschaftscafé ermöglicht direkten Dialog und Informationsaustausch zwischen Fachpersonen und der Öffentlichkeit, erfüllt damit das harte Kriterium, hat aber keinen direkten Bezug zu den bevorzugten Themen Nachhaltigkeit, Future Health oder New Work.",
+      "is_series": true,
+      "is_recommendation": true
+    },
+    {
+      "name": "Netzwerkveranstaltung BSLB: KI in der Beratung - Werkzeug, Störfaktor oder Gamechanger?\n12. November 2026",
+      "url": "https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/ki-in-der-beratung",
+      "raw_text": "Anderes\nNetzwerkveranstaltung BSLB: KI in der Beratung - Werkzeug, Störfaktor oder Gamechanger?\n12. November 2026\nKünstliche Intelligenz verändert die Berufs-, Studien- und Laufbahnberatung. Doch was bedeutet das für Beratung und Ratsuchende?\nDatum\n12.11.2026, 17:15–20:00 Uhr\nDurchführungsort\nOlten",
+      "date": "12.11.2026",
+      "location": "Olten",
+      "match_score": 82,
+      "category": "Networking",
+      "reason": "Explizite Netzwerkveranstaltung mit Diskussionsformat zu KI in der Beratung/Laufbahnberatung, die verschiedene Akteure zusammenbringt und thematisch New Work/Arbeitswelt berührt.",
+      "is_series": false,
+      "is_recommendation": true
+    },
+    {
+      "name": "Forschungsseminar: Vortrag von Dr. Markus Kohlstädt\n18. November 2026",
+      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/nachhaltige-herstellung-von-perowskit-modulen-strategien-fuer-skalierbare-bauelemente-mit-geringer-materialabhaengigkeit",
+      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. Markus Kohlstädt\n18. November 2026\nNachhaltige Herstellung von Perowskit-Modulen: Strategien für skalierbare Bauelemente mit geringer Materialabhängigkeit - Dr. Markus Kohlstädt, Universität Freiburg und Fraunhofer ISE\nDatum\n18.11.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
+      "date": "18.11.2026",
+      "location": "Muttenz",
+      "match_score": 72,
+      "category": "Forschung",
+      "reason": "Forschungsseminar mit externem Referenten (Universität Freiburg / Fraunhofer ISE) zu nachhaltigem Thema (Perowskit-Module), das Networking zwischen Forschenden ermöglicht und inhaltlich zur Kategorie Zero Emission/Nachhaltigkeit passt.",
+      "is_series": true,
+      "is_recommendation": true
+    },
+    {
+      "name": "Schlussbouquet mit Stimmen und Stimmungen\nCampusChöre Muttenz und Olten",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/schlussbouquet-der-austausch",
+      "raw_text": "Konzert\nSchlussbouquet mit Stimmen und Stimmungen\nCampusChöre Muttenz und Olten\nRund 100 Sängerinnen und Sänger der CampusChöre Muttenz und Olten beschliessen «Der Austausch».\nDatum\n19.11.2026, 16:45–17:00 Uhr\nDurchführungsort\nMuttenz",
+      "date": "19.11.2026",
+      "location": "Olten",
+      "match_score": 2,
+      "category": "Kunst/Kultur",
+      "reason": "Reines Konzert der CampusChöre ohne Networking- oder Diskussionsformat – erfüllt das harte Kriterium nicht.",
+      "is_series": false,
+      "is_recommendation": false
+    },
+    {
+      "name": "Chorvesper «archiving the universe III»\nCampusChor Windisch",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/chorvesper-archiving-the-universe-iii",
+      "raw_text": "Konzert\nChorvesper «archiving the universe III»\nCampusChor Windisch\nDer CampusChor Windisch singt in der Freitagsvesper der Predigerkirche Zürich – vom Spiritual zu Coldplay.\nDatum\n20.11.2026, 18:30–20:00 Uhr\nDurchführungsort\nZürich",
+      "date": "20.11.2026",
+      "location": "Windisch",
+      "match_score": 0,
+      "category": "Kunst/Kultur",
+      "reason": "Konzert/Chorauftritt ohne Diskussions- oder Networking-Format, erfüllt das harte Kriterium nicht.",
+      "is_series": true,
+      "is_recommendation": false
+    },
+    {
+      "name": "Forschungsdatenmanagement in Zusammenarbeit mit der Praxis\nPanel-Diskussion, 24. November 2026",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/forschungsdatenmanagement-in-zusammenarbeit-mit-der-praxis",
+      "raw_text": "Anderes\nForschungsdatenmanagement in Zusammenarbeit mit der Praxis\nPanel-Diskussion, 24. November 2026\nPanel-Diskussion mit Expert*innen aus Forschung, Industrie und Recht, 24. November 2026, FHNW Campus Muttenz.\nDatum\n24.11.2026, 16:15–18:00 Uhr\nDurchführungsort\nMuttenz",
+      "date": "24.11.2026",
+      "location": "Muttenz",
+      "match_score": 82,
+      "category": "Forschung",
+      "reason": "Panel-Diskussion mit Expert*innen aus Forschung, Industrie und Recht erfüllt das harte Kriterium des Networking- und Informationsaustauschs zwischen verschiedenen Akteuren klar, auch wenn das Thema Forschungsdatenmanagement keinem der bevorzugten Themenbereiche entspricht.",
+      "is_series": false,
+      "is_recommendation": true
+    },
+    {
+      "name": "Sinn bei der Arbeit",
+      "url": "https://www.fhnw.ch/de/psychologie/aktuelles/veranstaltungen/alle/sinn-bei-der-arbeit",
+      "raw_text": "Workshop/Seminar\nSinn bei der Arbeit\nEin gemeinsamer Afterwork-Anlass mit der SWIPPA rund um Sinn und Sinnförderung.\nDatum\n2.12.2026, 18:00–20:00 Uhr\nDurchführungsort\nFHWN Campus Olten",
+      "date": "2.12.2026",
+      "location": "Olten",
+      "match_score": 62,
+      "category": "New Work",
+      "reason": "Afterwork-Anlass mit SWIPPA zum Thema Sinn und Sinnförderung bei der Arbeit ermöglicht Networking zwischen verschiedenen Akteuren und passt thematisch zu New Work/Arbeitswelt, bleibt aber ein kleineres Workshop-Format.",
+      "is_series": false,
+      "is_recommendation": true
+    },
+    {
+      "name": "Forschungsseminar: Vortrag von Dr. rer. medic. Iris Schulz\n9. Dezember 2026",
+      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/forensic-genetics-research-projects",
+      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. rer. medic. Iris Schulz\n9. Dezember 2026\nForensische Genetik und Forschungsprojekte - Dr. rer. medic. Iris Schulz, Leiterin der Abteilung für forensische Genetik, Institut für Rechtsmedizin Basel\nDatum\n9.12.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
+      "date": "9.12.2026",
+      "location": "Muttenz",
+      "match_score": 62,
+      "category": "Forschung",
+      "reason": "Forschungsseminar mit externem Gastvortrag (Dr. Iris Schulz, Institut für Rechtsmedizin) erfüllt das Networking-Kriterium als wissenschaftlicher Austauschformat, auch wenn der Fokus auf forensischer Genetik keines der bevorzugten Themenfelder abdeckt.",
+      "is_series": true,
+      "is_recommendation": true
+    },
+    {
+      "name": "MasterForum Winter 2027",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/masterforum-winter-2027",
+      "raw_text": "Ausstellung/Präsentation\nMasterForum Winter 2027\nEinladung zu den Präsentationen der Masterthesen vom Herbstsemester 2026/27\nDatum\n19.1.2027",
+      "date": "19.1.2027",
+      "location": "",
+      "match_score": 5,
+      "category": "Bildung",
+      "reason": "Reine Studierenden-Präsentation von Masterthesen ohne Networking- oder Diskussionsformat zwischen verschiedenen Akteuren.",
+      "is_series": true,
+      "is_recommendation": false
+    }
+  ]
+}

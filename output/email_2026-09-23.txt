@@ -1,0 +1,65 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-09-23
+10 neue Events, davon 6 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (6) ===
+
+- Wissenschaftscafé Aargau: Technologie gegen Fake News
+  Score 72: Das Wissenschaftscafé ermöglicht direkten Dialog und Informationsaustausch zwischen Fachpersonen und der Öffentlichkeit, erfüllt damit das harte Kriterium, hat aber keinen direkten Bezug zu den bevorzugten Themen Nachhaltigkeit, Future Health oder New Work.
+  14.10.2026 | Aarau | Networking | EVENTREIHE
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/wissenschaftscafe-aargau-technologie-gegen-fake-news
+
+- Netzwerkveranstaltung BSLB: KI in der Beratung - Werkzeug, Störfaktor oder Gamechanger? | 12. November 2026
+  Score 82: Explizite Netzwerkveranstaltung mit Diskussionsformat zu KI in der Beratung/Laufbahnberatung, die verschiedene Akteure zusammenbringt und thematisch New Work/Arbeitswelt berührt.
+  12.11.2026 | Olten | Networking
+  Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/ki-in-der-beratung
+
+- Forschungsseminar: Vortrag von Dr. Markus Kohlstädt | 18. November 2026
+  Score 72: Forschungsseminar mit externem Referenten (Universität Freiburg / Fraunhofer ISE) zu nachhaltigem Thema (Perowskit-Module), das Networking zwischen Forschenden ermöglicht und inhaltlich zur Kategorie Zero Emission/Nachhaltigkeit passt.
+  18.11.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/nachhaltige-herstellung-von-perowskit-modulen-strategien-fuer-skalierbare-bauelemente-mit-geringer-materialabhaengigkeit
+
+- Forschungsdatenmanagement in Zusammenarbeit mit der Praxis | Panel-Diskussion, 24. November 2026
+  Score 82: Panel-Diskussion mit Expert*innen aus Forschung, Industrie und Recht erfüllt das harte Kriterium des Networking- und Informationsaustauschs zwischen verschiedenen Akteuren klar, auch wenn das Thema Forschungsdatenmanagement keinem der bevorzugten Themenbereiche entspricht.
+  24.11.2026 | Muttenz | Forschung
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/forschungsdatenmanagement-in-zusammenarbeit-mit-der-praxis
+
+- Sinn bei der Arbeit
+  Score 62: Afterwork-Anlass mit SWIPPA zum Thema Sinn und Sinnförderung bei der Arbeit ermöglicht Networking zwischen verschiedenen Akteuren und passt thematisch zu New Work/Arbeitswelt, bleibt aber ein kleineres Workshop-Format.
+  2.12.2026 | Olten | New Work
+  Link: https://www.fhnw.ch/de/psychologie/aktuelles/veranstaltungen/alle/sinn-bei-der-arbeit
+
+- Forschungsseminar: Vortrag von Dr. rer. medic. Iris Schulz | 9. Dezember 2026
+  Score 62: Forschungsseminar mit externem Gastvortrag (Dr. Iris Schulz, Institut für Rechtsmedizin) erfüllt das Networking-Kriterium als wissenschaftlicher Austauschformat, auch wenn der Fokus auf forensischer Genetik keines der bevorzugten Themenfelder abdeckt.
+  9.12.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/forensic-genetics-research-projects
+
+=== ALLE 10 NEUEN EVENTS ===
+
+  1.   H.E.I. Campus - Soundwalk | Vernissage | 10.10.2026 | Basel
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/h-e-i-campus-soundwalk
+  2. * Wissenschaftscafé Aargau: Technologie gegen Fake News | 14.10.2026 | Aarau
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/wissenschaftscafe-aargau-technologie-gegen-fake-news
+  3. * Netzwerkveranstaltung BSLB: KI in der Beratung - Werkzeug, Störfaktor oder Gamechanger? | 12. November 2026 | 12.11.2026 | Olten
+      Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/ki-in-der-beratung
+  4. * Forschungsseminar: Vortrag von Dr. Markus Kohlstädt | 18. November 2026 | 18.11.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/nachhaltige-herstellung-von-perowskit-modulen-strategien-fuer-skalierbare-bauelemente-mit-geringer-materialabhaengigkeit
+  5.   Schlussbouquet mit Stimmen und Stimmungen | CampusChöre Muttenz und Olten | 19.11.2026 | Olten
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/schlussbouquet-der-austausch
+  6.   Chorvesper «archiving the universe III» | CampusChor Windisch | 20.11.2026 | Windisch
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/chorvesper-archiving-the-universe-iii
+  7. * Forschungsdatenmanagement in Zusammenarbeit mit der Praxis | Panel-Diskussion, 24. November 2026 | 24.11.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/forschungsdatenmanagement-in-zusammenarbeit-mit-der-praxis
+  8. * Sinn bei der Arbeit | 2.12.2026 | Olten
+      Link: https://www.fhnw.ch/de/psychologie/aktuelles/veranstaltungen/alle/sinn-bei-der-arbeit
+  9. * Forschungsseminar: Vortrag von Dr. rer. medic. Iris Schulz | 9. Dezember 2026 | 9.12.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/forensic-genetics-research-projects
+ 10.   MasterForum Winter 2027 | 19.1.2027 | 
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/masterforum-winter-2027
