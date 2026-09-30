@@ -1,0 +1,64 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-09-30
+22 neue Events, davon 1 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (1) ===
+
+- Schweizer Wirtschaft im Wandel: Welche Talente braucht die Zukunft? | 22.10.2026
+  Score 72: Das Wing-Event adressiert Zukunftskompetenzen und Arbeitsmarkt-Wandel (Digitalisierung, KI, Nachhaltigkeit) aus verschiedenen Perspektiven und ermöglicht damit Austausch zwischen Hochschule, Wirtschaft und weiteren Akteuren – passt gut zum New-Work-Thema, ist aber primär auf Studienabgänger ausgerichtet, was den Networking-Wert für Forschende etwas einschränkt.
+  22.10.2026 | Windisch | New Work
+  Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/wing-event_2026
+
+=== ALLE 22 NEUEN EVENTS ===
+
+  1.   Lecture Series IDCE: Steffen Blunk – iart, Studio für mediale Architekturen (Basel) | 30.9.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/lecture-series-idce-steffen-blunk-iart-studio-fuer-mediale-architekturen-basel
+  2.   Terrain 089: Chang Wen-Hsuan über künstlerisches Schaffen und Vermittlung schwieriger Geschichte | 5.10.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/terrain-089-chang-wen-hsuan-ueber-kuenstlerisches-schaffen-und-vermittlung-schwieriger-geschichte
+  3.   Lecture Series IDCE: Felix Pfäffli – Studio Feixen (Luzern) | 7.10.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/lecture-series-idce-felix-pfaeffli-studio-feixen-luzern
+  4.   Programm der Art Taaalkssss im Herbstsemester 2026 | Helen Macdonald | 8.10.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/programm-der-art-taaalkssss-im-herbstsemester-2026
+  5.   Architektur Dialoge: Mittagsführungen mit Doing-Fashion-Studierenden der HGK Basel | Der grüne Dachaufbau des Globus am Marktplatz | 12.10.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/architektur-dialoge-mittagsfuehrungen-mit-doing-fashion-studierenden-der-hgk-basel
+  6.   Mesh Festival 2026: Autumn School an der HGK Basel erforscht Care und ökologische Infrastrukturen | 14.10.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/mesh-festival-2026-autumn-school-an-der-hgk-basel-erforscht-care-und-oekologische-infrastrukturen
+  7.   Meisterkurs mit Leonidas Kavakos | 15.10.2026 | 
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/meisterkurs_leonidas_kavakos
+  8.   «Non-Public Publics»: Konferenz an der HGK Basel im Rahmen des Festivals Mesh 2026 | 15.10.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/non-public-publics-konferenz-an-der-hgk-basel-im-rahmen-des-festivals-mesh-2026
+  9.   Meisterkurs mit Ola Gjeilo | Meisterkurs mit Ola Gjeilo | 16.10.2026 | Basel
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/meisterkurs_ola_gjeilo
+ 10.   Mesh Festival: Workshops und Filmprojekte des Master-Studiengangs Transversal Design der HGK Basel | 17.10.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/mesh-festival-workshops-und-filmprojekte-des-master-studiengangs-transversal-design-der-hgk-basel
+ 11.   «Zwischen Leben»: Monica Cantieni liest und diskutiert Literatur für Jugendliche | Gebäude 6, 1. Stock (6.1C) | 21.10.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/zwischen-leben-monica-cantieni-liest
+ 12. * Schweizer Wirtschaft im Wandel: Welche Talente braucht die Zukunft? | 22.10.2026 | 22.10.2026 | Windisch
+      Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/wing-event_2026
+ 13.   MAKEathon 2026 | MAKEathon 2026 | 24.10.2026 | Olten
+      Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/makeathon-fhnw
+ 14.   Öffentliche Antrittsvorlesung von Prof. Dr. Sandra Staudacher | 26.10.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/antrittsvorlesung-sandra-staudacher
+ 15.   Lecture Series IDCE: Adrien Moreillon – Raffinerie (Zürich) | 28.10.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/lecture-series-idce-adrien-moreillon-raffinerie-zuerich
+ 16.   Students’ Realm: «Testimony of a Time Traveler» von Silfrún Una Guðlaugsdóttir | 29.10.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/students-realm-testimony-of-a-time-traveler-von-silfrun-una-guplaugsdottir
+ 17.   Netzwerktagung zum Thema Spiel mit dem Institute Arts and Design Education (IADE) der HGK Basel | 31.10.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/netzwerktagung-zum-thema-spiel-mit-dem-institute-arts-and-design-education-iade-der-hgk-basel
+ 18.   Kontrapunkte: künstlerisch-musikalische Begegnungen am Campus | 4.11.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/kontrapunkte-kuenstlerisch-musikalische-begegnungen-am-campus
+ 19.   Transfer – Bewegtes Kollektiv mit der Tänzerin Sarah Keusch | 6.11.2026 | Olten
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/transfer-bewegtes-kollektiv-mit-sarah-keusch
+ 20.   Lecture Series IDCE: Kristin Irion & Yvonne Schneider – Bivgrafik (Zürich) | 11.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/lecture-series-idce-kristin-irion-und-yvonne-schneider-bivgrafik-zuerich
+ 21.   Students in Concert | Students in Concert | 23.11.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/students-in-concert-2026
+ 22.   Lecture Series IDCE: Barbara Probst (New York / München) | 2.12.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/lecture-series-idce-barbara-probst-new-york-muenchen
