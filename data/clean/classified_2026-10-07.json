@@ -1,0 +1,131 @@
+{
+  "scraped_at": null,
+  "classified_at": "2026-10-07",
+  "source_url": null,
+  "model": "claude-sonnet-4-6",
+  "threshold": 55,
+  "count": 10,
+  "recommendations_count": 3,
+  "events": [
+    {
+      "name": "Perspectives in Business Informatics Research\n7. - 9. Oktober 2026",
+      "url": "https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/bir-2026",
+      "raw_text": "Tagung/Kongress\nPerspectives in Business Informatics Research\n7. - 9. Oktober 2026\nBIR 2026 bietet ein inspirierendes Umfeld für den Austausch von Forschungsergebnissen und Ideen zwischen Wissenschaftlerinnen und Wissenschaftlern, Praktikerinnen und Praktikern sowie Doktorandinnen und Doktoranden.\nDatum\n7.10.2026–9.10.2026\nDurchführungsort\nOlten",
+      "date": "7.10.2026",
+      "location": "Olten",
+      "match_score": 72,
+      "category": "Tagung/Konferenz",
+      "reason": "Internationale Forschungstagung mit explizitem Networking- und Austauschformat zwischen Wissenschaft und Praxis, jedoch ohne direkten Bezug zu den bevorzugten Themenfeldern.",
+      "is_series": true,
+      "is_recommendation": true
+    },
+    {
+      "name": "Musik als Bildungsauftrag – Akteur*innen im Dialog",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/tagung-was-ist-guter-musikunterricht",
+      "raw_text": "Tagung/Kongress\nMusik als Bildungsauftrag – Akteur*innen im Dialog\nWas macht hochwertigen Musikunterricht aus – im Schulzimmer, im Schulhaus, im Bildungssystem? Die Tagung bringt Akteur*innen aus Schule, Hochschule und Verbänden über diese Frage ins Gespräch.\nDatum\n24.10.2026, 08:30–16:45 Uhr\nDurchführungsort\nOlten",
+      "date": "24.10.2026",
+      "location": "Olten",
+      "match_score": 42,
+      "category": "Tagung/Konferenz",
+      "reason": "Die Tagung erfüllt das harte Kriterium (Networking und Austausch zwischen verschiedenen Akteuren aus Schule, Hochschule und Verbänden), thematisch aber kein Bezug zu den bevorzugten Themenfeldern.",
+      "is_series": false,
+      "is_recommendation": false
+    },
+    {
+      "name": "Ukulele-Jamsession in der Lounge!",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/ukulele-jam",
+      "raw_text": "Konzert\nUkulele-Jamsession in der Lounge!\nSchnapp dir eine Ukulele und lass uns die Lounge mit guten Vibes und coolen Klängen füllen!\nDatum\n30.10.2026, 18:30–20:00 Uhr\nDurchführungsort\nMuttenz",
+      "date": "30.10.2026",
+      "location": "Muttenz",
+      "match_score": 0,
+      "category": "Kunst/Kultur",
+      "reason": "Reine Musik-Jamsession ohne Diskussions- oder Networking-Format, erfüllt das harte Kriterium nicht.",
+      "is_series": false,
+      "is_recommendation": false
+    },
+    {
+      "name": "Female Founder Event\n11. November 2026",
+      "url": "https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/female-founder-event",
+      "raw_text": "Anderes\nFemale Founder Event\n11. November 2026\nInspiration für angehende Gründerinnen\nDatum\n11.11.2026, 18:00–21:00 Uhr\nDurchführungsort\nBasel",
+      "date": "11.11.2026",
+      "location": "Basel",
+      "match_score": 42,
+      "category": "Networking",
+      "reason": "Das Event richtet sich primär an angehende Gründerinnen und bietet Networking-Potenzial, ist jedoch eher auf eine spezifische Zielgruppe (Frauen in der Gründungsphase) ausgerichtet und weniger auf den interdisziplinären Austausch zwischen Forschung, Industrie und Zivilgesellschaft.",
+      "is_series": false,
+      "is_recommendation": false
+    },
+    {
+      "name": "Schulleitungsforum Solothurn\n«Wenn es knistert und kracht»",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/schulleitungsforum",
+      "raw_text": "Tagung/Kongress\nSchulleitungsforum Solothurn\n«Wenn es knistert und kracht»\nDas Schulleitungsforum schafft Raum für Dialog, Austausch und Vernetzung.\nDatum\n18.11.2026, 13:45–16:45 Uhr\nDurchführungsort\nOlten",
+      "date": "18.11.2026",
+      "location": "Olten",
+      "match_score": 52,
+      "category": "New Work",
+      "reason": "Das Schulleitungsforum ermöglicht Dialog, Austausch und Vernetzung zwischen Schulleitenden, erfüllt damit das harte Kriterium, ist thematisch jedoch auf Schulführung spezialisiert und nur bedingt relevant für die bevorzugten Themen des Nutzers.",
+      "is_series": true,
+      "is_recommendation": false
+    },
+    {
+      "name": "Dozent*in werden an der Fachhochschule\nOnline-Informationsanlass 25. November 2026",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/dozent-in-werden-an-der-fachhochschule",
+      "raw_text": "Anderes\nDozent*in werden an der Fachhochschule\nOnline-Informationsanlass 25. November 2026\nOnline-Informationsanlass: Lerne deine Karriereoptionen als Dozent*in an der Fachhochschule kennen. Die Teilnahme ist kostenfrei.\nDatum\n25.11.2026, 16:00–17:00 Uhr\nDurchführungsort\nOnline",
+      "date": "25.11.2026",
+      "location": "Online",
+      "match_score": 8,
+      "category": "Bildung",
+      "reason": "Rein interner Informationsanlass für potenzielle Dozierende ohne Networking- oder Austauschformat zwischen verschiedenen Akteuren.",
+      "is_series": false,
+      "is_recommendation": false
+    },
+    {
+      "name": "Antrittsvorlesung von Prof. Dr. Bram Stieltjes\nNovember 26, 2026",
+      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/antrittsvorlesung-von-prof-dr-bram-stieltjes",
+      "raw_text": "Workshop/Seminar\nAntrittsvorlesung von Prof. Dr. Bram Stieltjes\nNovember 26, 2026\nOpen-Source-Datenmodelle als Grundlage der digitalen Souveränität und KI in der Medizin\nDatum\n26.11.2026, 16:00–18:00 Uhr\nDurchführungsort\nHörsaal 01.W.09, Campus Muttenz",
+      "date": "26.11.2026",
+      "location": "Muttenz",
+      "match_score": 52,
+      "category": "Future Health",
+      "reason": "Antrittsvorlesung zu KI und digitaler Souveränität in der Medizin ist thematisch relevant (Future Health/Digital Health), bietet aber primär ein Vorlesungsformat mit eingeschränktem Networking-Potenzial zwischen verschiedenen Akteuren.",
+      "is_series": false,
+      "is_recommendation": false
+    },
+    {
+      "name": "PodiuMINT / KI im Griff oder im Griff der KI?\nOnline-Podium",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/ki-im-griff-oder-im-griff-der-ki-die-rolle-von-ki-in-der-aus-und-weiterbildung-von-mint-lehrpersonen",
+      "raw_text": "Anderes\nPodiuMINT / KI im Griff oder im Griff der KI?\nOnline-Podium\nMit Prof. Dr. Lucio Negrini und Prof. Dr. Dennis Komm\nDatum\n11.12.2026, 11:00–12:00 Uhr\nDurchführungsort\nOnline",
+      "date": "11.12.2026",
+      "location": "Online",
+      "match_score": 72,
+      "category": "Bildung",
+      "reason": "Online-Podium mit Diskussionsformat zum Thema KI in der MINT-Lehrerbildung ermöglicht Informationsaustausch zwischen Forschenden und Bildungspraktikern, berührt damit New-Work/Lernen-Thematik und erfüllt das Networking-Kriterium als moderiertes Podiumsgespräch.",
+      "is_series": true,
+      "is_recommendation": true
+    },
+    {
+      "name": "Forschungsseminar: Vortrag von Dr. Aurélien Bigot\n16. Dezember 2026",
+      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/von-nikotin-bis-zu-spinnenpeptiden",
+      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. Aurélien Bigot\n16. Dezember 2026\nVon Nikotin bis zu Spinnenpeptiden: Eine gemeinsame Forschungsreise, die auf den nikotinischen Rezeptor von Insekten abzielt und sowohl kleinmolekulare Wirkstoffe als auch Peptide einbezieht - Dr. Aurélien Bigot, Syngenta Biologicals, Leiter des Bereichs Neue Technologien, Forschung im Bereich Bioprodukte\nDatum\n16.12.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
+      "date": "16.12.2026",
+      "location": "Muttenz",
+      "match_score": 62,
+      "category": "Forschung",
+      "reason": "Forschungsseminar mit externem Referenten aus der Industrie (Syngenta) ermöglicht Wissensaustausch zwischen Forschung und Industrie, thematisch jedoch eher Life Sciences/Agrochemie als die bevorzugten Themenfelder.",
+      "is_series": true,
+      "is_recommendation": true
+    },
+    {
+      "name": "Beethoven-Akademie XII: Tempo, Metronom und Rezitativ\nVortrag und Workshop mit Amandine Beyer und Marten Noorduin",
+      "url": "https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/beethoven-akademie-xii",
+      "raw_text": "Workshop/Seminar\nBeethoven-Akademie XII: Tempo, Metronom und Rezitativ\nVortrag und Workshop mit Amandine Beyer und Marten Noorduin\n17. Dezember 2026, Vorträge und Workshops zu Tempo, Metronom und Rezitativ bei Beethoven. Mit Kai Köpp und Marten Noorduin.\nDatum\n17.12.2026, 10:00–13:00 Uhr\nDurchführungsort\nStudio Eckenstein",
+      "date": "17.12.2026",
+      "location": "",
+      "match_score": 2,
+      "category": "Kunst/Kultur",
+      "reason": "Musikwissenschaftlicher Workshop zu Beethoven ohne Networking-Format zwischen Forschenden, Industrie oder anderen relevanten Akteuren.",
+      "is_series": true,
+      "is_recommendation": false
+    }
+  ]
+}

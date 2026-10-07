@@ -1,0 +1,50 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-10-07
+10 neue Events, davon 3 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (3) ===
+
+- Perspectives in Business Informatics Research | 7. - 9. Oktober 2026
+  Score 72: Internationale Forschungstagung mit explizitem Networking- und Austauschformat zwischen Wissenschaft und Praxis, jedoch ohne direkten Bezug zu den bevorzugten Themenfeldern.
+  7.10.2026 | Olten | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/bir-2026
+
+- PodiuMINT / KI im Griff oder im Griff der KI? | Online-Podium
+  Score 72: Online-Podium mit Diskussionsformat zum Thema KI in der MINT-Lehrerbildung ermöglicht Informationsaustausch zwischen Forschenden und Bildungspraktikern, berührt damit New-Work/Lernen-Thematik und erfüllt das Networking-Kriterium als moderiertes Podiumsgespräch.
+  11.12.2026 | Online | Bildung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/ki-im-griff-oder-im-griff-der-ki-die-rolle-von-ki-in-der-aus-und-weiterbildung-von-mint-lehrpersonen
+
+- Forschungsseminar: Vortrag von Dr. Aurélien Bigot | 16. Dezember 2026
+  Score 62: Forschungsseminar mit externem Referenten aus der Industrie (Syngenta) ermöglicht Wissensaustausch zwischen Forschung und Industrie, thematisch jedoch eher Life Sciences/Agrochemie als die bevorzugten Themenfelder.
+  16.12.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/von-nikotin-bis-zu-spinnenpeptiden
+
+=== ALLE 10 NEUEN EVENTS ===
+
+  1. * Perspectives in Business Informatics Research | 7. - 9. Oktober 2026 | 7.10.2026 | Olten
+      Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/bir-2026
+  2.   Musik als Bildungsauftrag – Akteur*innen im Dialog | 24.10.2026 | Olten
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/tagung-was-ist-guter-musikunterricht
+  3.   Ukulele-Jamsession in der Lounge! | 30.10.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/ukulele-jam
+  4.   Female Founder Event | 11. November 2026 | 11.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/female-founder-event
+  5.   Schulleitungsforum Solothurn | «Wenn es knistert und kracht» | 18.11.2026 | Olten
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/schulleitungsforum
+  6.   Dozent*in werden an der Fachhochschule | Online-Informationsanlass 25. November 2026 | 25.11.2026 | Online
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/dozent-in-werden-an-der-fachhochschule
+  7.   Antrittsvorlesung von Prof. Dr. Bram Stieltjes | November 26, 2026 | 26.11.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/antrittsvorlesung-von-prof-dr-bram-stieltjes
+  8. * PodiuMINT / KI im Griff oder im Griff der KI? | Online-Podium | 11.12.2026 | Online
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/ki-im-griff-oder-im-griff-der-ki-die-rolle-von-ki-in-der-aus-und-weiterbildung-von-mint-lehrpersonen
+  9. * Forschungsseminar: Vortrag von Dr. Aurélien Bigot | 16. Dezember 2026 | 16.12.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/von-nikotin-bis-zu-spinnenpeptiden
+ 10.   Beethoven-Akademie XII: Tempo, Metronom und Rezitativ | Vortrag und Workshop mit Amandine Beyer und Marten Noorduin | 17.12.2026 | 
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/beethoven-akademie-xii
