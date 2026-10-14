@@ -1,0 +1,119 @@
+{
+  "scraped_at": null,
+  "classified_at": "2026-10-14",
+  "source_url": null,
+  "model": "claude-sonnet-4-6",
+  "threshold": 55,
+  "count": 9,
+  "recommendations_count": 3,
+  "events": [
+    {
+      "name": "Forschungsseminar: Vortrag von Dr. Tsvetan Kardashliev\n28. Oktober 2026",
+      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/biokatalytische-oxidation-von-der-katalysatorentwicklung-bis-zur-skalierung-von-bioprozessen",
+      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. Tsvetan Kardashliev\n28. Oktober 2026\nBiokatalytische Oxidation: Von der Katalysatorentwicklung bis zur Skalierung von Bioprozessen - Dr. Tsvetan Kardashliev, UniBasel\nDatum\n28.10.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
+      "date": "28.10.2026",
+      "location": "Muttenz",
+      "match_score": 62,
+      "category": "Forschung",
+      "reason": "Forschungsseminar mit externem Referenten (UniBasel) ermöglicht fachlichen Austausch zwischen Forschenden, erfüllt das harte Kriterium als Networking/Informationsaustausch-Format, thematisch jedoch kein direkter Bezug zu den bevorzugten Themenfeldern.",
+      "is_series": true,
+      "is_recommendation": true
+    },
+    {
+      "name": "Organisation von wissenschaftliche Konferenzen in Basel\nNovember 4, 2026",
+      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/so-organisieren-sie-wissenschaftliche-konferenzen-in-basel",
+      "raw_text": "Ausstellung/Präsentation\nOrganisation von wissenschaftliche Konferenzen in Basel\nNovember 4, 2026\nUnterstützung bei der Planung und Durchführung wissenschaftlicher Veranstaltungen durch das Basel Convention Bureau\nDatum\n4.11.2026, 17:45–20:00 Uhr\nDurchführungsort\nBiozentrum",
+      "date": "4.11.2026",
+      "location": "Basel",
+      "match_score": 62,
+      "category": "Forschung",
+      "reason": "Das Event richtet sich an Forschende und behandelt die Organisation wissenschaftlicher Konferenzen, was Networking und Informationsaustausch zwischen verschiedenen Akteuren ermöglicht, auch wenn der Fokus eher auf praktischer Weiterbildung als auf direktem Networking liegt.",
+      "is_series": false,
+      "is_recommendation": true
+    },
+    {
+      "name": "Basler Forum Musikästhetik\nBasler Forum Musikästhetik 2026 Tag 1",
+      "url": "https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/forum-musikaesthetik-2026",
+      "raw_text": "Tagung/Kongress\nBasler Forum Musikästhetik\nBasler Forum Musikästhetik 2026 Tag 1\nBILDVERBOT - Schönbergs \"Moses und Aron\"\nDatum\n5.11.2026, 13:00–22:30 Uhr\nDurchführungsort\nMusikwissenschaftliches Seminar der Universität Basel",
+      "date": "5.11.2026",
+      "location": "Basel",
+      "match_score": 10,
+      "category": "Kunst/Kultur",
+      "reason": "Obwohl es sich um eine Tagung handelt, ist das Basler Forum Musikästhetik ein musikwissenschaftliches Fachforum ohne Bezug zu den gesuchten Themen (Nachhaltigkeit, Health, New Work) und richtet sich primär an ein musikwissenschaftliches Fachpublikum, nicht an den gesuchten interdisziplinären Akteurs-Mix.",
+      "is_series": true,
+      "is_recommendation": false
+    },
+    {
+      "name": "Symposium zu alternativen Narrativen der Klimakrise aus künstlerischer Sicht",
+      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/symposium-zu-alternativen-narrativen-der-klimakrise-aus-kuenstlerischer-sicht",
+      "raw_text": "Anderes\nSymposium zu alternativen Narrativen der Klimakrise aus künstlerischer Sicht\nMit dem Symposium «Climate Literacies and Forms of Repair» lädt die HGK Basel am 11. November 2026 zur Diskussion neuer künstlerischer Narrative der Klimakrise ein – mit Forscher:innen aus den Bereichen Geografie, Anthropologie und Klimawissenschaft.\nDatum\n11.11.2026, 14:00–15:30 Uhr\nDurchführungsort\nHGK Basel, Studiokino (D 0.01)",
+      "date": "11.11.2026",
+      "location": "Basel",
+      "match_score": 62,
+      "category": "Tagung/Konferenz",
+      "reason": "Symposium mit Diskussionsformat und interdisziplinären Forschenden (Geografie, Anthropologie, Klimawissenschaft), erfüllt das harte Kriterium als Networking-/Austausch-Event, berührt Nachhaltigkeitsthemen, bleibt aber primär im künstlerisch-akademischen Rahmen ohne klaren Industrie- oder Praxisakteurs-Bezug.",
+      "is_series": false,
+      "is_recommendation": true
+    },
+    {
+      "name": "Radiobus an der Schweizer Erzählnacht 2026",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/radiobus",
+      "raw_text": "Anderes\nRadiobus an der Schweizer Erzählnacht 2026\nErfinde Geschichten aus ungewohnter Perspektive und erzähle sie während der Schweizer Erzählnacht live im Radiobus.\nDatum\n13.11.2026, 18:00–21:00 Uhr\nDurchführungsort\nMuttenz",
+      "date": "13.11.2026",
+      "location": "Muttenz",
+      "match_score": 2,
+      "category": "Kunst/Kultur",
+      "reason": "Kreatives Erzähl- und Kulturformat ohne Networking- oder Fachaustausch-Komponente zwischen relevanten Akteuren.",
+      "is_series": false,
+      "is_recommendation": false
+    },
+    {
+      "name": "Projektforum Basel\n20. November 2026",
+      "url": "https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/projektforum-basel",
+      "raw_text": "Anderes\nProjektforum Basel\n20. November 2026\nGewinnen Sie einen Eindruck, wie Studierende auch für Ihre Organisation Lösungen entwickeln könnten.\nDatum\n20.11.2026, 13:30–17:00 Uhr\nDurchführungsort\nBasel",
+      "date": "20.11.2026",
+      "location": "Basel",
+      "match_score": 15,
+      "category": "Bildung",
+      "reason": "Das Projektforum richtet sich primär daran, externe Organisationen für Studierendenprojekte zu gewinnen, ist also ein internes Rekrutierungs-/Präsentationsevent ohne offenes Networking-Format zwischen Forschenden, Industrie und anderen Akteuren.",
+      "is_series": false,
+      "is_recommendation": false
+    },
+    {
+      "name": "Lecture Series IDCE: Jasmine Guffond (Berlin)",
+      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/lecture-series-idce-jasmine-guffond-berlin",
+      "raw_text": "Ringvorlesung\nLecture Series IDCE: Jasmine Guffond (Berlin)\nIm Rahmen der aktuellen Lecture Series des Institute Digital Communication Environments (IDCE) der HGK Basel bietet am 13. Januar 2027 der Vortrag von Jasmine Guffond Gelegenheit, das Schaffen der Klangkünstlerin und Komponistin näher kennenzulernen.\nDatum\n13.1.2027, 17:15–18:45 Uhr\nDurchführungsort\nHGK Basel, Aula",
+      "date": "13.1.2027",
+      "location": "Basel",
+      "match_score": 15,
+      "category": "Kunst/Kultur",
+      "reason": "Der Vortrag einer Klangkünstlerin im Rahmen einer Lecture Series ist primär ein künstlerisch-kulturelles Format ohne strukturierten Networking- oder Forschungsaustausch zwischen verschiedenen Akteuren.",
+      "is_series": true,
+      "is_recommendation": false
+    },
+    {
+      "name": "Open Chamber Music\nHerbstsemester 2026/27, Tag 1",
+      "url": "https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/open-chamber-music",
+      "raw_text": "Konzert\nOpen Chamber Music\nHerbstsemester 2026/27, Tag 1\nFast wie ein kleines Musikfestival, einen ganzen Tag lang Kammermusikkonzerte: Open Chamber Music, das sind mehrere Kammermusik-Konzerte in Folge – von mittags bis abends. Studierende des Instituts Klassik präsentieren Werke von Klassik bis Gegenwart und improvisierter Musik.\nDatum\n15.1.2027, 17:00–22:00 Uhr\nDurchführungsort\nGrosser Saal, Musik-Akademie Basel",
+      "date": "15.1.2027",
+      "location": "Basel",
+      "match_score": 2,
+      "category": "Kunst/Kultur",
+      "reason": "Reines Studierenden-Konzertformat ohne Diskussions- oder Networking-Komponente – erfüllt das harte Kriterium nicht.",
+      "is_series": true,
+      "is_recommendation": false
+    },
+    {
+      "name": "Eine große musikalische Akademie\nKonzert",
+      "url": "https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/abschlusskonzert",
+      "raw_text": "Konzert\nEine große musikalische Akademie\nKonzert\nAbschlusskonzert von Focus Beethoven. Ein Projekt der Schola Cantorum Basiliensis und The Juilliard School\nDatum\n15.1.2027, 19:00–22:00 Uhr\nDurchführungsort\nStadtcasino",
+      "date": "15.1.2027",
+      "location": "",
+      "match_score": 0,
+      "category": "Kunst/Kultur",
+      "reason": "Reines Konzert ohne Networking- oder Diskussionsformat, erfüllt das harte Kriterium nicht.",
+      "is_series": false,
+      "is_recommendation": false
+    }
+  ]
+}

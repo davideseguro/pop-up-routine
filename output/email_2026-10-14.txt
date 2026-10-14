@@ -1,0 +1,48 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-10-14
+9 neue Events, davon 3 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (3) ===
+
+- Forschungsseminar: Vortrag von Dr. Tsvetan Kardashliev | 28. Oktober 2026
+  Score 62: Forschungsseminar mit externem Referenten (UniBasel) ermöglicht fachlichen Austausch zwischen Forschenden, erfüllt das harte Kriterium als Networking/Informationsaustausch-Format, thematisch jedoch kein direkter Bezug zu den bevorzugten Themenfeldern.
+  28.10.2026 | Muttenz | Forschung | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/biokatalytische-oxidation-von-der-katalysatorentwicklung-bis-zur-skalierung-von-bioprozessen
+
+- Organisation von wissenschaftliche Konferenzen in Basel | November 4, 2026
+  Score 62: Das Event richtet sich an Forschende und behandelt die Organisation wissenschaftlicher Konferenzen, was Networking und Informationsaustausch zwischen verschiedenen Akteuren ermöglicht, auch wenn der Fokus eher auf praktischer Weiterbildung als auf direktem Networking liegt.
+  4.11.2026 | Basel | Forschung
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/so-organisieren-sie-wissenschaftliche-konferenzen-in-basel
+
+- Symposium zu alternativen Narrativen der Klimakrise aus künstlerischer Sicht
+  Score 62: Symposium mit Diskussionsformat und interdisziplinären Forschenden (Geografie, Anthropologie, Klimawissenschaft), erfüllt das harte Kriterium als Networking-/Austausch-Event, berührt Nachhaltigkeitsthemen, bleibt aber primär im künstlerisch-akademischen Rahmen ohne klaren Industrie- oder Praxisakteurs-Bezug.
+  11.11.2026 | Basel | Tagung/Konferenz
+  Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/symposium-zu-alternativen-narrativen-der-klimakrise-aus-kuenstlerischer-sicht
+
+=== ALLE 9 NEUEN EVENTS ===
+
+  1. * Forschungsseminar: Vortrag von Dr. Tsvetan Kardashliev | 28. Oktober 2026 | 28.10.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/biokatalytische-oxidation-von-der-katalysatorentwicklung-bis-zur-skalierung-von-bioprozessen
+  2. * Organisation von wissenschaftliche Konferenzen in Basel | November 4, 2026 | 4.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/so-organisieren-sie-wissenschaftliche-konferenzen-in-basel
+  3.   Basler Forum Musikästhetik | Basler Forum Musikästhetik 2026 Tag 1 | 5.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/forum-musikaesthetik-2026
+  4. * Symposium zu alternativen Narrativen der Klimakrise aus künstlerischer Sicht | 11.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/symposium-zu-alternativen-narrativen-der-klimakrise-aus-kuenstlerischer-sicht
+  5.   Radiobus an der Schweizer Erzählnacht 2026 | 13.11.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/radiobus
+  6.   Projektforum Basel | 20. November 2026 | 20.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/projektforum-basel
+  7.   Lecture Series IDCE: Jasmine Guffond (Berlin) | 13.1.2027 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/lecture-series-idce-jasmine-guffond-berlin
+  8.   Open Chamber Music | Herbstsemester 2026/27, Tag 1 | 15.1.2027 | Basel
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/open-chamber-music
+  9.   Eine große musikalische Akademie | Konzert | 15.1.2027 | 
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/abschlusskonzert
