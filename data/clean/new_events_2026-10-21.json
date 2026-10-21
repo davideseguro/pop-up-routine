@@ -1,0 +1,106 @@
+{
+  "diffed_at": "2026-10-21",
+  "baseline_count": 113,
+  "current_count": 111,
+  "new_count": 14,
+  "events": [
+    {
+      "name": "Henkel Inside\n28. Oktober 2026",
+      "url": "https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/henkel-inside",
+      "raw_text": "Anderes\nHenkel Inside\n28. Oktober 2026\nEinblick in die Praxis eines internationalen Konsumgüterunternehmens\nDatum\n28.10.2026, 17:30–19:15 Uhr\nDurchführungsort\nBasel",
+      "date": "28.10.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Schweizer Erzählnacht 2026: «Stimmen»\nin der Lounge, Campus Muttenz, 12. Stock",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/zwischen-leben-monica-cantieni",
+      "raw_text": "Anderes\nSchweizer Erzählnacht 2026: «Stimmen»\nin der Lounge, Campus Muttenz, 12. Stock\n«Zwischen Leben», weitergeschrieben – ein Abend mit Monica Cantieni und Studierenden\nDatum\n13.11.2026, 18:00–20:00 Uhr\nDurchführungsort\nMuttenz",
+      "date": "13.11.2026",
+      "location": "Muttenz"
+    },
+    {
+      "name": "Circular Solutions for Life Sciences",
+      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/circular-solutions-for-life-sciences",
+      "raw_text": "Ausstellung/Präsentation\nCircular Solutions for Life Sciences\nVernetzung von Innovatoren im Bereich Kreislaufwirtschaft mit Vertretern aus dem Life-Sciences-Sektor\nDatum\n23.11.2026, 16:00–19:00 Uhr\nDurchführungsort\nNovartis Pavilion",
+      "date": "23.11.2026",
+      "location": ""
+    },
+    {
+      "name": "Forschungsseminar: Vortrag von Dr. Britta Steffens",
+      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/wie-mathematische-modelle-die-klinische-entscheidungsfindung-beeinflussen-koennen-ein-weg-von-der-forschung-zur-praxis",
+      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. Britta Steffens\nWie mathematische Modelle die klinische Entscheidungsfindung beeinflussen können: Ein Weg von der Forschung zur Praxis - Dr. Britta Steffens, Pädiatrische Pharmakologie und Pharmakometrie, Universitäts-Kinderspital Basel (UKBB) & CTL, FHNW\nDatum\n25.11.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
+      "date": "25.11.2026",
+      "location": "Muttenz"
+    },
+    {
+      "name": "Fiasko\nEin Abend zum Kennenlernen (Arbeitstitel)",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/fiasko",
+      "raw_text": "Anderes\nFiasko\nEin Abend zum Kennenlernen (Arbeitstitel)\nEin Abend zum Kennenlernen (Arbeitstitel)\nDatum\n17.12.2026, 19:00–20:00 Uhr\nDurchführungsort\nMuttenz",
+      "date": "17.12.2026",
+      "location": "Muttenz"
+    },
+    {
+      "name": "MasterForum Winter 2027",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/masterforum-winter-2027",
+      "raw_text": "Ausstellung/Präsentation\nMasterForum Winter 2027\nEinladung zu den Präsentationen der Masterthesen vom Herbstsemester 2026/27\nDatum\n19.1.2027",
+      "date": "19.1.2027",
+      "location": ""
+    },
+    {
+      "name": "Im Austausch mit der Pädagogischen Hochschule",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/im-austausch-mit-der-paedagogischen-hochschule-2027",
+      "raw_text": "Tagung/Kongress\nIm Austausch mit der Pädagogischen Hochschule\nDie Hochschulleitung der PH FHNW freut sich Sie zu einem Austausch zum Jahresstart an der PH FHNW begrüssen zu dürfen.\nDatum\n21.1.2027, 18:30–20:00 Uhr\nDurchführungsort\nOlten",
+      "date": "21.1.2027",
+      "location": "Olten"
+    },
+    {
+      "name": "Tagung Gruppendynamik & Soziale Arbeit",
+      "url": "https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/tagung-gruppendynamik-soziale-arbeit",
+      "raw_text": "Tagung/Kongress\nTagung Gruppendynamik & Soziale Arbeit\n«Dann nimm’s doch persönlich – Emotionen und Gefühle in der professionellen Beziehungsgestaltung der Sozialen Arbeit» ist Thema der Tagung Gruppendynamik und Soziale Arbeit, die am 28.-29. Januar 2027 in Muttenz stattfindet.\nDatum\n28.1.2027–29.1.2027, 09:00–13:00 Uhr\nDurchführungsort\nMuttenz",
+      "date": "28.1.2027",
+      "location": "Muttenz"
+    },
+    {
+      "name": "Tagung Soziale Innovation 2027",
+      "url": "https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/soziale-innovation-2027",
+      "raw_text": "Tagung/Kongress\nTagung Soziale Innovation 2027\n«Gut(es)» Entwickeln in der Sozialen Arbeit. Fachlich fundierte Innovationen im Kontext sich wandelnder Arbeitswelten // Colloque « Innovation sociale 2027 » : comment développer de « bonnes » innovations ?\nDatum\n24.2.2027\nDurchführungsort\nOlten",
+      "date": "24.2.2027",
+      "location": "Olten"
+    },
+    {
+      "name": "3. Fachtagung Wirkungen und Soziale Arbeit",
+      "url": "https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/tagung-wirkungen-2027",
+      "raw_text": "Tagung/Kongress\n3. Fachtagung Wirkungen und Soziale Arbeit\nWirkungen im Blick – neue Trends und Zugänge\nDatum\n3.3.2027\nDurchführungsort\nOlten",
+      "date": "3.3.2027",
+      "location": "Olten"
+    },
+    {
+      "name": "Kommunikation im Fokus – die Tagung für Assistenzpersonen",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/assistenzpersonen-im-fokus",
+      "raw_text": "Tagung/Kongress\nKommunikation im Fokus – die Tagung für Assistenzpersonen\nAssistenzpersonen prägen den Schulalltag mit ihrem Engagement, ihrer Präsenz und ihrer wertvollen Unterstützung. Die Tagung für Assistenzpersonen bietet praxisnahe Inputs, Austauschmöglichkeiten und neue Impulse für Ihre tägliche Arbeit.\nDatum\n13.3.2027, 08:15–16:30 Uhr\nDurchführungsort\nBrugg-Windisch",
+      "date": "13.3.2027",
+      "location": "Brugg-Windisch"
+    },
+    {
+      "name": "Netzwerktreffen Diversitätsorientierte Sprachförderung und DaZ",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/netzwerktreffen-diversitaetsorientierte-sprachfoerderung-und-daz",
+      "raw_text": "Tagung/Kongress\nNetzwerktreffen Diversitätsorientierte Sprachförderung und DaZ\nAm Netzwerktreffen treffen sich (DaZ-)Lehrpersonen.\nDatum\n3.4.2027, 08:45–13:15 Uhr\nDurchführungsort\nBrugg-Windisch",
+      "date": "3.4.2027",
+      "location": "Brugg-Windisch"
+    },
+    {
+      "name": "Mir gäbe alles für es guäts Klima! Schulentwicklungsprojekt der Klimaschule Gelterkinden\nMir gäbe alles für es guäts Klima! Schulentwicklungsprojekt der Klimaschule Gelterkinden",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/bne-schulpraxis",
+      "raw_text": "Anderes\nMir gäbe alles für es guäts Klima! Schulentwicklungsprojekt der Klimaschule Gelterkinden\nMir gäbe alles für es guäts Klima! Schulentwicklungsprojekt der Klimaschule Gelterkinden\nDie Schule Gelterkinden macht Nachhaltigkeit erlebbar. Seit über sechs Jahren setzen sich Schülerinnen und Schüler mit Klima, Energie und Biodiversität auseinander,\nDatum\n15.4.2027, 17:00–18:30 Uhr\nDurchführungsort\nMuttenz",
+      "date": "15.4.2027",
+      "location": "Muttenz"
+    },
+    {
+      "name": "Netzwerktreffen PICTS-net – Save the Date",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/netzwerktreffen-picts-net-1",
+      "raw_text": "Tagung/Kongress\nNetzwerktreffen PICTS-net – Save the Date\nAktuell bleiben. Sich austauschen. Gemeinsam gestalten.\nDatum\n5.5.2027, 14:00–17:00 Uhr\nDurchführungsort\nBrugg-Windisch",
+      "date": "5.5.2027",
+      "location": "Brugg-Windisch"
+    }
+  ]
+}

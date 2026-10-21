@@ -1,0 +1,73 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-10-21
+14 neue Events, davon 6 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (6) ===
+
+- Circular Solutions for Life Sciences
+  Score 88: Networking-Event zur Vernetzung von Innovatoren und Life-Sciences-Vertretern im Bereich Kreislaufwirtschaft – trifft sowohl das harte Kriterium (Austausch zwischen verschiedenen Akteuren) als auch die bevorzugten Themen (Kreislaufwirtschaft, Future Health/Life Sciences).
+  23.11.2026 | Zero Emission
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/circular-solutions-for-life-sciences
+
+- Forschungsseminar: Vortrag von Dr. Britta Steffens
+  Score 72: Forschungsseminar mit externem Gastvortrag zu mathematischen Modellen in der klinischen Entscheidungsfindung – ermöglicht Informationsaustausch zwischen Forschenden und entspricht dem bekannten Beispiel-Treffer 'Forschungsseminar', thematisch klar im Bereich Future Health/Medizin.
+  25.11.2026 | Muttenz | Future Health | EVENTREIHE
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/wie-mathematische-modelle-die-klinische-entscheidungsfindung-beeinflussen-koennen-ein-weg-von-der-forschung-zur-praxis
+
+- Tagung Gruppendynamik & Soziale Arbeit
+  Score 62: Fachtagung mit Austauschformat zwischen Forschenden und Praktikern der Sozialen Arbeit – erfüllt das harte Networking-Kriterium, thematisch aber keinem der bevorzugten Schwerpunkte zugeordnet.
+  28.1.2027 | Muttenz | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/tagung-gruppendynamik-soziale-arbeit
+
+- Tagung Soziale Innovation 2027
+  Score 82: Fachtagung mit interdisziplinärem Austausch zu sozialer Innovation in der Sozialen Arbeit, was sowohl das harte Networking-Kriterium als auch die weichen Themen New Work / Arbeitswelt erfüllt.
+  24.2.2027 | Olten | Tagung/Konferenz
+  Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/soziale-innovation-2027
+
+- 3. Fachtagung Wirkungen und Soziale Arbeit
+  Score 72: Fachtagung zum Thema Wirkungen und Soziale Arbeit ermöglicht Networking und Wissensaustausch zwischen Forschenden und Praxisakteuren, thematisch jedoch nicht in den bevorzugten Kernbereichen des Nutzerprofils.
+  3.3.2027 | Olten | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/tagung-wirkungen-2027
+
+- Netzwerktreffen PICTS-net – Save the Date
+  Score 82: Explizites Netzwerktreffen mit Austausch- und Gestaltungsfokus, das dem harten Kriterium des Networking & Informationsaustauschs zwischen verschiedenen Akteuren klar entspricht.
+  5.5.2027 | Brugg-Windisch | Networking | EVENTREIHE
+  Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/netzwerktreffen-picts-net-1
+
+=== ALLE 14 NEUEN EVENTS ===
+
+  1.   Henkel Inside | 28. Oktober 2026 | 28.10.2026 | Basel
+      Link: https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/henkel-inside
+  2.   Schweizer Erzählnacht 2026: «Stimmen» | in der Lounge, Campus Muttenz, 12. Stock | 13.11.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/zwischen-leben-monica-cantieni
+  3. * Circular Solutions for Life Sciences | 23.11.2026 | 
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/circular-solutions-for-life-sciences
+  4. * Forschungsseminar: Vortrag von Dr. Britta Steffens | 25.11.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/wie-mathematische-modelle-die-klinische-entscheidungsfindung-beeinflussen-koennen-ein-weg-von-der-forschung-zur-praxis
+  5.   Fiasko | Ein Abend zum Kennenlernen (Arbeitstitel) | 17.12.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/fiasko
+  6.   MasterForum Winter 2027 | 19.1.2027 | 
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/masterforum-winter-2027
+  7.   Im Austausch mit der Pädagogischen Hochschule | 21.1.2027 | Olten
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/im-austausch-mit-der-paedagogischen-hochschule-2027
+  8. * Tagung Gruppendynamik & Soziale Arbeit | 28.1.2027 | Muttenz
+      Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/tagung-gruppendynamik-soziale-arbeit
+  9. * Tagung Soziale Innovation 2027 | 24.2.2027 | Olten
+      Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/soziale-innovation-2027
+ 10. * 3. Fachtagung Wirkungen und Soziale Arbeit | 3.3.2027 | Olten
+      Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/tagung-wirkungen-2027
+ 11.   Kommunikation im Fokus – die Tagung für Assistenzpersonen | 13.3.2027 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/assistenzpersonen-im-fokus
+ 12.   Netzwerktreffen Diversitätsorientierte Sprachförderung und DaZ | 3.4.2027 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/netzwerktreffen-diversitaetsorientierte-sprachfoerderung-und-daz
+ 13.   Mir gäbe alles für es guäts Klima! Schulentwicklungsprojekt der Klimaschule Gelterkinden | Mir gäbe alles für es guäts Klima! Schulentwicklungsprojekt der Klimaschule Gelterkinden | 15.4.2027 | Muttenz
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/bne-schulpraxis
+ 14. * Netzwerktreffen PICTS-net – Save the Date | 5.5.2027 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/netzwerktreffen-picts-net-1

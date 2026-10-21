@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-14",
+  "scraped_at": "2026-10-21",
   "source_url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle",
-  "count": 113,
+  "count": 111,
   "events": [
     {
       "name": "Zu Hauptinhalt springen",
@@ -67,125 +67,6 @@
       "location": "Basel"
     },
     {
-      "name": "SPICA 2026",
-      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/spica-2026",
-      "raw_text": "Tagung/Kongress\nSPICA 2026\n20th International Symposium on Preparative and Industrial Chromatography and Allied Techniques\nDatum\n13.10.2026–16.10.2026, 01:30 Uhr\nDurchführungsort\nAula, FHNW Campus Muttenz",
-      "date": "13.10.2026",
-      "location": "Muttenz"
-    },
-    {
-      "name": "Architektur Dialoge: Mittagsführungen mit Doing-Fashion-Studierenden der HGK Basel\nDer neue Kindergarten Aegelmatt in Pratteln",
-      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/architektur-dialoge-mittagsfuehrungen-mit-doing-fashion-studierenden-der-hgk-basel",
-      "raw_text": "Anderes\nArchitektur Dialoge: Mittagsführungen mit Doing-Fashion-Studierenden der HGK Basel\nDer neue Kindergarten Aegelmatt in Pratteln\nDoing-Fashion-Studierende der HGK Basel gestalten die vom 12. bis 16. Oktober 2026 stattfindenden Mittagsführungen der Stiftung Architektur Dialoge mit performativen Beitragen und bieten dabei neue Zugänge zu Architektur, Materialität und Raum.\nDatum\n14.10.2026, 12:30–13:30 Uhr\nDurchführungsort\nWartenbergstrasse 58, Pratteln, BL, CH",
-      "date": "14.10.2026",
-      "location": "Basel"
-    },
-    {
-      "name": "Forschungsseminar: Vortrag von Dr. Ian Jennings\n14. Oktober 2026",
-      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/ethik-und-ki-das-alignment-problem",
-      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. Ian Jennings\n14. Oktober 2026\nEthik und KI: Das Alignment-Problem - Dr. Ian Jennings, Ethik, Hochschule für Life Sciences FHNW\nDatum\n14.10.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
-      "date": "14.10.2026",
-      "location": "Muttenz"
-    },
-    {
-      "name": "Mesh Festival 2026: Autumn School an der HGK Basel erforscht Care und ökologische Infrastrukturen",
-      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/mesh-festival-2026-autumn-school-an-der-hgk-basel-erforscht-care-und-oekologische-infrastrukturen",
-      "raw_text": "Workshop/Seminar\nMesh Festival 2026: Autumn School an der HGK Basel erforscht Care und ökologische Infrastrukturen\nIm Rahmen des Festivals Mesh 2026 lädt die transdisziplinäre Autumn School «Care Matters in Human-Ecological Infrastructures» an der HGK Basel zu Workshops, gemeinsamer Wissensproduktion und Diskussionen über Care, Ökologie und Technologie ein.\nDatum\n14.10.2026–17.10.2026\nDurchführungsort\nHGK Basel, Raum D 4.04",
-      "date": "14.10.2026",
-      "location": "Basel"
-    },
-    {
-      "name": "Wissenschaftscafé Aargau: Technologie gegen Fake News",
-      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/wissenschaftscafe-aargau-technologie-gegen-fake-news",
-      "raw_text": "Anderes\nWissenschaftscafé Aargau: Technologie gegen Fake News\nIm Wissenschaftscafé Aargau können Sie in einen direkten Dialog mit Fachpersonen eintreten und mit ihnen über aktuelle Themen diskutieren.\nDatum\n14.10.2026, 19:00–20:30 Uhr\nDurchführungsort\nAargauer Kantonsbibliothek, Obere Vorstadt 6, 5000 Aarau",
-      "date": "14.10.2026",
-      "location": "Aarau"
-    },
-    {
-      "name": "Beethoven-Akademie III: Kompositionstechnik und Wirkung\nKompositionstechnische Einordnung des 4. Satzes der 9. Symphonie (Johannes Menke, Florian Vogt)",
-      "url": "https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/beethoven-akademie-iii",
-      "raw_text": "Workshop/Seminar\nBeethoven-Akademie III: Kompositionstechnik und Wirkung\nKompositionstechnische Einordnung des 4. Satzes der 9. Symphonie (Johannes Menke, Florian Vogt)\n15. Oktober 2026, Kontextualisierung und verschiedene analytische Zugänge zum 4. Satz von Beethovens 9. Symphonie. Mit Johannes Menke, David Mesquita, Ralph Bernardy, Florian Vogt (Fachgruppe Theorie der Schola Cantorum Basiliensis).\nDatum\n15.10.2026, 10:00–13:00 Uhr\nDurchführungsort\nStudio Eckenstein",
-      "date": "15.10.2026",
-      "location": "Bern"
-    },
-    {
-      "name": "Bibliothek FHNW. Im Fokus.\nKI HOT TOPIC @ FHNW: Consensus",
-      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/bibliothek-fhnw-im-fokus",
-      "raw_text": "Anderes\nBibliothek FHNW. Im Fokus.\nKI HOT TOPIC @ FHNW: Consensus\nSie möchten Ihre Recherche effektiv gestalten, schnell und einfach Literatur zitieren oder KI-Tools für Ihr Studium oder den Arbeitsalltag nutzen?\nDatum\n15.10.2026, 12:15–12:45 Uhr\nDurchführungsort\nOnline",
-      "date": "15.10.2026",
-      "location": "Online"
-    },
-    {
-      "name": "Meisterkurs mit Leonidas Kavakos",
-      "url": "https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/meisterkurs_leonidas_kavakos",
-      "raw_text": "Workshop/Seminar\nMeisterkurs mit Leonidas Kavakos\nDer griechische Star-Geiger gibt einen zweitägigen Meisterkurs für Studierende des Instituts Klassik. Interessiertes Publikum ist herzlich willkommen.\nDatum\n15.10.2026, 13:00–19:00 Uhr\nDurchführungsort\nGrosser Saal",
-      "date": "15.10.2026",
-      "location": ""
-    },
-    {
-      "name": "«Non-Public Publics»: Konferenz an der HGK Basel im Rahmen des Festivals Mesh 2026",
-      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/non-public-publics-konferenz-an-der-hgk-basel-im-rahmen-des-festivals-mesh-2026",
-      "raw_text": "Tagung/Kongress\n«Non-Public Publics»: Konferenz an der HGK Basel im Rahmen des Festivals Mesh 2026\nIm Rahmen des Festivals Mesh 2026 organisiert das Institute Experimental Design and Media Cultures (IXDM) am 15./16. Oktober 2026 gemeinsam mit dem PhD-Programm Make/Sense der HGK Basel die zweitägige Konferenz «Non-Public Publics».\nDatum\n15.10.2026–16.10.2026\nDurchführungsort\nHGK Basel, Critical Media Lab",
-      "date": "15.10.2026",
-      "location": "Basel"
-    },
-    {
-      "name": "Meisterkurs mit Ola Gjeilo\nMeisterkurs mit Ola Gjeilo",
-      "url": "https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/meisterkurs_ola_gjeilo",
-      "raw_text": "Workshop/Seminar\nMeisterkurs mit Ola Gjeilo\nMeisterkurs mit Ola Gjeilo\nDer norwegische Komponist Ola Gjeilo gibt einen Meisterkurs Chorleitung und Komposition für den Kammerchor der Hochschule für Musik Basel sowie interessiertes Publikum\nDatum\n16.10.2026, 11:00–15:30 Uhr",
-      "date": "16.10.2026",
-      "location": "Basel"
-    },
-    {
-      "name": "PodiuMINT / Next Gen-MINT!\nOnline-Podium",
-      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/next-gen-mint-was-bedeuten-die-ergebnisse-des-mint-nachwuchsbarometers-fuer-die-lehrpersonenbildung",
-      "raw_text": "Anderes\nPodiuMINT / Next Gen-MINT!\nOnline-Podium\nMit Dr. Sonja Studer und Prof. Dr. Susanne Metzger\nDatum\n16.10.2026, 11:00–12:00 Uhr\nDurchführungsort\nOnline",
-      "date": "16.10.2026",
-      "location": "Online"
-    },
-    {
-      "name": "Karaoke im Musikkeller",
-      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/karaoke-im-musikkeller-2026",
-      "raw_text": "Konzert\nKaraoke im Musikkeller\nBühne frei! Ob du nun allein singst, zu zweit oder nur als Zuhörer*in dabei bist – bei uns sind alle willkommen!\nDatum\n16.10.2026, 18:30–22:00 Uhr\nDurchführungsort\nBrugg-Windisch",
-      "date": "16.10.2026",
-      "location": "Brugg-Windisch"
-    },
-    {
-      "name": "Zwiegespräche",
-      "url": "https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/zwiegespraeche",
-      "raw_text": "Konzert\nZwiegespräche\nEin Geburtstagskonzert für György Kurtág. Seine Musik im Dialog mit Werken von Mozart, Wyttenbach, Holliger und Moser.\nDatum\n16.10.2026, 19:30–21:30 Uhr\nDurchführungsort\nDon Bosco Basel",
-      "date": "16.10.2026",
-      "location": "Basel"
-    },
-    {
-      "name": "Mesh Festival: Workshops und Filmprojekte des Master-Studiengangs Transversal Design der HGK Basel",
-      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/mesh-festival-workshops-und-filmprojekte-des-master-studiengangs-transversal-design-der-hgk-basel",
-      "raw_text": "Workshop/Seminar\nMesh Festival: Workshops und Filmprojekte des Master-Studiengangs Transversal Design der HGK Basel\nIm Rahmen des Mesh Festival 2026 präsentiert der Master-Studiengang Transversal Design der HGK Basel Workshops und Filmarbeiten zu Ernährungssystemen, urbanen Utopien, Pflanzen als Akteurinnen und neuen Formen des Zusammenlebens.\nDatum\n17.10.2026\nDurchführungsort\nHGK Basel, Food Culture Lab / Studiokino",
-      "date": "17.10.2026",
-      "location": "Basel"
-    },
-    {
-      "name": "Kein Bock mehr: Sinnsuche und Wellbeing bei jungen Erwerbstätigen",
-      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/future-health-konkret/kein-bock-mehr",
-      "raw_text": "Ringvorlesung\nKein Bock mehr: Sinnsuche und Wellbeing bei jungen Erwerbstätigen\nWas gibt jungen Menschen Sinn bei der Arbeit?\nDatum\n19.10.2026, 17:15–18:15 Uhr\nDurchführungsort\nBrugg-Windisch",
-      "date": "19.10.2026",
-      "location": "Brugg-Windisch"
-    },
-    {
-      "name": "Bauleitungsapéro FHNW 2026: \"Qualitätssicherung auf der Baustelle – die neue Verständigungsnorm SIA 131\"",
-      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/bauleitungsapero",
-      "raw_text": "Workshop/Seminar\nBauleitungsapéro FHNW 2026: \"Qualitätssicherung auf der Baustelle – die neue Verständigungsnorm SIA 131\"\nAm Dienstag, den 20. Oktober 2026, veranstaltet die Hochschule für Architektur, Bau und Geomatik FHNW den diesjährigen Bauleitungsapéro FHNW zum Thema \"Qualitätssicherung auf der Baustelle – die neue Verständigungsnorm SIA 131\".\nDatum\n20.10.2026, 17:15–18:45 Uhr\nDurchführungsort\nFHNW Campus Olten, Von Roll-Strasse 10 (Raum: folgt); anschliessend Apéro",
-      "date": "20.10.2026",
-      "location": "Olten"
-    },
-    {
-      "name": "colloquium48\nInterpretationsforum - Nguyễn Thanh Thủy",
-      "url": "https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/forschung-am-dienstag",
-      "raw_text": "Ringvorlesung\ncolloquium48\nInterpretationsforum - Nguyễn Thanh Thủy\ncolloquium48 bietet Forschenden und Forschungsinteressierten eine Plattform zum Austausch.\nDatum\n20.10.2026, 19:00–20:30 Uhr\nDurchführungsort\nZi 6-301, Campus Musik-Akademie Basel",
-      "date": "20.10.2026",
-      "location": "Basel"
-    },
-    {
       "name": "«Zwischen Leben»: Monica Cantieni liest und diskutiert Literatur für Jugendliche\nGebäude 6, 1. Stock (6.1C)",
       "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/zwischen-leben-monica-cantieni-liest",
       "raw_text": "Anderes\n«Zwischen Leben»: Monica Cantieni liest und diskutiert Literatur für Jugendliche\nGebäude 6, 1. Stock (6.1C)\nEin Anlass, um über spannendes Schreiben, aktuelle gesellschaftliche Themen und die Wirkung von Literatur nachzudenken.\nDatum\n21.10.2026, 12:15–13:15 Uhr\nDurchführungsort\nBrugg-Windisch",
@@ -193,9 +74,9 @@
       "location": "Brugg-Windisch"
     },
     {
-      "name": "Forschungsseminar: Vortrag von Dr. Paul Engeroff\n21. Oktober 2026",
+      "name": "Forschungsseminar: Vortrag von Dr. Paul Engeroff",
       "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/ige-bei-der-regulierung-adaptiver-immunantworten",
-      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. Paul Engeroff\n21. Oktober 2026\nIgE bei der Regulierung adaptiver Immunantworten - Dr. Paul Engeroff, Inselspital Bern\nDatum\n21.10.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
+      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. Paul Engeroff\nIgE bei der Regulierung adaptiver Immunantworten - Dr. Paul Engeroff, Inselspital Bern\nDatum\n21.10.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
       "date": "21.10.2026",
       "location": "Muttenz"
     },
@@ -207,9 +88,9 @@
       "location": "Muttenz"
     },
     {
-      "name": "Kontakttag 2026 - Life Sciences Career Event\n21. Oktober 2026",
+      "name": "Kontakttag 2026 - Life Sciences Career Event",
       "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/kontakttag-2026",
-      "raw_text": "Ausstellung/Präsentation\nKontakttag 2026 - Life Sciences Career Event\n21. Oktober 2026\nSind Sie auf der Suche nach qualifizierten Nachwuchskräften für Ihr Unternehmen? Dann laden wir Sie herzlich ein, sich am Kontakttag der Hochschule für Life Sciences FHNW zu präsentieren und unsere angehenden Bachelor- und Master-Absolvent*innen persönlich kennenzulernen.\nDatum\n21.10.2026, 17:00–19:00 Uhr\nDurchführungsort\nAula, FHNW Campus Muttenz",
+      "raw_text": "Ausstellung/Präsentation\nKontakttag 2026 - Life Sciences Career Event\nSind Sie auf der Suche nach qualifizierten Nachwuchskräften für Ihr Unternehmen? Dann laden wir Sie herzlich ein, sich am Kontakttag der Hochschule für Life Sciences FHNW zu präsentieren und unsere angehenden Bachelor- und Master-Absolvent*innen persönlich kennenzulernen.\nDatum\n21.10.2026, 17:00–19:00 Uhr\nDurchführungsort\nAula, FHNW Campus Muttenz",
       "date": "21.10.2026",
       "location": "Muttenz"
     },
@@ -226,6 +107,13 @@
       "raw_text": "Workshop/Seminar\nBeethoven-Akademie IV: Beethovens Klaviere\nEinblick in das Forschungsprojekt Beethoven Vis-à-vis von Tom Beghin und Katharina Preller zu Beethovens Klavieren am Ende seines Lebens: ein Flügel von John Broadwood & Sons (1817) und einer von Conrad Graf (1825)\n22. Oktober 2026, Interaktion zwischen den Instrumenten von Graf und Broadwood mit Beethovens späten Klavierwerken. Mit Tom Beghin und Katharina Preller (Orpheus Instituut Gent).\nDatum\n22.10.2026, 10:00–11:00 Uhr\nDurchführungsort\nStudio Eckenstein",
       "date": "22.10.2026",
       "location": ""
+    },
+    {
+      "name": "Bibliothek FHNW. Im Fokus.\nOpen Access im KI-Zeitalter: Freies Wissen unter Druck?",
+      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/bibliothek-fhnw-im-fokus",
+      "raw_text": "Anderes\nBibliothek FHNW. Im Fokus.\nOpen Access im KI-Zeitalter: Freies Wissen unter Druck?\nSie möchten Ihre Recherche effektiv gestalten, schnell und einfach Literatur zitieren oder KI-Tools für Ihr Studium oder den Arbeitsalltag nutzen?\nDatum\n22.10.2026, 12:15–12:45 Uhr\nDurchführungsort\nOnline",
+      "date": "22.10.2026",
+      "location": "Online"
     },
     {
       "name": "Lange Nacht der Karriere 2026\n22. Oktober 2026",
@@ -291,9 +179,16 @@
       "location": "Brugg-Windisch"
     },
     {
-      "name": "Forschungsseminar: Vortrag von Dr. Tsvetan Kardashliev\n28. Oktober 2026",
+      "name": "colloquium48\nInterpretationsforum - Uarietà",
+      "url": "https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/forschung-am-dienstag",
+      "raw_text": "Ringvorlesung\ncolloquium48\nInterpretationsforum - Uarietà\ncolloquium48 bietet Forschenden und Forschungsinteressierten eine Plattform zum Austausch.\nDatum\n27.10.2026, 19:00–21:00 Uhr\nDurchführungsort\nAkademiezimmer 1-003, Campus Musik-Akademie Basel",
+      "date": "27.10.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Forschungsseminar: Vortrag von Dr. Tsvetan Kardashliev",
       "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/biokatalytische-oxidation-von-der-katalysatorentwicklung-bis-zur-skalierung-von-bioprozessen",
-      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. Tsvetan Kardashliev\n28. Oktober 2026\nBiokatalytische Oxidation: Von der Katalysatorentwicklung bis zur Skalierung von Bioprozessen - Dr. Tsvetan Kardashliev, UniBasel\nDatum\n28.10.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
+      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. Tsvetan Kardashliev\nBiokatalytische Oxidation: Von der Katalysatorentwicklung bis zur Skalierung von Bioprozessen - Dr. Tsvetan Kardashliev, UniBasel\nDatum\n28.10.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
       "date": "28.10.2026",
       "location": "Muttenz"
     },
@@ -308,6 +203,13 @@
       "name": "Lecture Series IDCE: Adrien Moreillon – Raffinerie (Zürich)",
       "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/lecture-series-idce-adrien-moreillon-raffinerie-zuerich",
       "raw_text": "Ringvorlesung\nLecture Series IDCE: Adrien Moreillon – Raffinerie (Zürich)\nIm Rahmen der aktuellen Lecture Series des Institute Digital Communication Environments (IDCE) der HGK Basel bietet am 28. Oktober 2026 Adrien Moreillon Einblicke in die Arbeitsprozesse der Raffinerie, einer Agentur für Grafikdesign aus Zürich.\nDatum\n28.10.2026, 17:15–19:45 Uhr\nDurchführungsort\nHGK Basel, Aula",
+      "date": "28.10.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Henkel Inside\n28. Oktober 2026",
+      "url": "https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/henkel-inside",
+      "raw_text": "Anderes\nHenkel Inside\n28. Oktober 2026\nEinblick in die Praxis eines internationalen Konsumgüterunternehmens\nDatum\n28.10.2026, 17:30–19:15 Uhr\nDurchführungsort\nBasel",
       "date": "28.10.2026",
       "location": "Basel"
     },
@@ -403,9 +305,9 @@
       "location": "Brugg-Windisch"
     },
     {
-      "name": "Forschungsseminar: Vortrag von Dr. Melanie Steck\n4. November 2026",
+      "name": "Forschungsseminar: Vortrag von Dr. Melanie Steck",
       "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/ip-matters",
-      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. Melanie Steck\n4. November 2026\nIP Matters! – Eine Einführung in das geistige Eigentum mit Schwerpunkt auf Patenten - Dr. Melanie Steck, Schweizer und europäische Patentanwältin, Braunpat AG\nDatum\n4.11.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
+      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. Melanie Steck\nIP Matters! – Eine Einführung in das geistige Eigentum mit Schwerpunkt auf Patenten - Dr. Melanie Steck, Schweizer und europäische Patentanwältin, Braunpat AG\nDatum\n4.11.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
       "date": "4.11.2026",
       "location": "Muttenz"
     },
@@ -431,9 +333,9 @@
       "location": "Basel"
     },
     {
-      "name": "Organisation von wissenschaftliche Konferenzen in Basel\nNovember 4, 2026",
+      "name": "Organisation von wissenschaftliche Konferenzen in Basel",
       "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/so-organisieren-sie-wissenschaftliche-konferenzen-in-basel",
-      "raw_text": "Ausstellung/Präsentation\nOrganisation von wissenschaftliche Konferenzen in Basel\nNovember 4, 2026\nUnterstützung bei der Planung und Durchführung wissenschaftlicher Veranstaltungen durch das Basel Convention Bureau\nDatum\n4.11.2026, 17:45–20:00 Uhr\nDurchführungsort\nBiozentrum",
+      "raw_text": "Ausstellung/Präsentation\nOrganisation von wissenschaftliche Konferenzen in Basel\nUnterstützung bei der Planung und Durchführung wissenschaftlicher Veranstaltungen durch das Basel Convention Bureau\nDatum\n4.11.2026, 17:45–20:00 Uhr\nDurchführungsort\nBiozentrum",
       "date": "4.11.2026",
       "location": "Basel"
     },
@@ -482,7 +384,7 @@
     {
       "name": "Transfer – Bewegtes Kollektiv mit der Tänzerin Sarah Keusch",
       "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/transfer-bewegtes-kollektiv-mit-sarah-keusch",
-      "raw_text": "Anderes\nTransfer – Bewegtes Kollektiv mit der Tänzerin Sarah Keusch\nEine interaktive Bewegungs-Performance, die mit kreativen Mitteln Prozesse des Ankommens, des Weiterführens und Weitertragens thematisiert.\nDatum\n6.11.2026, 12:15–12:45 Uhr\nDurchführungsort\nOlten",
+      "raw_text": "Anderes\nTransfer – Bewegtes Kollektiv mit der Tänzerin Sarah Keusch\nEine interaktive Bewegungs-Performance, die mit kreativen Mitteln Prozesse des Ankommens, des Weiterführens und Weitertragens thematisiert.\nDatum\n6.11.2026, 12:30–13:30 Uhr\nDurchführungsort\nOlten",
       "date": "6.11.2026",
       "location": "Olten"
     },
@@ -494,9 +396,9 @@
       "location": "Muttenz"
     },
     {
-      "name": "Forschungsseminar: Vortrag von Prof. Dr. Juliane Moritz\n11. November 2026",
+      "name": "Forschungsseminar: Vortrag von Prof. Dr. Juliane Moritz",
       "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/keramische-werkstoffe-fuer-funktionale-und-biomedizinische-anwendungen",
-      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Prof. Dr. Juliane Moritz\n11. November 2026\nKeramische Werkstoffe für funktionale und biomedizinische Anwendungen - Prof. Dr. Juliane Moritz, Dozentin für metallische und keramische Werkstoffe, Institut für Produkt- und Produktionsengineering, Hochschule für Technik und Umwelt FHNW\nDatum\n11.11.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
+      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Prof. Dr. Juliane Moritz\nKeramische Werkstoffe für funktionale und biomedizinische Anwendungen - Prof. Dr. Juliane Moritz, Dozentin für metallische und keramische Werkstoffe, Institut für Produkt- und Produktionsengineering, Hochschule für Technik und Umwelt FHNW\nDatum\n11.11.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
       "date": "11.11.2026",
       "location": "Muttenz"
     },
@@ -564,6 +466,13 @@
       "location": "Muttenz"
     },
     {
+      "name": "Schweizer Erzählnacht 2026: «Stimmen»\nin der Lounge, Campus Muttenz, 12. Stock",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/zwischen-leben-monica-cantieni",
+      "raw_text": "Anderes\nSchweizer Erzählnacht 2026: «Stimmen»\nin der Lounge, Campus Muttenz, 12. Stock\n«Zwischen Leben», weitergeschrieben – ein Abend mit Monica Cantieni und Studierenden\nDatum\n13.11.2026, 18:00–20:00 Uhr\nDurchführungsort\nMuttenz",
+      "date": "13.11.2026",
+      "location": "Muttenz"
+    },
+    {
       "name": "Diversität in Umbruchzeiten: Wie verändern sich Schule und Bildung aktuell?\nPodiumsgespräch",
       "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/diversitaet-in-umbruchzeiten",
       "raw_text": "Anderes\nDiversität in Umbruchzeiten: Wie verändern sich Schule und Bildung aktuell?\nPodiumsgespräch\nEin Anlass der Gesprächsreihe Diversität.Bildung.Profession\nDatum\n17.11.2026, 18:00–20:00 Uhr\nDurchführungsort\nOlten",
@@ -571,16 +480,16 @@
       "location": "Olten"
     },
     {
-      "name": "Fördermöglichkeiten in den Life Sciences\nNovember 18, 2026",
+      "name": "Fördermöglichkeiten in den Life Sciences",
       "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/foerdermoeglichkeiten-in-den-life-sciences",
-      "raw_text": "Ausstellung/Präsentation\nFördermöglichkeiten in den Life Sciences\nNovember 18, 2026\nLunch-Veranstaltung zu Fördermöglichkeiten in der Schweiz und Europäischen Union\nDatum\n18.11.2026, 12:00–14:00 Uhr\nDurchführungsort\nWalter Klybeck",
+      "raw_text": "Ausstellung/Präsentation\nFördermöglichkeiten in den Life Sciences\nLunch-Veranstaltung zu Fördermöglichkeiten in der Schweiz und Europäischen Union\nDatum\n18.11.2026, 12:00–14:00 Uhr\nDurchführungsort\nWalter Klybeck",
       "date": "18.11.2026",
       "location": ""
     },
     {
-      "name": "Forschungsseminar: Vortrag von Dr. Markus Kohlstädt\n18. November 2026",
+      "name": "Forschungsseminar: Vortrag von Dr. Markus Kohlstädt",
       "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/nachhaltige-herstellung-von-perowskit-modulen-strategien-fuer-skalierbare-bauelemente-mit-geringer-materialabhaengigkeit",
-      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. Markus Kohlstädt\n18. November 2026\nNachhaltige Herstellung von Perowskit-Modulen: Strategien für skalierbare Bauelemente mit geringer Materialabhängigkeit - Dr. Markus Kohlstädt, Universität Freiburg und Fraunhofer ISE\nDatum\n18.11.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
+      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. Markus Kohlstädt\nNachhaltige Herstellung von Perowskit-Modulen: Strategien für skalierbare Bauelemente mit geringer Materialabhängigkeit - Dr. Markus Kohlstädt, Universität Freiburg und Fraunhofer ISE\nDatum\n18.11.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
       "date": "18.11.2026",
       "location": "Muttenz"
     },
@@ -641,6 +550,13 @@
       "location": "Windisch"
     },
     {
+      "name": "Circular Solutions for Life Sciences",
+      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/circular-solutions-for-life-sciences",
+      "raw_text": "Ausstellung/Präsentation\nCircular Solutions for Life Sciences\nVernetzung von Innovatoren im Bereich Kreislaufwirtschaft mit Vertretern aus dem Life-Sciences-Sektor\nDatum\n23.11.2026, 16:00–19:00 Uhr\nDurchführungsort\nNovartis Pavilion",
+      "date": "23.11.2026",
+      "location": ""
+    },
+    {
       "name": "Students in Concert\nStudents in Concert",
       "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/students-in-concert-2026",
       "raw_text": "Konzert\nStudents in Concert\nStudents in Concert\nStudierende zeigen, was sie drauf haben!\nDatum\n23.11.2026, 18:30–20:00 Uhr\nDurchführungsort\nBrugg-Windisch",
@@ -659,6 +575,13 @@
       "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/forschungsdatenmanagement-in-zusammenarbeit-mit-der-praxis",
       "raw_text": "Anderes\nForschungsdatenmanagement in Zusammenarbeit mit der Praxis\nPanel-Diskussion, 24. November 2026\nPanel-Diskussion mit Expert*innen aus Forschung, Industrie und Recht, 24. November 2026, FHNW Campus Muttenz.\nDatum\n24.11.2026, 15:15–17:00 Uhr\nDurchführungsort\nMuttenz",
       "date": "24.11.2026",
+      "location": "Muttenz"
+    },
+    {
+      "name": "Forschungsseminar: Vortrag von Dr. Britta Steffens",
+      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/wie-mathematische-modelle-die-klinische-entscheidungsfindung-beeinflussen-koennen-ein-weg-von-der-forschung-zur-praxis",
+      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. Britta Steffens\nWie mathematische Modelle die klinische Entscheidungsfindung beeinflussen können: Ein Weg von der Forschung zur Praxis - Dr. Britta Steffens, Pädiatrische Pharmakologie und Pharmakometrie, Universitäts-Kinderspital Basel (UKBB) & CTL, FHNW\nDatum\n25.11.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
+      "date": "25.11.2026",
       "location": "Muttenz"
     },
     {
@@ -683,13 +606,6 @@
       "location": "Basel"
     },
     {
-      "name": "Antrittsvorlesung von Prof. Dr. Bram Stieltjes\nNovember 26, 2026",
-      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/antrittsvorlesung-von-prof-dr-bram-stieltjes",
-      "raw_text": "Workshop/Seminar\nAntrittsvorlesung von Prof. Dr. Bram Stieltjes\nNovember 26, 2026\nOpen-Source-Datenmodelle als Grundlage der digitalen Souveränität und KI in der Medizin\nDatum\n26.11.2026, 16:00–18:00 Uhr\nDurchführungsort\nHörsaal 01.W.09, Campus Muttenz",
-      "date": "26.11.2026",
-      "location": "Muttenz"
-    },
-    {
       "name": "PodiuMINT /Ausserschulische Lernorte – Nur Spass oder echter Mehrwert?\nOnline-Podium",
       "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/ausserschulische-lernorte-nur-spass-oder-echter-mehrwert",
       "raw_text": "Anderes\nPodiuMINT /Ausserschulische Lernorte – Nur Spass oder echter Mehrwert?\nOnline-Podium\nMit Marie Pachtovà und Prof. Dr. Markus Emden\nDatum\n27.11.2026, 13:00–14:00 Uhr\nDurchführungsort\nOnline",
@@ -697,9 +613,9 @@
       "location": "Online"
     },
     {
-      "name": "Forschungsseminar: Vortrag von Prof. Dr. Francesca Paradisi\n2. Dezember 2026",
+      "name": "Forschungsseminar: Vortrag von Prof. Dr. Francesca Paradisi",
       "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/biokatalyse-schritt-fuer-schritt-vorantreiben-ein-enzym-nach-dem-anderen",
-      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Prof. Dr. Francesca Paradisi\n2. Dezember 2026\nDie Biokatalyse Schritt für Schritt vorantreiben, ein Enzym nach dem anderen - Prof. Dr. Francesca Paradisi, DCBP, Universität Bern\nDatum\n2.12.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
+      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Prof. Dr. Francesca Paradisi\nDie Biokatalyse Schritt für Schritt vorantreiben, ein Enzym nach dem anderen - Prof. Dr. Francesca Paradisi, DCBP, Universität Bern\nDatum\n2.12.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
       "date": "2.12.2026",
       "location": "Muttenz"
     },
@@ -718,13 +634,6 @@
       "location": "Basel"
     },
     {
-      "name": "Sinn bei der Arbeit",
-      "url": "https://www.fhnw.ch/de/psychologie/aktuelles/veranstaltungen/alle/sinn-bei-der-arbeit",
-      "raw_text": "Workshop/Seminar\nSinn bei der Arbeit\nEin gemeinsamer Afterwork-Anlass mit der SWIPPA rund um Sinn und Sinnförderung.\nDatum\n2.12.2026, 18:00–20:00 Uhr\nDurchführungsort\nFHWN Campus Olten",
-      "date": "2.12.2026",
-      "location": "Olten"
-    },
-    {
       "name": "Vortrag «Ein Haus ...»",
       "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/vortrag-ein-haus-02-12-2026",
       "raw_text": "Vortrag «Ein Haus ...»\n‹Mehrgenerationenhaus Görzer Strasse, München, 2024› | ETAL, München\nDatum\n2.12.2026, 19:00–Open End\nDurchführungsort\nBasel",
@@ -739,9 +648,16 @@
       "location": ""
     },
     {
-      "name": "Forschungsseminar: Vortrag von Dr. rer. medic. Iris Schulz\n9. Dezember 2026",
+      "name": "Sinn bei der Arbeit",
+      "url": "https://www.fhnw.ch/de/psychologie/aktuelles/veranstaltungen/alle/sinn-bei-der-arbeit",
+      "raw_text": "Workshop/Seminar\nSinn bei der Arbeit\nEin gemeinsamer Afterwork-Anlass mit der SWIPPA rund um Sinn und Sinnförderung.\nDatum\n3.12.2026, 18:00–20:00 Uhr\nDurchführungsort\nFHNW Campus Olten",
+      "date": "3.12.2026",
+      "location": "Olten"
+    },
+    {
+      "name": "Forschungsseminar: Vortrag von Dr. rer. medic. Iris Schulz",
       "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/forensic-genetics-research-projects",
-      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. rer. medic. Iris Schulz\n9. Dezember 2026\nForensische Genetik und Forschungsprojekte - Dr. rer. medic. Iris Schulz, Leiterin der Abteilung für forensische Genetik, Institut für Rechtsmedizin Basel\nDatum\n9.12.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
+      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. rer. medic. Iris Schulz\nForensische Genetik und Forschungsprojekte - Dr. rer. medic. Iris Schulz, Leiterin der Abteilung für forensische Genetik, Institut für Rechtsmedizin Basel\nDatum\n9.12.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
       "date": "9.12.2026",
       "location": "Muttenz"
     },
@@ -760,9 +676,9 @@
       "location": "Online"
     },
     {
-      "name": "Forschungsseminar: Vortrag von Dr. Aurélien Bigot\n16. Dezember 2026",
+      "name": "Forschungsseminar: Vortrag von Dr. Aurélien Bigot",
       "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/von-nikotin-bis-zu-spinnenpeptiden",
-      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. Aurélien Bigot\n16. Dezember 2026\nVon Nikotin bis zu Spinnenpeptiden: Eine gemeinsame Forschungsreise, die auf den nikotinischen Rezeptor von Insekten abzielt und sowohl kleinmolekulare Wirkstoffe als auch Peptide einbezieht - Dr. Aurélien Bigot, Syngenta Biologicals, Leiter des Bereichs Neue Technologien, Forschung im Bereich Bioprodukte\nDatum\n16.12.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
+      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. Aurélien Bigot\nVon Nikotin bis zu Spinnenpeptiden: Eine gemeinsame Forschungsreise, die auf den nikotinischen Rezeptor von Insekten abzielt und sowohl kleinmolekulare Wirkstoffe als auch Peptide einbezieht - Dr. Aurélien Bigot, Syngenta Biologicals, Leiter des Bereichs Neue Technologien, Forschung im Bereich Bioprodukte\nDatum\n16.12.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
       "date": "16.12.2026",
       "location": "Muttenz"
     },
@@ -772,6 +688,13 @@
       "raw_text": "Workshop/Seminar\nBeethoven-Akademie XII: Tempo, Metronom und Rezitativ\nVortrag und Workshop mit Amandine Beyer und Marten Noorduin\n17. Dezember 2026, Vorträge und Workshops zu Tempo, Metronom und Rezitativ bei Beethoven. Mit Kai Köpp und Marten Noorduin.\nDatum\n17.12.2026, 10:00–13:00 Uhr\nDurchführungsort\nStudio Eckenstein",
       "date": "17.12.2026",
       "location": ""
+    },
+    {
+      "name": "Fiasko\nEin Abend zum Kennenlernen (Arbeitstitel)",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/fiasko",
+      "raw_text": "Anderes\nFiasko\nEin Abend zum Kennenlernen (Arbeitstitel)\nEin Abend zum Kennenlernen (Arbeitstitel)\nDatum\n17.12.2026, 19:00–20:00 Uhr\nDurchführungsort\nMuttenz",
+      "date": "17.12.2026",
+      "location": "Muttenz"
     },
     {
       "name": "Lecture Series IDCE: Jasmine Guffond (Berlin)",
@@ -793,6 +716,69 @@
       "raw_text": "Konzert\nEine große musikalische Akademie\nKonzert\nAbschlusskonzert von Focus Beethoven. Ein Projekt der Schola Cantorum Basiliensis und The Juilliard School\nDatum\n15.1.2027, 19:00–22:00 Uhr\nDurchführungsort\nStadtcasino",
       "date": "15.1.2027",
       "location": ""
+    },
+    {
+      "name": "MasterForum Winter 2027",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/masterforum-winter-2027",
+      "raw_text": "Ausstellung/Präsentation\nMasterForum Winter 2027\nEinladung zu den Präsentationen der Masterthesen vom Herbstsemester 2026/27\nDatum\n19.1.2027",
+      "date": "19.1.2027",
+      "location": ""
+    },
+    {
+      "name": "Im Austausch mit der Pädagogischen Hochschule",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/im-austausch-mit-der-paedagogischen-hochschule-2027",
+      "raw_text": "Tagung/Kongress\nIm Austausch mit der Pädagogischen Hochschule\nDie Hochschulleitung der PH FHNW freut sich Sie zu einem Austausch zum Jahresstart an der PH FHNW begrüssen zu dürfen.\nDatum\n21.1.2027, 18:30–20:00 Uhr\nDurchführungsort\nOlten",
+      "date": "21.1.2027",
+      "location": "Olten"
+    },
+    {
+      "name": "Tagung Gruppendynamik & Soziale Arbeit",
+      "url": "https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/tagung-gruppendynamik-soziale-arbeit",
+      "raw_text": "Tagung/Kongress\nTagung Gruppendynamik & Soziale Arbeit\n«Dann nimm’s doch persönlich – Emotionen und Gefühle in der professionellen Beziehungsgestaltung der Sozialen Arbeit» ist Thema der Tagung Gruppendynamik und Soziale Arbeit, die am 28.-29. Januar 2027 in Muttenz stattfindet.\nDatum\n28.1.2027–29.1.2027, 09:00–13:00 Uhr\nDurchführungsort\nMuttenz",
+      "date": "28.1.2027",
+      "location": "Muttenz"
+    },
+    {
+      "name": "Tagung Soziale Innovation 2027",
+      "url": "https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/soziale-innovation-2027",
+      "raw_text": "Tagung/Kongress\nTagung Soziale Innovation 2027\n«Gut(es)» Entwickeln in der Sozialen Arbeit. Fachlich fundierte Innovationen im Kontext sich wandelnder Arbeitswelten // Colloque « Innovation sociale 2027 » : comment développer de « bonnes » innovations ?\nDatum\n24.2.2027\nDurchführungsort\nOlten",
+      "date": "24.2.2027",
+      "location": "Olten"
+    },
+    {
+      "name": "3. Fachtagung Wirkungen und Soziale Arbeit",
+      "url": "https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/tagung-wirkungen-2027",
+      "raw_text": "Tagung/Kongress\n3. Fachtagung Wirkungen und Soziale Arbeit\nWirkungen im Blick – neue Trends und Zugänge\nDatum\n3.3.2027\nDurchführungsort\nOlten",
+      "date": "3.3.2027",
+      "location": "Olten"
+    },
+    {
+      "name": "Kommunikation im Fokus – die Tagung für Assistenzpersonen",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/assistenzpersonen-im-fokus",
+      "raw_text": "Tagung/Kongress\nKommunikation im Fokus – die Tagung für Assistenzpersonen\nAssistenzpersonen prägen den Schulalltag mit ihrem Engagement, ihrer Präsenz und ihrer wertvollen Unterstützung. Die Tagung für Assistenzpersonen bietet praxisnahe Inputs, Austauschmöglichkeiten und neue Impulse für Ihre tägliche Arbeit.\nDatum\n13.3.2027, 08:15–16:30 Uhr\nDurchführungsort\nBrugg-Windisch",
+      "date": "13.3.2027",
+      "location": "Brugg-Windisch"
+    },
+    {
+      "name": "Netzwerktreffen Diversitätsorientierte Sprachförderung und DaZ",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/netzwerktreffen-diversitaetsorientierte-sprachfoerderung-und-daz",
+      "raw_text": "Tagung/Kongress\nNetzwerktreffen Diversitätsorientierte Sprachförderung und DaZ\nAm Netzwerktreffen treffen sich (DaZ-)Lehrpersonen.\nDatum\n3.4.2027, 08:45–13:15 Uhr\nDurchführungsort\nBrugg-Windisch",
+      "date": "3.4.2027",
+      "location": "Brugg-Windisch"
+    },
+    {
+      "name": "Mir gäbe alles für es guäts Klima! Schulentwicklungsprojekt der Klimaschule Gelterkinden\nMir gäbe alles für es guäts Klima! Schulentwicklungsprojekt der Klimaschule Gelterkinden",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/bne-schulpraxis",
+      "raw_text": "Anderes\nMir gäbe alles für es guäts Klima! Schulentwicklungsprojekt der Klimaschule Gelterkinden\nMir gäbe alles für es guäts Klima! Schulentwicklungsprojekt der Klimaschule Gelterkinden\nDie Schule Gelterkinden macht Nachhaltigkeit erlebbar. Seit über sechs Jahren setzen sich Schülerinnen und Schüler mit Klima, Energie und Biodiversität auseinander,\nDatum\n15.4.2027, 17:00–18:30 Uhr\nDurchführungsort\nMuttenz",
+      "date": "15.4.2027",
+      "location": "Muttenz"
+    },
+    {
+      "name": "Netzwerktreffen PICTS-net – Save the Date",
+      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/netzwerktreffen-picts-net-1",
+      "raw_text": "Tagung/Kongress\nNetzwerktreffen PICTS-net – Save the Date\nAktuell bleiben. Sich austauschen. Gemeinsam gestalten.\nDatum\n5.5.2027, 14:00–17:00 Uhr\nDurchführungsort\nBrugg-Windisch",
+      "date": "5.5.2027",
+      "location": "Brugg-Windisch"
     }
   ]
 }
