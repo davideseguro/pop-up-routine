@@ -1,0 +1,83 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-10-28
+14 neue Events, davon 8 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (8) ===
+
+- PFAS Summit 2026
+  Score 82: Der PFAS Summit ist eine Fachtagung, die Wissenschaft, Analyse und Lösungen zu PFAS vereint und damit den Austausch zwischen Forschenden, Industrie und weiteren Akteuren ermöglicht – mit Bezug zu Umwelt/Nachhaltigkeit.
+  19.11.2026 | Muttenz | Tagung/Konferenz
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/pfas-summit-2026
+
+- Neurodiversität – verstehen, reflektieren, gestalten
+  Score 62: Das Event thematisiert Neurodiversität und Inklusion an Hochschulen in einem Diskussionsformat, das Austausch ermöglicht, hat jedoch keinen klaren Networking-Fokus zwischen verschiedenen Akteuren und passt nur bedingt zu den bevorzugten Themen.
+  1.12.2026 | Olten | Forschung
+  Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/neurodiversitaet-verstehen-reflektieren-gestalten
+
+- Antrittsvorlesung von Prof. Dr. Bram Stieltjes
+  Score 62: Antrittsvorlesung zu KI und digitaler Souveränität in der Medizin mit öffentlichem Charakter, die thematisch gut passt, aber als Vorlesungsformat nur eingeschränktes Networking zwischen verschiedenen Akteuren ermöglicht.
+  4.2.2027 | Muttenz | Future Health
+  Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/antrittsvorlesung-von-prof-dr-bram-stieltjes
+
+- Fünfter internationaler FHNW Rover Träff | FHNW Rover Träff
+  Score 72: Der FHNW Rover Träff ist ein etabliertes Networking-Event im Bereich Weltraum-Robotik (bekannter Beispieltreffer), das Forschende, Industrie und Fachpublikum zusammenbringt, auch wenn der primäre Fokus auf Studierenden-Leistungsschauen liegt.
+  15.5.2027 | Windisch | Robotik/Tech | EVENTREIHE
+  Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/fhnw-rover-traeff-2027
+
+- FHNW Robot Day 2027 | FHNW Robot Day 2027
+  Score 62: Der FHNW Robot Day ist ein bekanntes Beispiel-Treffer-Format (Roboter Treff/Robot Day), jedoch liegt der Fokus laut Beschreibung auf Studierenden-Leistungsschauen, was das Networking-Kriterium abschwächt.
+  15.5.2027 | Windisch | Robotik/Tech | EVENTREIHE
+  Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/fhnw-robot-day-2027
+
+- 8. Fachtagung Sozialplanung und Soziale Arbeit
+  Score 72: Fachtagung mit interdisziplinärem Austausch zwischen Forschenden, Sozialer Arbeit, Verwaltung und Praxis – klares Networking-Format, jedoch kein direkter Bezug zu den bevorzugten Themen.
+  2.6.2027 | Olten | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/tagung-sozialplaung-und-soziale_arbeit
+
+- 8. Fachtagung Kindesschutz 2027
+  Score 72: Fachtagung mit Austausch zwischen Fachpersonen aus Sozialer Arbeit, Behörden und weiteren Akteuren erfüllt das harte Networking-Kriterium, thematisch aber kein direkter Bezug zu den bevorzugten Themenfeldern.
+  4.6.2027 | Muttenz | Tagung/Konferenz | EVENTREIHE
+  Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/kindesschutztagung-2027
+
+- 2. Swiss Sustainable Polymer Conference SSPC | 4.6.2027
+  Score 92: Explizite Vernetzungsplattform zwischen Industrie und Wissenschaft im Bereich nachhaltige Kunststoffindustrie mit Networking, Vorträgen und Show-Cases – erfüllt hartes Kriterium und thematisch klar im Bereich Nachhaltigkeit/Kreislaufwirtschaft.
+  4.6.2027 | Brugg-Windisch | Zero Emission | EVENTREIHE
+  Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/swiss-sustainable-polymer-conference-sspc
+
+=== ALLE 14 NEUEN EVENTS ===
+
+  1.   Ausstellung ‹TRANSFORMATION› | 28.10.2026 | Basel
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/ausstellung-transformation
+  2.   Art in Conflict: Einblicke in ein Theaterprojekt zum Thema Krieg und Krise | 11.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/art-in-conflict-einblicke-in-ein-theaterprojekt-zum-thema-krieg-und-krise
+  3. * PFAS Summit 2026 | 19.11.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/pfas-summit-2026
+  4. * Neurodiversität – verstehen, reflektieren, gestalten | 1.12.2026 | Olten
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/neurodiversitaet-verstehen-reflektieren-gestalten
+  5.   Ausstellung ‹Material matters: Schöner dämmen› | 01.12.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/schoener-daemmen
+  6.   Der Rote Knopf | Eine szenische Lesung des Theaterlabors Olten | 2.12.2026 | Olten
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/der-rote-knopf
+  7.   Still sitzen | Still sitzen | 8.12.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/still-sitzen
+  8.   WINGWOMEN Weihnachtsstammtisch | 18.12.2026 | 18.12.2026 | 
+      Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/wingwomen-stammtisch
+  9. * Antrittsvorlesung von Prof. Dr. Bram Stieltjes | 4.2.2027 | Muttenz
+      Link: https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/antrittsvorlesung-von-prof-dr-bram-stieltjes
+ 10. * Fünfter internationaler FHNW Rover Träff | FHNW Rover Träff | 15.5.2027 | Windisch
+      Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/fhnw-rover-traeff-2027
+ 11. * FHNW Robot Day 2027 | FHNW Robot Day 2027 | 15.5.2027 | Windisch
+      Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/fhnw-robot-day-2027
+ 12. * 8. Fachtagung Sozialplanung und Soziale Arbeit | 2.6.2027 | Olten
+      Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/tagung-sozialplaung-und-soziale_arbeit
+ 13. * 8. Fachtagung Kindesschutz 2027 | 4.6.2027 | Muttenz
+      Link: https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/kindesschutztagung-2027
+ 14. * 2. Swiss Sustainable Polymer Conference SSPC | 4.6.2027 | 4.6.2027 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/swiss-sustainable-polymer-conference-sspc
