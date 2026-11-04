@@ -1,0 +1,44 @@
+==============================================================
+  POP-UP Routine - Neue FHNW-Veranstaltungen
+==============================================================
+
+[SICHERHEITSHINWEIS]
+Diese E-Mail wurde automatisiert von einer KI erstellt und ueber einen externen Gmail-Account (claudeforschungssupport@gmail.com) versendet. Aus Sicherheitsgruenden werden alle Links als vollstaendige URLs dargestellt und nicht hinter Linktexten verborgen. Bitte pruefe jede URL vor dem Klick. Oeffne niemals einen Link aus dieser Mail, der hinter einem Linktext versteckt ist - das waere ein Anzeichen fuer Manipulation.
+
+Scrape vom 2026-11-04
+12 neue Events, davon 1 Vorschlaege
+Quelle: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle
+
+=== CLAUDE'S VORSCHLAEGE (1) ===
+
+- Education meets Innovation | Eine neue Meet-up-Reihe | Roberta – Lernen mit Robotern
+  Score 72: Meetup-Reihe zu Lernen mit Robotern im Bildungskontext ermöglicht Networking und Informationsaustausch zwischen verschiedenen Akteuren und trifft das weiche Kriterium 'Lernen/New Work'.
+  26.11.2026 | Muttenz | New Work | EVENTREIHE
+  Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/education-meets-innovation
+
+=== ALLE 12 NEUEN EVENTS ===
+
+  1.   Jam-Session im Musikkeller | 6.11.2026 | Brugg-Windisch
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/jam-session-cbw
+  2.   Terrain 090: Aykan Safoğlu über Sehnsüchte, Träume und Widersprüche in fotografischen Erzählungen | 9.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/terrain-090-aykan-safoglu-ueber-sehnsuechte-traeume-und-widersprueche-in-fotografischen-erzaehlungen
+  3.   The Question of Class: Herbstsymposium des Institute Art Gender Nature (IAGN) der HGK Basel | 12.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/the-question-of-class-herbstsymposium-des-institute-art-gender-nature-iagn-der-hgk-basel
+  4.   Erinnerungsraum: Szenografische Anregungen aus der Kindheit | 13.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/erinnerungsraum-szenografische-anregungen-aus-der-kindheit
+  5.   Wheels: Golnaz Hosseini im Ausstellungsraum «der TANK» der HGK Basel | 13.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/wheels-golnaz-hosseini-im-ausstellungsraum-der-tank-der-hgk-basel
+  6.   Push Talks: Eine Initiative von Studierenden des Institute Digital Communication Environments (IDCE) | Push Talk: Samira Schneuwly | 13.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/push-talks-eine-initiative-von-studierenden-des-institute-digital-communication-environments-idce
+  7.   Terrain 091: Julia Allerstorfer-Hertel über postkoloniale Perspektiven in der Kunstgeschichte | 16.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/terrain-091-julia-allerstorfer-hertel-ueber-postkoloniale-perspektiven-in-der-kunstgeschichte
+  8.   Jubiläumsfest: 40 Jahre Jazz-Ausbildung in Basel | Eröffnung & Konzerte | 19.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/jubilaeumsfest
+  9.   Kunst Kann – Eine interaktive Tagung zum künstlerischen Potenzial von Inklusion und Partizipation | 20.11.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/kunst-kann-eine-interaktive-tagung-zum-kuenstlerischen-potenzial-von-inklusion-und-partizipation
+ 10. * Education meets Innovation | Eine neue Meet-up-Reihe | Roberta – Lernen mit Robotern | 26.11.2026 | Muttenz
+      Link: https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/education-meets-innovation
+ 11.   Building Vessels: IXDM Lab Days 2026 zu Solidarität und Transformation | 16.12.2026 | Basel
+      Link: https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/building-vessels-ixdm-lab-days-2026-zu-solidaritaet-und-transformation
+ 12.   FHNW Nachhaltigkeitswoche | Nachhaltigkeitswoche 2027 | 15.3.2027 | 
+      Link: https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/nachhaltigkeitswoche
