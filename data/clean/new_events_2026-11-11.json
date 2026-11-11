@@ -1,0 +1,57 @@
+{
+  "diffed_at": "2026-11-11",
+  "baseline_count": 112,
+  "current_count": 101,
+  "new_count": 7,
+  "events": [
+    {
+      "name": "Beethoven-Akademie VII: Schiller und Beethoven\nVortrag von Wolfgang Lukas (Wuppertal): \"Zwischen Theodizee und Revolution. Schillers 'An die Freude' im Kontext der Spätaufklärung\"",
+      "url": "https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/beethoven-akademie-vii",
+      "raw_text": "Workshop/Seminar\nBeethoven-Akademie VII: Schiller und Beethoven\nVortrag von Wolfgang Lukas (Wuppertal): \"Zwischen Theodizee und Revolution. Schillers 'An die Freude' im Kontext der Spätaufklärung\"\n12. November 2026, Vortrag und Präsentationen. Mit Wolfgang Lukas und Martin Kirnbauer.\nDatum\n12.11.2026, 17:00–18:00 Uhr\nDurchführungsort\nMusikmuseum Basel",
+      "date": "12.11.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Abschlusskolloquium «MAS FHNW Digitales Bauen»",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/abschlusskolloquium-mas-fhnw-digitales-bauen",
+      "raw_text": "Ausstellung/Präsentation\nAbschlusskolloquium «MAS FHNW Digitales Bauen»\nBereits zum zwölften Mal treten die Absolvierenden zum Abschlusskolloquium des «MAS FHNW Digitales Bauen» an. In diesem Rahmen geht ihrem präsentieien die Theslinge ihre Abschlussarbeiten vor Fachexpert*innen und einer interessierte Öffentlichkeit. Wir laden Sie herzlich dazu ein, die spannenden Präsentationen über die verschiedenen MAS Thesen zu besuchen.\nDatum\n16.11.2026, 08:30–14:30 Uhr\nDurchführungsort\nRaum 6.4D51",
+      "date": "16.11.2026",
+      "location": ""
+    },
+    {
+      "name": "«Hack Apertus» Basel\n4. - 5. Dezember 2026",
+      "url": "https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/hack-apertus-basel",
+      "raw_text": "Anderes\n«Hack Apertus» Basel\n4. - 5. Dezember 2026\nDu möchtest die Möglichkeiten von Künstlicher Intelligenz nicht nur erleben, sondern aktiv mitgestalten?\nDatum\n4.12.2026–5.12.2026, 08:00–22:00 Uhr\nDurchführungsort\nBasel",
+      "date": "4.12.2026",
+      "location": "Basel"
+    },
+    {
+      "name": "Microplastics.ch - Fachtagung zu Mikroplastik\nTeilnahme als Besucherin/Besucher",
+      "url": "https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/microplastics-fachtagung",
+      "raw_text": "Tagung/Kongress\nMicroplastics.ch - Fachtagung zu Mikroplastik\nTeilnahme als Besucherin/Besucher\nWissenschaftliche Fachtagung zu Mikroplastik: Forschungsergebnisse teilen, Herausforderungen diskutieren und Zusammenarbeit fördern.\nDatum\n12.3.2027, 09:00–19:00 Uhr\nDurchführungsort\n5210 Windisch",
+      "date": "12.3.2027",
+      "location": "Windisch"
+    },
+    {
+      "name": "IM2 Research Day 2027",
+      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/im2-research-day-2027",
+      "raw_text": "Ausstellung/Präsentation\nIM2 Research Day 2027\nEntdecken Sie die Zukunft der medizinischen Innovation\nDatum\n13.4.2027, 16:00–20:00 Uhr\nDurchführungsort\nAula, FHNW Campus Muttenz",
+      "date": "13.4.2027",
+      "location": "Muttenz"
+    },
+    {
+      "name": "Society 5.0\nJuni 2027",
+      "url": "https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/society-5-0",
+      "raw_text": "Tagung/Kongress\nSociety 5.0\nJuni 2027\nKonferenz die zeigt, wie Cyberraum und physischer Raum verschmelzen, um nachhaltige Lösungen zu schaffen.\nDatum\n6.6.2027–9.6.2027\nDurchführungsort\nBasel",
+      "date": "6.6.2027",
+      "location": "Basel"
+    },
+    {
+      "name": "Geomatik Summer School",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/geomatik-summer-school",
+      "raw_text": "Anderes\nGeomatik Summer School\nIn der Geomatik Summer School kannst du während drei Tagen erleben, was Geomatik ist und verschiedene Bereiche der Geomatik vertieft kennenlernen und ausprobieren.\nDatum\n11.8.2027–13.8.2027\nDurchführungsort\nMuttenz",
+      "date": "11.8.2027",
+      "location": "Muttenz"
+    }
+  ]
+}

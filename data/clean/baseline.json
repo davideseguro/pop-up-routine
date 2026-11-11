@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-04",
+  "scraped_at": "2026-11-11",
   "source_url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle",
-  "count": 112,
+  "count": 101,
   "events": [
     {
       "name": "Zu Hauptinhalt springen",
@@ -71,118 +71,6 @@
       "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/ausstellung-transformation",
       "raw_text": "Ausstellung/Präsentation\nAusstellung ‹TRANSFORMATION›\nMit einer Ausstellung im Domushaus EG gibt das Institut Architektur FHNW einen Einblick in die prozesshafte Auseinandersetzung mit dem Wandel innerhalb bestehender Strukturen.\nDatum\n28.10.2026–12.11.2026\nDurchführungsort\nDomushaus EG, Basel",
       "date": "28.10.2026",
-      "location": "Basel"
-    },
-    {
-      "name": "Spiegelungen: Ein Festival der Hochschule für Musik Basel\nFestival-Ausgabe VI",
-      "url": "https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/spiegelungen-festival",
-      "raw_text": "Konzert\nSpiegelungen: Ein Festival der Hochschule für Musik Basel\nFestival-Ausgabe VI\n«Spiegelungen» eine institutsübergreifende Begegnung von Jazz, alter und neuer Musik. Seit 2015 veranstalten der bird’s eye jazz club und die Institute Jazz, Schola Cantorum Basiliensis und Klassik/sonic space basel der Hochschule für Musik Basel FHNW in einer Biennale gemeinsam Konzerte mit gemischten Ensembles. Die Projekte und Bands erzählen von ganz unterschiedlichen Begegnungen von mindestens zwei der verschiedenen musikalischen Genres.\nDatum\n3.11.2026–7.11.2026\nDurchführungsort\nbird's eye jazz club und Jazzcampus Basel",
-      "date": "3.11.2026",
-      "location": "Basel"
-    },
-    {
-      "name": "Kontrapunkte: künstlerisch-musikalische Begegnungen am Campus",
-      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/kontrapunkte-kuenstlerisch-musikalische-begegnungen-am-campus",
-      "raw_text": "Anderes\nKontrapunkte: künstlerisch-musikalische Begegnungen am Campus\nVeronika Kehl-Griesslehner, Sängerin, und Mathis Rickli, Künstler, Vermittler und Zeichner lassen sich auf eine künstlerische Erkundungsreise ein, die das Geschehen am Campus erforscht.\nDatum\n4.11.2026, 12:00–12:30 Uhr\nDurchführungsort\nBrugg-Windisch",
-      "date": "4.11.2026",
-      "location": "Brugg-Windisch"
-    },
-    {
-      "name": "Forschungsseminar: Vortrag von Dr. Melanie Steck",
-      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/ip-matters",
-      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. Melanie Steck\nIP Matters! – Eine Einführung in das geistige Eigentum mit Schwerpunkt auf Patenten - Dr. Melanie Steck, Schweizer und europäische Patentanwältin, Braunpat AG\nDatum\n4.11.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
-      "date": "4.11.2026",
-      "location": "Muttenz"
-    },
-    {
-      "name": "Fachtagung «Mobbing im schulischen Kontext – Erkennen. Verstehen. Handeln»",
-      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/fachtagung-mobbing-im-schulischen-kontext-erkennen-verstehen-handeln",
-      "raw_text": "Tagung/Kongress\nFachtagung «Mobbing im schulischen Kontext – Erkennen. Verstehen. Handeln»\nStudien zeigen: Jedes Kind erlebt in der Schulzeit Mobbing – als betroffenes, zuschauendes oder mobbendes Kind. Dies hinterlässt Spuren - bei den betroffenen Kindern, in der Klasse und der Schule.\nDatum\n4.11.2026, 13:00–17:30 Uhr\nDurchführungsort\nMuttenz",
-      "date": "4.11.2026",
-      "location": "Muttenz"
-    },
-    {
-      "name": "Vernetzungsanlass BNE",
-      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/vernetzungsanlass-bne",
-      "raw_text": "Tagung/Kongress\nVernetzungsanlass BNE\nBildung für Nachhaltige Entwicklung die im Schulalltag funktioniert. Gemeinsam statt alleine.\nDatum\n4.11.2026, 14:00–18:00 Uhr\nDurchführungsort\nBrugg-Windisch",
-      "date": "4.11.2026",
-      "location": "Brugg-Windisch"
-    },
-    {
-      "name": "New Work in der Schweizer Planungs- und Bauindustrie",
-      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/new-work-konkret/new-work-in-der-baubranche",
-      "raw_text": "Ringvorlesung\nNew Work in der Schweizer Planungs- und Bauindustrie\nWie man mit agilen Zusammenarbeitsmodellen starre Strukturen aufbricht\nDatum\n4.11.2026, 17:15–18:15 Uhr\nDurchführungsort\nBasel",
-      "date": "4.11.2026",
-      "location": "Basel"
-    },
-    {
-      "name": "Organisation von wissenschaftliche Konferenzen in Basel",
-      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/so-organisieren-sie-wissenschaftliche-konferenzen-in-basel",
-      "raw_text": "Ausstellung/Präsentation\nOrganisation von wissenschaftliche Konferenzen in Basel\nUnterstützung bei der Planung und Durchführung wissenschaftlicher Veranstaltungen durch das Basel Convention Bureau\nDatum\n4.11.2026, 17:45–20:00 Uhr\nDurchführungsort\nBiozentrum",
-      "date": "4.11.2026",
-      "location": "Basel"
-    },
-    {
-      "name": "Wissenschaftscafé Aargau: Demokratie digital",
-      "url": "https://www.fhnw.ch/de/aktuelles/veranstaltungen/alle/wissenschaftscafe-aargau-demokratie-digital",
-      "raw_text": "Anderes\nWissenschaftscafé Aargau: Demokratie digital\nIm Wissenschaftscafé Aargau können Sie in einen direkten Dialog mit Fachpersonen eintreten und mit ihnen über aktuelle Themen diskutieren.\nDatum\n4.11.2026, 18:30–20:30 Uhr\nDurchführungsort\nAargauer Kantonsbibliothek",
-      "date": "4.11.2026",
-      "location": ""
-    },
-    {
-      "name": "Beethoven-Akademie VI: Holzbläser\nPräsentationen von Georges Barthel (Flöte), Antoine Torunczyk (Oboe) und Javier Caruda Ortiz (Fagott)",
-      "url": "https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/beethoven-akademie-vi",
-      "raw_text": "Workshop/Seminar\nBeethoven-Akademie VI: Holzbläser\nPräsentationen von Georges Barthel (Flöte), Antoine Torunczyk (Oboe) und Javier Caruda Ortiz (Fagott)\n5. November 2026, Workshops und Präsentationen zur Praxis und Entwicklung von Holzblasinstrumenten bei Beethoven. Mit Georges Barthel, Carles Cristóbal, Antoine Torunczyk, Beate Angelika Kraus.\nDatum\n5.11.2026, 10:00–13:30 Uhr\nDurchführungsort\nLetzi 95-301",
-      "date": "5.11.2026",
-      "location": ""
-    },
-    {
-      "name": "2nd International Solidarity Research Conference (2ISRC)",
-      "url": "https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/2nd-international-solidarity-research-conference-2isrc",
-      "raw_text": "Tagung/Kongress\n2nd International Solidarity Research Conference (2ISRC)\nThe 2nd International Solidarity Research Conference (2ISRC) will take place on 5-6 November 2026 at the Babeș-Bolyai University, in Cluj-Napoca, Romania and online. The conference focuses on the «Limits of Learning and Solidarity».\nDatum\n5.11.2026–6.11.2026\nDurchführungsort\nCluj-Napoca, Romania",
-      "date": "5.11.2026",
-      "location": "Online"
-    },
-    {
-      "name": "Basler Forum Musikästhetik\nBasler Forum Musikästhetik 2026 Tag 1",
-      "url": "https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/forum-musikaesthetik-2026",
-      "raw_text": "Tagung/Kongress\nBasler Forum Musikästhetik\nBasler Forum Musikästhetik 2026 Tag 1\nBILDVERBOT - Schönbergs \"Moses und Aron\"\nDatum\n5.11.2026, 13:00–22:30 Uhr\nDurchführungsort\nMusikwissenschaftliches Seminar der Universität Basel",
-      "date": "5.11.2026",
-      "location": "Basel"
-    },
-    {
-      "name": "Fachtagung: Traumasensibilität in Beratung und Supervision",
-      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/fachtagung-traumasensibilitaet-in-beratung-und-supervision",
-      "raw_text": "Tagung/Kongress\nFachtagung: Traumasensibilität in Beratung und Supervision\nTraumatische Erfahrungen prägen nicht nur die Betroffenen selbst, sondern wirken oft auch in Beratungs- und Betreuungskontexten weiter.\nDatum\n6.11.2026, 09:00–17:00 Uhr\nDurchführungsort\nBrugg-Windisch",
-      "date": "6.11.2026",
-      "location": "Brugg-Windisch"
-    },
-    {
-      "name": "Radontag FHNW 2026",
-      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/radontag-fhnw",
-      "raw_text": "Workshop/Seminar\nRadontag FHNW 2026\nAm Freitag, 6. November 2026, findet der jährliche Radontag der FHNW statt.\nDatum\n6.11.2026, 09:00–17:15 Uhr",
-      "date": "6.11.2026",
-      "location": ""
-    },
-    {
-      "name": "Transfer – Bewegtes Kollektiv mit der Tänzerin Sarah Keusch",
-      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/transfer-bewegtes-kollektiv-mit-sarah-keusch",
-      "raw_text": "Anderes\nTransfer – Bewegtes Kollektiv mit der Tänzerin Sarah Keusch\nEine interaktive Bewegungs-Performance, die mit kreativen Mitteln Prozesse des Ankommens, des Weiterführens und Weitertragens thematisiert.\nDatum\n6.11.2026, 12:30–13:30 Uhr\nDurchführungsort\nOlten",
-      "date": "6.11.2026",
-      "location": "Olten"
-    },
-    {
-      "name": "Jam-Session im Musikkeller",
-      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/jam-session-cbw",
-      "raw_text": "Konzert\nJam-Session im Musikkeller\nMusik an, Welt aus – lasst uns den Musikkeller mit purem Sound fluten!\nDatum\n6.11.2026, 18:00–21:00 Uhr\nDurchführungsort\nBrugg-Windisch",
-      "date": "6.11.2026",
-      "location": "Brugg-Windisch"
-    },
-    {
-      "name": "Terrain 090: Aykan Safoğlu über Sehnsüchte, Träume und Widersprüche in fotografischen Erzählungen",
-      "url": "https://www.fhnw.ch/de/gestaltung-kunst/aktuelles/veranstaltungen/alle/terrain-090-aykan-safoglu-ueber-sehnsuechte-traeume-und-widersprueche-in-fotografischen-erzaehlungen",
-      "raw_text": "Anderes\nTerrain 090: Aykan Safoğlu über Sehnsüchte, Träume und Widersprüche in fotografischen Erzählungen\nIm Rahmen der 90. Ausgabe von Terrain, dem Veranstaltungsformat des Institute Arts and Design Education (IADE) der HGK Basel, referiert am 9. November 2026 Aykan Safoğlu über Sehnsüchte, Träume und Widersprüche in fotografischen Erzählungen.\nDatum\n9.11.2026, 18:15–19:45 Uhr\nDurchführungsort\nHGK Basek, Aula",
-      "date": "9.11.2026",
       "location": "Basel"
     },
     {
@@ -270,11 +158,11 @@
       "location": "Online"
     },
     {
-      "name": "Netzwerkveranstaltung BSLB: KI in der Beratung - Werkzeug, Störfaktor oder Gamechanger?\n12. November 2026",
-      "url": "https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/ki-in-der-beratung",
-      "raw_text": "Anderes\nNetzwerkveranstaltung BSLB: KI in der Beratung - Werkzeug, Störfaktor oder Gamechanger?\n12. November 2026\nKünstliche Intelligenz verändert die Berufs-, Studien- und Laufbahnberatung. Doch was bedeutet das für Beratung und Ratsuchende?\nDatum\n12.11.2026, 17:15–20:00 Uhr\nDurchführungsort\nOlten",
+      "name": "Beethoven-Akademie VII: Schiller und Beethoven\nVortrag von Wolfgang Lukas (Wuppertal): \"Zwischen Theodizee und Revolution. Schillers 'An die Freude' im Kontext der Spätaufklärung\"",
+      "url": "https://www.fhnw.ch/de/musik/aktuelles/veranstaltungen/alle/beethoven-akademie-vii",
+      "raw_text": "Workshop/Seminar\nBeethoven-Akademie VII: Schiller und Beethoven\nVortrag von Wolfgang Lukas (Wuppertal): \"Zwischen Theodizee und Revolution. Schillers 'An die Freude' im Kontext der Spätaufklärung\"\n12. November 2026, Vortrag und Präsentationen. Mit Wolfgang Lukas und Martin Kirnbauer.\nDatum\n12.11.2026, 17:00–18:00 Uhr\nDurchführungsort\nMusikmuseum Basel",
       "date": "12.11.2026",
-      "location": "Olten"
+      "location": "Basel"
     },
     {
       "name": "Erinnerungsraum: Szenografische Anregungen aus der Kindheit",
@@ -310,6 +198,13 @@
       "raw_text": "Anderes\nSchweizer Erzählnacht 2026: «Stimmen»\nin der Lounge, Campus Muttenz, 12. Stock\n«Zwischen Leben», weitergeschrieben – ein Abend mit Monica Cantieni und Studierenden\nDatum\n13.11.2026, 18:00–20:00 Uhr\nDurchführungsort\nMuttenz",
       "date": "13.11.2026",
       "location": "Muttenz"
+    },
+    {
+      "name": "Abschlusskolloquium «MAS FHNW Digitales Bauen»",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/abschlusskolloquium-mas-fhnw-digitales-bauen",
+      "raw_text": "Ausstellung/Präsentation\nAbschlusskolloquium «MAS FHNW Digitales Bauen»\nBereits zum zwölften Mal treten die Absolvierenden zum Abschlusskolloquium des «MAS FHNW Digitales Bauen» an. In diesem Rahmen geht ihrem präsentieien die Theslinge ihre Abschlussarbeiten vor Fachexpert*innen und einer interessierte Öffentlichkeit. Wir laden Sie herzlich dazu ein, die spannenden Präsentationen über die verschiedenen MAS Thesen zu besuchen.\nDatum\n16.11.2026, 08:30–14:30 Uhr\nDurchführungsort\nRaum 6.4D51",
+      "date": "16.11.2026",
+      "location": ""
     },
     {
       "name": "Terrain 091: Julia Allerstorfer-Hertel über postkoloniale Perspektiven in der Kunstgeschichte",
@@ -419,7 +314,7 @@
     {
       "name": "Circular Solutions for Life Sciences",
       "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/circular-solutions-for-life-sciences",
-      "raw_text": "Ausstellung/Präsentation\nCircular Solutions for Life Sciences\nVernetzung von Innovatoren im Bereich Kreislaufwirtschaft mit Vertretern aus dem Life-Sciences-Sektor\nDatum\n23.11.2026, 16:00–19:00 Uhr\nDurchführungsort\nNovartis Pavilion",
+      "raw_text": "Tagung/Kongress\nCircular Solutions for Life Sciences\nVernetzung von Innovatoren im Bereich Kreislaufwirtschaft mit Vertretern aus dem Life-Sciences-Sektor\nDatum\n23.11.2026, 16:00–19:00 Uhr\nDurchführungsort\nNovartis Pavilion",
       "date": "23.11.2026",
       "location": ""
     },
@@ -585,6 +480,13 @@
       "location": "Olten"
     },
     {
+      "name": "«Hack Apertus» Basel\n4. - 5. Dezember 2026",
+      "url": "https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/hack-apertus-basel",
+      "raw_text": "Anderes\n«Hack Apertus» Basel\n4. - 5. Dezember 2026\nDu möchtest die Möglichkeiten von Künstlicher Intelligenz nicht nur erleben, sondern aktiv mitgestalten?\nDatum\n4.12.2026–5.12.2026, 08:00–22:00 Uhr\nDurchführungsort\nBasel",
+      "date": "4.12.2026",
+      "location": "Basel"
+    },
+    {
       "name": "Still sitzen\nStill sitzen",
       "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/still-sitzen",
       "raw_text": "Anderes\nStill sitzen\nStill sitzen\nDas Theaterlabor gewährt einen Einblick in seine künstlerische Recherche zur Königsdisziplin der Bewegung – dem Stillsitzen.\nDatum\n8.12.2026, 18:15–18:45 Uhr\nDurchführungsort\nBrugg-Windisch",
@@ -611,13 +513,6 @@
       "raw_text": "Anderes\nPodiuMINT / KI im Griff oder im Griff der KI?\nOnline-Podium\nMit Prof. Dr. Lucio Negrini und Prof. Dr. Dennis Komm\nDatum\n11.12.2026, 11:00–12:00 Uhr\nDurchführungsort\nOnline",
       "date": "11.12.2026",
       "location": "Online"
-    },
-    {
-      "name": "Forschungsseminar: Vortrag von Dr. Aurélien Bigot",
-      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/von-nikotin-bis-zu-spinnenpeptiden",
-      "raw_text": "Workshop/Seminar\nForschungsseminar: Vortrag von Dr. Aurélien Bigot\nVon Nikotin bis zu Spinnenpeptiden: Eine gemeinsame Forschungsreise, die auf den nikotinischen Rezeptor von Insekten abzielt und sowohl kleinmolekulare Wirkstoffe als auch Peptide einbezieht - Dr. Aurélien Bigot, Syngenta Biologicals, Leiter des Bereichs Neue Technologien, Forschung im Bereich Bioprodukte\nDatum\n16.12.2026, 12:30–13:15 Uhr\nDurchführungsort\nHörsaal 02.S.21, Campus Muttenz",
-      "date": "16.12.2026",
-      "location": "Muttenz"
     },
     {
       "name": "Building Vessels: IXDM Lab Days 2026 zu Solidarität und Transformation",
@@ -676,13 +571,6 @@
       "location": ""
     },
     {
-      "name": "Im Austausch mit der Pädagogischen Hochschule",
-      "url": "https://www.fhnw.ch/de/ph/aktuelles/veranstaltungen/alle/im-austausch-mit-der-paedagogischen-hochschule-2027",
-      "raw_text": "Tagung/Kongress\nIm Austausch mit der Pädagogischen Hochschule\nDie Hochschulleitung der PH FHNW freut sich Sie zu einem Austausch zum Jahresstart an der PH FHNW begrüssen zu dürfen.\nDatum\n21.1.2027, 18:30–20:00 Uhr\nDurchführungsort\nOlten",
-      "date": "21.1.2027",
-      "location": "Olten"
-    },
-    {
       "name": "Tagung Gruppendynamik & Soziale Arbeit",
       "url": "https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/tagung-gruppendynamik-soziale-arbeit",
       "raw_text": "Tagung/Kongress\nTagung Gruppendynamik & Soziale Arbeit\n«Dann nimm’s doch persönlich – Emotionen und Gefühle in der professionellen Beziehungsgestaltung der Sozialen Arbeit» ist Thema der Tagung Gruppendynamik und Soziale Arbeit, die am 28.-29. Januar 2027 in Muttenz stattfindet.\nDatum\n28.1.2027–29.1.2027, 09:00–13:00 Uhr\nDurchführungsort\nMuttenz",
@@ -697,6 +585,13 @@
       "location": "Muttenz"
     },
     {
+      "name": "Netzwerkveranstaltung BSLB: KI in der Beratung - Werkzeug, Störfaktor oder Gamechanger?\n23. Februar 2027",
+      "url": "https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/ki-in-der-beratung",
+      "raw_text": "Anderes\nNetzwerkveranstaltung BSLB: KI in der Beratung - Werkzeug, Störfaktor oder Gamechanger?\n23. Februar 2027\nKünstliche Intelligenz verändert die Berufs-, Studien- und Laufbahnberatung. Doch was bedeutet das für Beratung und Ratsuchende?\nDatum\n23.2.2027, 17:15–20:00 Uhr\nDurchführungsort\nOlten",
+      "date": "23.2.2027",
+      "location": "Olten"
+    },
+    {
       "name": "Tagung Soziale Innovation 2027",
       "url": "https://www.fhnw.ch/de/soziale-arbeit/aktuelles/veranstaltungen/alle/soziale-innovation-2027",
       "raw_text": "Tagung/Kongress\nTagung Soziale Innovation 2027\n«Gut(es)» Entwickeln in der Sozialen Arbeit. Fachlich fundierte Innovationen im Kontext sich wandelnder Arbeitswelten // Colloque « Innovation sociale 2027 » : comment développer de « bonnes » innovations ?\nDatum\n24.2.2027\nDurchführungsort\nOlten",
@@ -709,6 +604,13 @@
       "raw_text": "Tagung/Kongress\n3. Fachtagung Wirkungen und Soziale Arbeit\nWirkungen im Blick – neue Trends und Zugänge\nDatum\n3.3.2027\nDurchführungsort\nOlten",
       "date": "3.3.2027",
       "location": "Olten"
+    },
+    {
+      "name": "Microplastics.ch - Fachtagung zu Mikroplastik\nTeilnahme als Besucherin/Besucher",
+      "url": "https://www.fhnw.ch/de/technik-umwelt/aktuelles/veranstaltungen/alle/microplastics-fachtagung",
+      "raw_text": "Tagung/Kongress\nMicroplastics.ch - Fachtagung zu Mikroplastik\nTeilnahme als Besucherin/Besucher\nWissenschaftliche Fachtagung zu Mikroplastik: Forschungsergebnisse teilen, Herausforderungen diskutieren und Zusammenarbeit fördern.\nDatum\n12.3.2027, 09:00–19:00 Uhr\nDurchführungsort\n5210 Windisch",
+      "date": "12.3.2027",
+      "location": "Windisch"
     },
     {
       "name": "Kommunikation im Fokus – die Tagung für Assistenzpersonen",
@@ -730,6 +632,13 @@
       "raw_text": "Tagung/Kongress\nNetzwerktreffen Diversitätsorientierte Sprachförderung und DaZ\nAm Netzwerktreffen treffen sich (DaZ-)Lehrpersonen.\nDatum\n3.4.2027, 08:45–13:15 Uhr\nDurchführungsort\nBrugg-Windisch",
       "date": "3.4.2027",
       "location": "Brugg-Windisch"
+    },
+    {
+      "name": "IM2 Research Day 2027",
+      "url": "https://www.fhnw.ch/de/life-sciences/aktuelles/veranstaltungen/alle/im2-research-day-2027",
+      "raw_text": "Ausstellung/Präsentation\nIM2 Research Day 2027\nEntdecken Sie die Zukunft der medizinischen Innovation\nDatum\n13.4.2027, 16:00–20:00 Uhr\nDurchführungsort\nAula, FHNW Campus Muttenz",
+      "date": "13.4.2027",
+      "location": "Muttenz"
     },
     {
       "name": "Mir gäbe alles für es guäts Klima! Schulentwicklungsprojekt der Klimaschule Gelterkinden\nMir gäbe alles für es guäts Klima! Schulentwicklungsprojekt der Klimaschule Gelterkinden",
@@ -786,6 +695,20 @@
       "raw_text": "Anderes\n2. Swiss Sustainable Polymer Conference SSPC\n4.6.2027\nDie Swiss Sustainable Polymer Conference (SSPC) ist die erste schweizweite Austauschplattform zur Vernetzung von Industrie und Wissenschaft im Bereich der nachhaltigen Transformation der Kunststoffindustrie. Neben informativen Vorträgen und Laborführungen bietet die Konferenz Show-Cases innovativer Partner und Start-ups sowie vielfältige Möglichkeiten zum Networking.\nDatum\n4.6.2027, 09:00–17:00 Uhr\nDurchführungsort\nBrugg-Windisch",
       "date": "4.6.2027",
       "location": "Brugg-Windisch"
+    },
+    {
+      "name": "Society 5.0\nJuni 2027",
+      "url": "https://www.fhnw.ch/de/wirtschaft/aktuelles/veranstaltungen/alle/society-5-0",
+      "raw_text": "Tagung/Kongress\nSociety 5.0\nJuni 2027\nKonferenz die zeigt, wie Cyberraum und physischer Raum verschmelzen, um nachhaltige Lösungen zu schaffen.\nDatum\n6.6.2027–9.6.2027\nDurchführungsort\nBasel",
+      "date": "6.6.2027",
+      "location": "Basel"
+    },
+    {
+      "name": "Geomatik Summer School",
+      "url": "https://www.fhnw.ch/de/architektur-bau-geomatik/aktuelles/veranstaltungen/alle/geomatik-summer-school",
+      "raw_text": "Anderes\nGeomatik Summer School\nIn der Geomatik Summer School kannst du während drei Tagen erleben, was Geomatik ist und verschiedene Bereiche der Geomatik vertieft kennenlernen und ausprobieren.\nDatum\n11.8.2027–13.8.2027\nDurchführungsort\nMuttenz",
+      "date": "11.8.2027",
+      "location": "Muttenz"
     }
   ]
 }
